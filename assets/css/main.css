@@ -26,7 +26,7 @@ font & reset css
 @font-face {
   font-family: 'Amasis MT Pro';
   src: url('../webfonts/amasis-mt-medium.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -769,8 +769,8 @@ Banner Style
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding:8% 18% 8% 18%;
-  height: 900px; /* Ensure full width for proper alignment */
+  padding:5% 18% 2% 18%;
+  height: 600px; /* Ensure full width for proper alignment */
   margin-top: 0px;
   text-align: left; /* Align text to the right */
   width: 100%; /* Ensure full width for proper alignment */
@@ -796,19 +796,19 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner/hero1.png);
+  background-image: url(../images/banner/1.png);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner/hero2a.png);
+  background-image: url(../images/banner/2.png);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banner/hero3.png);
+  background-image: url(../images/banner/3.png);
 }
 
 .main-banner .item-4 {
-  background-image: url(../images/banner/hero4.png);
+  background-image: url(../images/banner/4.png);
 }
 
 .main-banner .item span.category {
@@ -884,28 +884,28 @@ Banner Style
 }
 
 .main-banner .item h2.one {
-  font-size: 45px;
+  font-size: 43px;
   font-weight: 700;
   color: #000000;
   line-height: 70px;
-  width: 90%;
+  width: 85%;
   margin-bottom: 0px;
   text-align: left;
   font-family: 'Baguet Script', cursive; 
   margin-left: 45%; /* Adds spacing between buttons */
-  padding: 0 0 15px 0;
+  padding: 0 0 10px 0;
 }
 
 .main-banner .item p.one {
   color: #000000;
-  line-height: 25px;
+  line-height: 20px;
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: justify;
   text-jutify: inter-word;
-  width: 75%;
+  width: 78%;
   margin-left: 45%; /* Adds spacing between buttons */
-  padding: 0 0 15px 0;
+  padding: 0 0 10px 0;
 }
 
 .highlighted-text {
@@ -925,7 +925,6 @@ Banner Style
   font-family: 'Baguet Script', cursive;  /* Apply Dancing Script font */
   text-align: left;
   margin-left: 45%; /* Adds spacing between buttons */
-  padding: 0 0 15px 0;
 }
 
 .main-banner .item h2.two {
@@ -942,11 +941,15 @@ Banner Style
 }
 
 .main-banner .item p.two {
-  color: #ffffff;
-  line-height: 25px;
+  font-size: 17px;
+  font-weight: 100;
+  color: #000000;
   margin-bottom: 0px;
-  text-align: left;
+  text-align: justify;
+  text-jutify: inter-word;
+  line-height: 20px;
   width: 75%;
+  font-family: 'Amasis MT Pro', cursive;  /* Apply Dancing Script font */
   margin-left: 50%; /* Adds spacing between buttons */
   padding: 0 0 15px 0;
 }
@@ -958,7 +961,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: left;
-  margin-left: 55%; /* Adds spacing between buttons */
+  margin-left: 50%; /* Adds spacing between buttons */
 }
 
 .main-banner .item h2.three {
@@ -1010,7 +1013,7 @@ Banner Style
 
 .main-banner .item p {
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 300;
   color: #000000;
   line-height: 30px;
   margin-bottom: 0px;
