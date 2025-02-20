@@ -7,154 +7,394 @@
 
     <?php include "includes/header.php" ?>
 
-    <Main>
-        <div class="main-banner">
-            <div class="owl-carousel owl-banner">
-                <div class="item item-1">
-                    <div class="header-text">
-                        <h2 class="one">Welcome to Self-Transforming Brain!</h2>
-                        <p class="one"><span class="highlighted-text">I’M SERVET EGE</span>, a Certified Rapid Transformational Hypnotherapist, RTT Therapist and Qualified Brain & Finance Coach. I work with Women and Students to help them to discover and unlock the power of their mind and transform their lives. My mission is simple: to empower Women and Students to take control of their thoughts, mindset, and habits so they can live a life that’s not only fulfilling but transformative. Together, we’ll clear emotional blocks, uncover the root causes of the struggles, and create a pathway for lasting growth and success.
 
+    <div class="main-banner">
+        <div class="owl-carousel owl-banner">
+            <div class="item item-1">
+                <div class="header-text">
+                    <h2 class="one">Welcome to Self-Transforming Brain!</h2>
+                    <p class="one"><span class="highlighted-text">I’M SERVET EGE</span>, a Certified Rapid
+                        Transformational Hypnotherapist, RTT Therapist and Qualified Brain & Finance Coach. I work
+                        with Women and Students to help them to discover and unlock the power of their mind and
+                        transform their lives. My mission is simple: to empower Women and Students to take control
+                        of their thoughts, mindset, and habits so they can live a life that’s not only fulfilling
+                        but transformative. Together, we’ll clear emotional blocks, uncover the root causes of the
+                        struggles, and create a pathway for lasting growth and success.
+                    </p>
+                    <h3 class="one">I’m thrilled to have you here and look forward to being a part of your
+                        transformation!
+                    </h3>
+                    <br><br><br>
+                    <span class="category one">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
+                        MORE</span>
+                    <p class="one">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                </div>
+            </div>
+            <div class="item item-2">
+                <div class="header-text">
+                    <br>
+                    <h2 class="two">TRANSFORM YOUR MIND, <br>TRANSFORM YOUR LIFE.</h2>
+                    <p class="two">RTT – Rapid Transformational Therapy is totally unique, powerful and pioneering
+                        therapy based
+                        on Neuroscience that offers fast and effective results by combining the principles and
+                        techniques
+                        of Hypnotherapy, Psychotherapy, NLP - Neurolinguistics Programming and CBT - Cognitive
+                        Behavioural Therapy.
+                    </p>
+                    <br><br><br><br>
+                    <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
+                        MORE</span>
+                    <p class="twodown">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                </div>
+            </div>
+            <div class="item item-3">
+                <div class="header-text"><br>
+                    <p class="three">BRAIN AND SELF-IMAGE COACHING</p>
+                    <h2 class="three">Are You Ready to Break Free from the Past, Step Into Your Power and New Self?
+                    </h2>
+                    <br><br><br><br>
+                    <span class="category three">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
+                        MORE</span>
+                    <p class="three">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                </div>
+            </div>
+            <div class="item item-4">
+                <div class="header-text"><br>
+                    <p class="four">FINANCE AND BUSINESS COACHING</p>
+                    <h2 class="four">SUCCESS BEGINS WITH A GROWTH MINDSET. LET’S CREATE THE LIFE AND BUSINESS YOU
+                        DREAM OF!</h2>
+                    <br><br><br><br>
+                    <span class="category four">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
+                        MORE</span>
+                    <p class="four">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="featured section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="top">
+                        <img src="../assets/images/includes/your_journey.png" alt="">
+                        <p class="one"><span class="highlighted-text">My goal</span> is to help Women in any ages
+                            and students to unlock their full potential, breaking free from limiting beliefs and
+                            achieving a more fulfilling life by providing and using range of techniques such as RTT
+                            Hypnotherapy and Therapy, Brain & Self-Image Coaching and Finance & Business Coaching to
+                            guide them on their own path of self-transformation. Whether you're looking to improve
+                            your mindset, enhance your cognitive abilities, getting rid of your trauma or anxiety or
+                            struggling with low confidence or achieving your<br>life goals, <span
+                                class="highlighted-text">I'm</span> here to guide and support you every step of the
+                            way.
                         </p>
-                        <h3 class="one">I’m thrilled to have you here and look forward to being a part of your transformation!
-                        </h3>
-                        <br><br><br>
-                        <span class="category one">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
-                        <p class="one">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
-                    </div>
-                </div>
-                <div class="item item-2">
-                    <div class="header-text">
-                        <br>
-                        <h2 class="two">TRANSFORM YOUR MIND, <br>TRANSFORM YOUR LIFE.</h2>
-                        <p class="two">RTT – Rapid Transformational Therapy is totally unique, powerful and pioneering therapy based
-                            on Neuroscience that offers fast and effective results by combining the principles and techniques
-                            of Hypnotherapy, Psychotherapy, NLP - Neurolinguistics Programming and CBT - Cognitive
-                            Behavioural Therapy.
+                        <p class="two"> LET’S CONNECT AND CHAT ABOUT HOW CAN I HELP. BOOK YOUR COMPLEMENTARY
+                            DISCOVERY CALL NOW!
                         </p>
-                        <br><br><br><br>
-                        <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
-                        <p class="twodown">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                        <a href="#" class="btn btn-primary">BOOK A FREE DISCOVERY CALL!...</a>
                     </div>
                 </div>
-                <div class="item item-3">
-                    <div class="header-text"><br>
-                        <p class="three">BRAIN AND SELF-IMAGE COACHING</p>
-                        <h2 class="three">Are You Ready to Break Free from the Past, Step Into Your Power and New Self?</h2>
-                        <br><br><br><br>
-                        <span class="category three">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
-                        <p class="three">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
-                    </div>
-                </div>
-                <div class="item item-4">
-                    <div class="header-text"><br>
-                        <p class="four">FINANCE AND BUSINESS COACHING</p>
-                        <h2 class="four">SUCCESS BEGINS WITH A GROWTH MINDSET. LET’S CREATE THE LIFE AND BUSINESS YOU DREAM OF!</h2>
-                        <br><br><br><br>
-                        <span class="category four">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
-                        <p class="four">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
+                <div class="col-lg-12">
+                    <div class="middle">
+                        <img src="../assets/images/includes/you_believe.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="featured section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="left-image">
-                            <img src="../assets/images/featured.jpg" alt="">
-                            <a href="property-details.html"><img src="../assets/images/featured-icon.png" alt=""
-                                    style="max-width: 60px; padding: 0px;"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-5">
-                        <div class="section-heading">
-                            <h6>|Lorem ipsum dolor </h6>
-                            <h2>Lorem &amp; Lorem ipsum dolor</h2>
-                        </div>
-                        <div class="accordion" id="accordionExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                        aria-expanded="true" aria-controls="collapseOne">
-                                        Lorem ipsum dolor?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor <strong>amet, consectetur adipiscing elit, </strong> amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Lorem ipsum dolor?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor <strong>amet, consectetur adipiscing elit, </strong> amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Lorem ipsum dolor?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor <strong>amet, consectetur adipiscing elit, </strong> amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="info-table">
-                            <ul>
-                                <li>
-                                    <img src="../assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                                    <h4>Lorem ipsum<br><span>Lorem ipsum</span></h4>
-                                </li>
-                                <li>
-                                    <img src="../assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
-                                    <h4>Lorem ipsum<br><span>Lorem ipsum</span></h4>
-                                </li>
-                                <li>
-                                    <img src="../assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                                    <h4>Lorem ipsum<br><span>Lorem ipsum</span></h4>
-                                </li>
-                                <li>
-                                    <img src="../assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                                    <h4>Lorem ipsum<br><span>Lorem ipsum</span></h4>
-                                </li>
-                            </ul>
+    <div class="services section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="serviceshead">
+                        <img src="../assets/images/includes/Self-TransformingBrain.png" alt="">
+                        <div class="col-lg-12">
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-12">
+                    <div class="rtthead">
+                        <img src="../assets/images/includes/RttHeader.png" alt="">
+                        <div class="col-lg-12">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="services-grid">
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/1.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>EMPOWERMENT & SELF GROWTH</h3>
+                                    <p>Sexuality/Acceptance – Motivation
+                                        Bullying – Self-Esteem – Confidence
+                                        Procrastination- Relationships-
+                                        Avoidance - Achieving Goals -Rejection
+                                    </p>
+
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/2.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>MENTAL HEALTH </h3>
+                                    <p>Depression – Anxiety – Stress – Fears
+                                        Guilt- Grief – Anger- Panic Attacks
+                                        Phobias – Relaxation – ADHD –
+                                        Insomnia/Sleeping Problems
+                                        Childhood Trauma
+                                    </p>
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/3.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>ADDICTION</h3>
+                                    <p>Smoking- Drinking – Drugs
+                                        Gambling – Compulsive Behaviour
+                                    </p>
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="services-grid">
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/4.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>WEIGHT & BODY IMAGE</h3>
+                                    <p>Bulimia – Food/Diet – Weight Problems
+                                        Anorexia – Eating Problems- Exercise
+                                    </p>
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/5.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>CAREER AND EDUCATION</h3>
+                                    <p>Imposter Syndrome -
+                                        Interview Skills- Career Issues/Blocks-
+                                        Public Speaking- Money Blocks-
+                                        Memory - Concentration/Focus -
+                                        Exams/Tests Nerves- Driving Skills
+                                    </p>
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <div class="service-row">
+                                <div class="service-icon">
+                                    <img src="../assets/images/logos/6.png" alt="Icon">
+                                </div>
+                                <div class="service-content">
+                                    <h3>PHYSICAL HEALTH</h3>
+                                    <p>Pain Control/Relief- Hearing/Vision Problems-
+                                        Mobility- Hair Growth- Skin Problems-
+                                        Migraine
+                                    </p>
+                                    <a href="#" class="discover-more">LEARN MORE →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="cta"> Ready to unlock the full potential of your mind? Let’s connect and schedule a call
+                        to explore how I can help you to thrive!
+                    </p>
+
+                    <p class="workhead"> WORK WITH ME
+                    </p>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="qoute">
+                        <img src="../assets/images/includes/your.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    
+                </div>
+
+
+                <div class="brain_self col-lg-12">
+                    <div class="brain">
+                    <div class="coach">
+                        <img src="../assets/images/includes/coachingheader.png" alt="">
+                    </div>
+                        <img class="head" src="../assets/images/includes/brainheaderw.png" alt="">
+                        <p class="one"><span class="highlighted-text">Brain and Self-image Coaching</span> is a unique
+                            approach that combines neuroscience, Rapid Transformational Therapy, life-coaching and
+                            personal development to help <span class="highlighted-text">Women</span> and <span
+                                class="highlighted-text">Students</span> to transform their negative mindset,
+                            eliminating self -limiting beliefs and fear, improve self-image and unlock their full
+                            potential. In my coaching sessions, individuals will gain valuable insights into how the
+                            brain works, understanding that the brain and self-image are deeply interconnected and
+                            significantly influence how we think, feel, and act. The brain, as we know, is one of the
+                            most complex and fascinating organs in the human body. It controls everything we do, from
+                            breathing to walking to thinking and feeling. Therefore, understanding how the brain works
+                            is crucial and key to our overall physical and mental well-being.
+                        </p>
+                        <p class="two"> “The caterpillar’s humble form doesn’t reveal the magnificence of the butterfly
+                            within—it’s a reminder that transformation is a process, not an instant change.”
+                        </p>
+                        <p class="three"> Servet Ege
+                        </p>
+                        <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
+                        <p class="four"> Are you ready to transform your business and mindset to unlock the doors to
+                            unlimited growth and success?
+                        </p>
+                        <p class="five"> LET’S CHAT. BOOK A FREE CALL NOW!
+
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="finance">
+                        <img src="../assets/images/includes/believe.png" alt="">
+                        <p class="one">My primary goal with <span class="highlighted-text">Finance and Business
+                                Coaching</span> is to equip and empower Women who are business owners, solo
+                            entrepreneurs, or sole traders, as well as those aspiring to startup their own businesses.
+                            Through my coaching sessions, I provide essential business startup information,
+                            recommendations for business IT systems and tools, expert industry insights on finance and
+                            business, as well as tailored business strategies to help clients to build thriving,
+                            profitable businesses while maintaining a healthy work-life balance. I am also committed to
+                            supporting University Students and Graduates, both undergraduates and postgraduates, who are
+                            looking to start a business or grow their family businesses through tailored finance and
+                            business coaching.
+                        </p>
+                        <p class="two"> “Change Your Mindset, Grow Your Business, Transform Your Finances.”
+                        </p>
+                        <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
+                        <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
+                            today and let's schedule a call to ignite your potential!
+                        </p>
+                        <p class="five"> LET’S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="brain">
+                        <img src="../assets/images/includes/yourbrain.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="coming">
+                        <img src="../assets/images/includes/coming.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="coming">
+                        <p class="four">FIND OUT MORE
+                        </p>
+                        <p class="five">BOOK ME FOR SPEAKING OR ATTENDING FOR WORKSHOPS…
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="book">
+                        <img src="../assets/images/includes/book.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <iframe src="https://koalendar.com/e/discovery-call-koa5KYDd" width="100%" height="600px"
+                        style="border: none;">
+                    </iframe>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="book">
+                        <img src="../assets/images/includes/contactme.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <a href="#" class="btn btn-contact">EMAIL OR CONTACT ME </a>
+                </div>
+
+                <div class="col-lg-12">
+                <p class="bookme">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
+                </p>
+                </div>
+
+                <div class="row align-items-center h-100">
+                    <div class="container rounded">
+                        <div class="slider">
+                            <div class="logos">
+                                <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/2.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/3.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/4.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/5.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/6.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/7.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/8.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/9.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/10.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/11.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/12.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/13.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/14.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/15.png" alt="Logo 1" class="logo">
+                                <img src="../assets/images/slideslogo/16.png" alt="Logo 1" class="logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
             </div>
         </div>
-    </Main>
 
-    <?php include "includes/footer.php" ?>
+        </Main>
 
-    <!-- Scripts -->
-    <!-- Bootstrap core JavaScript -->
-    <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="../assets/js/isotope.min.js"></script>
-    <script src="../assets/js/owl-carousel.js"></script>
-    <script src="../assets/js/counter.js"></script>
-    <script src="../assets/js/custom.js"></script>
+        <?php include "includes/footer.php" ?>
+
+        <!-- Scripts -->
+        <!-- Bootstrap core JavaScript -->
+        <script src="../vendor/jquery/jquery.min.js"></script>
+        <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+        <script src="../assets/js/isotope.min.js"></script>
+        <script src="../assets/js/owl-carousel.js"></script>
+        <script src="../assets/js/counter.js"></script>
+        <script src="../assets/js/custom.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
