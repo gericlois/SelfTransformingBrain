@@ -480,7 +480,7 @@ Header Style
 .header-area {
   position: relative;
   background-color: #ffffff;
-  height: 70px;
+  height: 60px;
   z-index: 90;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
@@ -525,7 +525,7 @@ Header Style
   padding-right: 1px;
   padding-bottom: 10px;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 8px;
   text-transform: capitalize;
   color: #1e1e1e;
@@ -840,7 +840,7 @@ Banner Style
   padding: 6px 15px;
   display: inline-block;
   margin-bottom: 30px;
-  border-radius: 8px;
+  border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
   margin-left: 45%; /* Adds spacing between buttons */
 }
@@ -869,7 +869,7 @@ Banner Style
   text-transform: capitalize;
   padding: 6px 15px;
   display: inline-block;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   border-radius: 8px;
   display: inline-block; /* Ensures they align properly */
 }
@@ -883,8 +883,8 @@ Banner Style
   text-transform: capitalize;
   padding: 6px 15px;
   display: inline-block;
-  margin-bottom: 30px;
-  border-radius: 8px;
+  margin-bottom: 25px;
+  border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
 }
 
@@ -1104,8 +1104,10 @@ Banner Style
 Featured Style
 --------------------------------------------- 
 */
+
 .featured {
   text-align: center;
+  padding: 20px 0px 20px 0px;
 }
 
 
@@ -1115,8 +1117,6 @@ Featured Style
   width: 80%;
   height: auto;
   padding: 0;
-  box-shadow: none;
-  border-radius: 0;
 }
 
 .featured .top p.one{
@@ -1147,8 +1147,8 @@ Featured Style
 
 .featured .btn-primary {
   display: inline-block;
-  background-color: #F60017;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #F60017;  
+  color: #ffffff; 
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1161,7 +1161,8 @@ Featured Style
   display: block;
   width: 100%;
   height: auto;
-  padding-top: 100px;
+  padding: 45px;
+  padding-top: 80px;
 }
 
 
@@ -1174,7 +1175,8 @@ Services_Intro Style
 
 .services_intro {
   background-color: #e8e4e4;
-  padding: 20px 0px 20px 0px;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
 }
 
 
@@ -1252,7 +1254,7 @@ Services_Intro Style
 }
 
 .services_intro .cta {
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.3;
   font-weight: 400;
   font-style: italic;
@@ -1275,7 +1277,7 @@ Services_Intro Style
   font-family: "Calibri", sans-serif;
 }
 
-.services .qoute img {
+.services_intro .qoute img {
   display: block;
   margin: 0 auto;
   width: 90%;
@@ -1284,6 +1286,18 @@ Services_Intro Style
   padding-top: 30px;
 }
 
+.services_intro span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-bottom: 30px;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
+}
 
 /* 
 ---------------------------------------------
@@ -1293,37 +1307,34 @@ Services_Brain Style
 
 .services_brain {
   background-color: #f1e8d9;
-  padding: 20px 0px 20px 0px;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
 }
 
-.services_brain .brain .coach img {
+.services_brain .brainleft img {
   display: block;
   margin: 0 auto;
-  width: 30%;
+  width: 90%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 80px;
+  background-color: #46320f;
 }
 
-.services_brain .brain img.head {
+.services_brain .brainright img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 80%;
   height: auto;
-  padding: 0;
-  box-shadow: none;
-  border-radius: 0;
-  padding-top: 50px;
+  max-width: 100%; 
+  height: auto; 
 }
 
-.services_brain .brain p.one{
+.services_brain .brainright p.one{
   font-size: 18px;
   line-height: 1.3;
   color: #333;
-  padding: 0 70px;
   border-radius: 8px;
   text-align: center;
-  padding-top: 50px;
   
 }
 
@@ -1364,7 +1375,6 @@ Services_Brain Style
   border-radius: 25px;
   text-align: left;
   transition: background-color 0.3s ease;
-  margin-left: 6%; /* Adds spacing between buttons */
   
 }
 .services_brain .brain p.four{
@@ -1376,20 +1386,21 @@ Services_Brain Style
   text-align: left;
   font-family: "Calibri", sans-serif;
   font-style: italic;
-  padding: 60px 70px 0px 70px;
+  padding: 40px 70px 40px 70px;
 }
 
-.services_brain .brain p.five{
-  font-size: 18px;
-  line-height: 1.3;
+.services_brain span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 700;
-  color: #F60017;
-  border-radius: 8px;
-  text-align: left;
-  font-family: "Calibri", sans-serif;
-  padding: 10px 70px 0px 70px;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-bottom: 30px;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
 }
-
 /* 
 ---------------------------------------------
 Services_Finance Style
@@ -1397,38 +1408,38 @@ Services_Finance Style
 */
 .services_finance {
   background-color: #e5e4e3;
-  padding: 20px 0px 20px 0px;
+  padding: 50px 0px 50px 0px;
+  text-align: left;
 }
 
-.services_finance .believe img {
+.services_finance .financeleft img {
   display: block;
   margin: 0 auto;
-  width: 53%;
-  max-width: 100%; 
-  height: auto; 
-  padding-top: 120px;
+  width: 70%;
+  height: auto;
 }
-
 
 .services_finance .finance img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 70%;
   height: auto;
-  padding: 0;
-  box-shadow: none;
-  border-radius: 0;
-  padding-top: 120px;
 }
+
+.services_finance .highlighted-text {
+  color: #000000;
+  font-weight: bold;
+}
+
+
 
 .services_finance .finance p.one{
   font-size: 18px;
   line-height: 1.3;
   color: #333;
-  padding: 0 70px;
   border-radius: 8px;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 10px;
   
 }
 
@@ -1458,7 +1469,7 @@ Services_Finance Style
   display: inline-block;
   background-color: #571b4c;  /* Customize button background color */
   color: #ffffff;  /* Text color */
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
@@ -1477,18 +1488,21 @@ Services_Finance Style
   text-align: left;
   font-family: "Calibri", sans-serif;
   font-style: italic;
-  padding: 40px 70px 0px 70px;
+  padding: 40px 70px 40px 70px;
 }
 
-.services_finance .finance p.five{
-  font-size: 18px;
-  line-height: 1.3;
+.services_finance span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 700;
-  color: #F60017;
-  border-radius: 8px;
-  text-align: left;
-  font-family: "Calibri", sans-serif;
-  padding: 40px 70px 0px 70px;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-bottom: 30px;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
+  margin-left: 6%; /* Adds spacing between buttons */
 }
 
 .services_finance .brain img {
@@ -1497,8 +1511,9 @@ Services_Finance Style
   width: 90%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 40px;
 }
+
+
 
 /* 
 ---------------------------------------------
@@ -1506,50 +1521,59 @@ Services_Outro Style
 --------------------------------------------- 
 */
 
+.services_outro {
+  background-color: #e5e4e3;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
+}
+
 .services_outro .coming img {
   display: block;
   margin: 0 auto;
   width: 50%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 80px;
 }
 
-.services_outro .coming p.four{
-  font-size: 20px;
-  line-height: 1.3;
+.services_outro span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 700;
-  color: #F60017;
-  border-radius: 8px;
-  text-align: center;
-  font-family: "Calibri", sans-serif;
-  padding: 30px 70px 0px 70px;
+  text-transform: capitalize;
+  padding: 6px 100px;
+  display: inline-block;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
 }
 
-.services_outro .coming p.five{
-  font-size: 18px;
-  line-height: 1.3;
+.services_outro span.transparent {
+  background-color: transparent;
+  border: 2px solid #F60017; /* Border color is the same as the original background */
+  color: #F60017; /* Text color to match the border */
+  font-size: 16px;
   font-weight: 700;
-  color: #F60017;
-  border-radius: 8px;
-  text-align: center;
-  font-family: "Calibri", sans-serif;
-  padding: 10px 70px 0px 70px;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-bottom: 25px;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
 }
 
 .services_outro .book img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 60%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 100px;
+  padding: 40px 0px 30px 0px;
 }
 
 .services_outro .contactme img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 70%;
   max-width: 100%; 
   height: auto; 
   padding-top: 100px;
@@ -1563,57 +1587,55 @@ Services_Outro Style
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
-  text-align: center;
   transition: background-color 0.3s ease;
-  margin-left: 43%; /* Adds spacing between buttons */
-  
 }
 
-.services_outro p.bookme{
-  font-size: 22px;
+.services_outro p.slide{
+  font-size: 26px;
   line-height: 1.3;
-  font-weight: 400;
+  font-weight: 700;
   color: #1f1f1f;
   border-radius: 8px;
   text-align: center;
   font-family: "Calibri", sans-serif;
-  padding: 100px 70px 0px 70px;
+  padding: 70px 70px 0px 70px;
 }
 
 .slider {
-  animation: slidein 30s linear infinite;
+  display: flex;
+  overflow: hidden;
   white-space: nowrap;
-  
-  .logos {
-    width:17%;
-    display: inline-block;
-    margin: 0px 0;
-    .fab {
-      width: calc(100% / 5);
-      animation: fade-in 0.5s 
-        cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-    }
+  padding: 20px 0;
+  position: relative;
+}
+
+/* LOGOS WRAPPER */
+.logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  animation: slidein 120s linear infinite;
+}
+
+/* INDIVIDUAL LOGOS */
+.logos img {
+  height: 150px;  /* Adjust height as needed */
+  width: auto;  /* Keeps aspect ratio */
+  margin: 0 15px;
+  object-fit: contain; /* Prevents distortion */
+}
+
+/* SLIDING ANIMATION */
+@keyframes slidein {
+  from {
+      transform: translateX(0);
+  }
+  to {
+      transform: translateX(-100%);
   }
 }
 
-
-@keyframes slidein {
-from {
-  transform: translate3d(0, 0, 0);
-}
-to {
-  transform: translate3d(-100%, 0, 0);
-}
-}
-
-@keyframes fade-in {
-0% {
-  opacity: 0;
-}
-100% {
-  opacity: 1;
-}
-}
 
 /* 
 
@@ -1627,7 +1649,6 @@ footer.footer-no-gap {
 }
 
 footer {
-  margin-top: 150px;
   background-color: #F60017;
   min-height: 100px;
 }
@@ -1658,6 +1679,17 @@ footer p a:hover {
   opacity: 0.75;
 }
 
+span.button {
+  background-color: #ffffff;
+  color: #F60017;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 4px 15px;
+  display: inline-block;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
+}
 
 /* 
 ---------------------------------------------

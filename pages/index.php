@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<lang="en">
 
-<?php include "includes/head.php" ?>
-
-<>
+    <?php include "includes/head.php" ?>
 
     <?php include "includes/header.php" ?>
-
 
     <div class="main-banner">
         <div class="owl-carousel owl-banner">
@@ -42,8 +39,7 @@
                         Behavioural Therapy.
                     </p>
                     <br><br><br><br>
-                    <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
-                        MORE</span>
+                    <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
                     <p class="twodown">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
             </div>
@@ -70,324 +66,380 @@
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="featured section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="top">
-                        <img src="../assets/images/includes/your_journey.png" alt="">
-                        <p class="one"><span class="highlighted-text">My goal</span> is to help Women in any ages
-                            and students to unlock their full potential, breaking free from limiting beliefs and
-                            achieving a more fulfilling life by providing and using range of techniques such as RTT
-                            Hypnotherapy and Therapy, Brain & Self-Image Coaching and Finance & Business Coaching to
-                            guide them on their own path of self-transformation. Whether you're looking to improve
-                            your mindset, enhance your cognitive abilities, getting rid of your trauma or anxiety or
-                            struggling with low confidence or achieving your<br>life goals, <span
-                                class="highlighted-text">I'm</span> here to guide and support you every step of the
-                            way.
-                        </p>
-                        <p class="two"> LET’S CONNECT AND CHAT ABOUT HOW CAN I HELP. BOOK YOUR COMPLEMENTARY
-                            DISCOVERY CALL NOW!
-                        </p>
-                        <a href="#" class="btn btn-primary">BOOK A FREE DISCOVERY CALL!...</a>
+        <div class="featured section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="top">
+                            <img src="../assets/images/includes/your_journey.png" alt="">
+                            <p class="one"><span class="highlighted-text">My goal</span> is to help Women in any ages
+                                and students to unlock their full potential, breaking free from limiting beliefs and
+                                achieving a more fulfilling life by providing and using range of techniques such as RTT
+                                Hypnotherapy and Therapy, Brain & Self-Image Coaching and Finance & Business Coaching to
+                                guide them on their own path of self-transformation. Whether you're looking to improve
+                                your mindset, enhance your cognitive abilities, getting rid of your trauma or anxiety or
+                                struggling with low confidence or achieving your<br>life goals, <span
+                                    class="highlighted-text">I'm</span> here to guide and support you every step of the
+                                way.
+                            </p>
+                            <p class="two"> LET’S CONNECT AND CHAT ABOUT HOW I CAN HELP. BOOK YOUR COMPLIMENTARY
+                                DISCOVERY CALL NOW!
+                            </p>
+                            <a href="#" class="btn btn-primary">BOOK A FREE DISCOVERY CALL!...</a>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="middle">
-                        <img src="../assets/images/includes/you_believe.png" alt="">
+                    <div class="col-lg-12">
+                        <div class="middle">
+                            <img src="../assets/images/includes/you_believe2.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="services_intro section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="serviceshead">
-                        <img src="../assets/images/includes/Self-TransformingBrain.png" alt="">
-                        <div class="col-lg-12">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-12">
-                    <div class="rtthead">
-                        <img src="../assets/images/includes/RttHeader.png" alt="">
-                        <div class="col-lg-12">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-12">
-                    <div class="services-grid">
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/1.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>EMPOWERMENT & SELF GROWTH</h3>
-                                    <p>Sexuality/Acceptance – Motivation
-                                        Bullying – Self-Esteem – Confidence
-                                        Procrastination- Relationships-
-                                        Avoidance - Achieving Goals -Rejection
-                                    </p>
-
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/2.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>MENTAL HEALTH </h3>
-                                    <p>Depression – Anxiety – Stress – Fears
-                                        Guilt- Grief – Anger- Panic Attacks
-                                        Phobias – Relaxation – ADHD –
-                                        Insomnia/Sleeping Problems
-                                        Childhood Trauma
-                                    </p>
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/3.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>ADDICTION</h3>
-                                    <p>Smoking- Drinking – Drugs
-                                        Gambling – Compulsive Behaviour
-                                    </p>
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
+        <div class="services_intro section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="serviceshead">
+                            <img src="../assets/images/includes/Self-TransformingBrain.png" alt="">
+                            <div class="col-lg-12">
                             </div>
                         </div>
                     </div>
 
-                    <div class="services-grid">
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/4.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>WEIGHT & BODY IMAGE</h3>
-                                    <p>Bulimia – Food/Diet – Weight Problems
-                                        Anorexia – Eating Problems- Exercise
-                                    </p>
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/5.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>CAREER AND EDUCATION</h3>
-                                    <p>Imposter Syndrome -
-                                        Interview Skills- Career Issues/Blocks-
-                                        Public Speaking- Money Blocks-
-                                        Memory - Concentration/Focus -
-                                        Exams/Tests Nerves- Driving Skills
-                                    </p>
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="service-item">
-                            <div class="service-row">
-                                <div class="service-icon">
-                                    <img src="../assets/images/logos/6.png" alt="Icon">
-                                </div>
-                                <div class="service-content">
-                                    <h3>PHYSICAL HEALTH</h3>
-                                    <p>Pain Control/Relief- Hearing/Vision Problems-
-                                        Mobility- Hair Growth- Skin Problems-
-                                        Migraine
-                                    </p>
-                                    <a href="#" class="discover-more">LEARN MORE →</a>
-                                </div>
+                    <div class="col-lg-12">
+                        <div class="rtthead">
+                            <img src="../assets/images/includes/RttHeader.png" alt="">
+                            <div class="col-lg-12">
                             </div>
                         </div>
                     </div>
 
-                    <p class="cta"> Ready to unlock the full potential of your mind? Let’s connect and schedule a call
-                        to explore how I can help you to thrive!
-                    </p>
+                    <div class="col-lg-12">
+                        <div class="services-grid">
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/1.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>EMPOWERMENT & SELF GROWTH</h3>
+                                        <p>Sexuality/Acceptance – Motivation
+                                            Bullying – Self-Esteem – Confidence -
+                                            Procrastination- Relationships-
+                                            Avoidance - Achieving Goals -Rejection
+                                        </p>
 
-                    <p class="workhead"> WORK WITH ME
-                    </p>
-                </div>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
 
-                <div class="col-lg-12">
-                    <div class="qoute">
-                        <img src="../assets/images/includes/your.png" alt="">
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/2.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>MENTAL HEALTH </h3>
+                                        <p>Depression – Anxiety – Stress – Fears -
+                                            Guilt- Grief – Anger- Panic Attacks -
+                                            Phobias – Relaxation – ADHD –
+                                            Insomnia/Sleeping Problems
+                                            Childhood Trauma
+                                        </p>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/3.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>ADDICTION</h3>
+                                        <p>Smoking- Drinking – Drugs
+                                            Gambling – Compulsive Behaviour
+                                        </p>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="services-grid">
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/4.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>WEIGHT & BODY IMAGE</h3>
+                                        <p>Bulimia – Food/Diet – Weight Problems
+                                            Anorexia – Eating Problems- Exercise
+                                        </p>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/5.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>CAREER AND EDUCATION</h3>
+                                        <p>Imposter Syndrome -
+                                            Interview Skills- Career Issues/Blocks-
+                                            Public Speaking- Money Blocks-
+                                            Memory - Concentration/Focus -
+                                            Exams/Tests Nerves- Driving Skills
+                                        </p>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="service-item">
+                                <div class="service-row">
+                                    <div class="service-icon">
+                                        <img src="../assets/images/logos/6.png" alt="Icon">
+                                    </div>
+                                    <div class="service-content">
+                                        <h3>PHYSICAL HEALTH</h3>
+                                        <p>Pain Control/Relief- Hearing/Vision Problems-
+                                            Mobility- Hair Growth- Skin Problems-
+                                            Migraine
+                                        </p>
+                                        <a href="#" class="discover-more">LEARN MORE →</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p class="cta"> Ready to unlock the full potential of your mind? Let’s connect and schedule a
+                            call
+                            to explore how I can help you to thrive!
+                        </p>
+
+                        <span class="button">WORK WITH ME</span>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="qoute">
+                            <img src="../assets/images/includes/your.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="services_brain section">
-        <div class="container">
-            <div class="row">
-                <div class="brain_self col-lg-12">
-                    <div class="brain">
-                        <div class="coach">
-                            <img src="../assets/images/includes/coachingheader.png" alt="">
+        <div class="services_brain section">
+            <div class="container">
+                <div class="row align-items-left">
+                    <!-- Left Column: Image -->
+                    <div class="col-lg-6 col-md-12">
+                        <div class="brainleft">
+                            <img src="../assets/images/includes/butterfly.jpg" alt="">
                         </div>
-                        <img class="head" src="../assets/images/includes/brainheaderw.png" alt="">
-                        <p class="one"><span class="highlighted-text">Brain and Self-image Coaching</span> is a unique
-                            approach that combines neuroscience, Rapid Transformational Therapy, life-coaching and
-                            personal development to help <span class="highlighted-text">Women</span> and <span
-                                class="highlighted-text">Students</span> to transform their negative mindset,
-                            eliminating self -limiting beliefs and fear, improve self-image and unlock their full
-                            potential. In my coaching sessions, individuals will gain valuable insights into how the
-                            brain works, understanding that the brain and self-image are deeply interconnected and
-                            significantly influence how we think, feel, and act. The brain, as we know, is one of the
-                            most complex and fascinating organs in the human body. It controls everything we do, from
-                            breathing to walking to thinking and feeling. Therefore, understanding how the brain works
-                            is crucial and key to our overall physical and mental well-being.
-                        </p>
-                        <p class="two"> “The caterpillar’s humble form doesn’t reveal the magnificence of the butterfly
-                            within—it’s a reminder that transformation is a process, not an instant change.”
-                        </p>
-                        <p class="three"> Servet Ege
-                        </p>
-                        <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
-                        <p class="four"> Are you ready to transform your business and mindset to unlock the doors to
-                            unlimited growth and success?
-                        </p>
-                        <p class="five"> LET’S CHAT. BOOK A FREE CALL NOW!
+                    </div>
 
-                        </p>
+                    <!-- Right Column: Text Content -->
+                    <div class="col-lg-6 col-md-12">
+                        <div class="brainright">
+                            <img src="../assets/images/includes/brain.png" alt="">
+                            <p class="one"><span class="highlighted-text">Brain and Self-image Coaching</span> is a
+                                unique
+                                approach that combines neuroscience, Rapid Transformational Therapy, life-coaching and
+                                personal development to help <span class="highlighted-text">Women</span> and <span
+                                    class="highlighted-text">Students</span> to transform their negative mindset,
+                                eliminating self -limiting beliefs and fear, improve self-image and unlock their full
+                                potential. In my coaching sessions, individuals will gain valuable insights into how the
+                                brain works, understanding that the brain and self-image are deeply interconnected and
+                                significantly influence how we think, feel, and act. The brain, as we know, is one of
+                                the
+                                most complex and fascinating organs in the human body. It controls everything we do,
+                                from
+                                breathing to walking to thinking and feeling. Therefore, understanding how the brain
+                                works
+                                is crucial and key to our overall physical and mental well-being.
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-12">
+                        <div class="brain">
+                            <p class="two"> “The caterpillar’s humble form doesn’t reveal the magnificence of the
+                                butterfly
+                                within—it’s a reminder that transformation is a process, not an instant change.”
+                            </p>
+                            <p class="three"> Servet Ege </p>
+                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
+
+                            <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
+                                today
+                                and let's schedule a call to ignite your potential!
+                            </p>
+
+                            <span class="button">LET’S CHAT. BOOK A FREE CALL NOW!</span>
+
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="services_finance section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="finance">
-                        <img src="../assets/images/includes/believe.png" alt="">
-                        <p class="one">My primary goal with <span class="highlighted-text">Finance and Business
-                                Coaching</span> is to equip and empower Women who are business owners, solo
-                            entrepreneurs, or sole traders, as well as those aspiring to startup their own businesses.
-                            Through my coaching sessions, I provide essential business startup information,
-                            recommendations for business IT systems and tools, expert industry insights on finance and
-                            business, as well as tailored business strategies to help clients to build thriving,
-                            profitable businesses while maintaining a healthy work-life balance. I am also committed to
-                            supporting University Students and Graduates, both undergraduates and postgraduates, who are
-                            looking to start a business or grow their family businesses through tailored finance and
-                            business coaching.
-                        </p>
-                        <p class="two"> “Change Your Mindset, Grow Your Business, Transform Your Finances.”
-                        </p>
-                        <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
-                        <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
-                            today and let's schedule a call to ignite your potential!
-                        </p>
-                        <p class="five"> LET’S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!
-                        </p>
+        <div class="services_finance section">
+            <div class="container">
+                <div class="row align-items-left">
+                    <!-- Left Column: Image -->
+                    <div class="col-lg-6 col-md-12">
+                        <div class="brain">
+                            <img src="../assets/images/includes/believe.png" alt="">
+                        </div>
                     </div>
-                </div>
 
-                <div class="col-lg-12">
-                    <div class="brain">
-                        <img src="../assets/images/includes/yourbrain.png" alt="">
+                    <!-- Right Column: Text Content -->
+                    <div class="col-lg-6 col-md-12">
+                        <div class="finance">
+                            <img src="../assets/images/includes/finance.png" alt="">
+                            <p class="one">My primary goal with <span class="highlighted-text">Finance and Business
+                                    Coaching</span> is to equip and empower <span class="highlighted-text">Women</span>
+                                who
+                                are
+                                business owners, solo
+                                entrepreneurs, or sole traders, as well as those aspiring to startup their own
+                                businesses.
+                                Through my coaching sessions, I provide essential business startup information,
+                                recommendations for business IT systems and tools, expert industry insights on finance
+                                and
+                                business, as well as tailored business strategies to help clients to build thriving,
+                                profitable businesses while maintaining a healthy work-life balance. I am also committed
+                                to
+                                supporting <span class="highlighted-text">University Students and Graduates</span>, both
+                                undergraduates and postgraduates, who are
+                                looking to start a business or grow their family businesses through tailored finance and
+                                business coaching.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="finance">
+                            <p class="two"> “Change Your Mindset, Grow Your Business, Transform Your Finances.”
+                            </p>
+                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
+                            <p class="four"> Are you ready to transform your business and mindset to unlock the doors to
+                                unlimited growth and success?
+
+                            </p>
+                            <span class="button">LET’S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!</span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="brain">
+                            <img src="../assets/images/includes/yourbrain.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="services_outro section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="coming">
-                        <img src="../assets/images/includes/coming.png" alt="">
+
+        <div class="services_outro section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="coming">
+                            <img src="../assets/images/includes/coming.png" alt="">
+                        </div>
                     </div>
-                </div>
 
-                <div class="col-lg-12">
-                    <div class="coming">
-                        <p class="four">FIND OUT MORE
+                    <div class="col-lg-12">
+                        <div class="coming">
+                            <span class="button">FIND OUT MORE</span> <span class="transparent">BOOK ME FOR SPEAKING OR
+                                ATTENDING FOR WORKSHOPS…</span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="book">
+                            <img src="../assets/images/includes/book.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <iframe src="https://koalendar.com/e/discovery-call-koa5KYDd" width="100%" height="600px"
+                            style="border: none;">
+                        </iframe>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="contactme">
+                            <img src="../assets/images/includes/contactme.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <a href="#" class="btn btn-contact">EMAIL OR CONTACT ME </a>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <p class="slide">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
                         </p>
-                        <p class="five">BOOK ME FOR SPEAKING OR ATTENDING FOR WORKSHOPS…
-                        </p>
                     </div>
-                </div>
 
-                <div class="col-lg-12">
-                    <div class="book">
-                        <img src="../assets/images/includes/book.png" alt="">
-                    </div>
-                </div>
+                    <div class="row align-items-center h-100">
+                        <div class="container rounded">
+                            <div class="slider">
+                                <div class="logos">
+                                    <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
+                                    <img src="../assets/images/slideslogo/2.png" alt="Logo 2" class="logo">
+                                    <img src="../assets/images/slideslogo/3.png" alt="Logo 3" class="logo">
+                                    <img src="../assets/images/slideslogo/4.png" alt="Logo 4" class="logo">
+                                    <img src="../assets/images/slideslogo/5.png" alt="Logo 5" class="logo">
+                                    <img src="../assets/images/slideslogo/6.png" alt="Logo 6" class="logo">
+                                    <img src="../assets/images/slideslogo/7.png" alt="Logo 7" class="logo">
+                                    <img src="../assets/images/slideslogo/8.png" alt="Logo 8" class="logo">
+                                    <img src="../assets/images/slideslogo/9.png" alt="Logo 9" class="logo">
+                                    <img src="../assets/images/slideslogo/10.png" alt="Logo 10" class="logo">
+                                    <img src="../assets/images/slideslogo/11.png" alt="Logo 11" class="logo">
+                                    <img src="../assets/images/slideslogo/12.png" alt="Logo 12" class="logo">
+                                    <img src="../assets/images/slideslogo/13.png" alt="Logo 13" class="logo">
+                                    <img src="../assets/images/slideslogo/14.png" alt="Logo 14" class="logo">
+                                    <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
+                                    <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
 
-                <div class="col-lg-12">
-                    <iframe src="https://koalendar.com/e/discovery-call-koa5KYDd" width="100%" height="600px"
-                        style="border: none;">
-                    </iframe>
-                </div>
-
-                <div class="col-lg-12">
-                    <div class="book">
-                        <img src="../assets/images/includes/contactme.png" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-12">
-                    <a href="#" class="btn btn-contact">EMAIL OR CONTACT ME </a>
-                </div>
-
-                <div class="col-lg-12">
-                    <p class="bookme">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
-                    </p>
-                </div>
-
-                <div class="row align-items-center h-100">
-                    <div class="container rounded">
-                        <div class="slider">
-                            <div class="logos">
-                                <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/2.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/3.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/4.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/5.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/6.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/7.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/8.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/9.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/10.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/11.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/12.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/13.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/14.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/15.png" alt="Logo 1" class="logo">
-                                <img src="../assets/images/slideslogo/16.png" alt="Logo 1" class="logo">
+                                    <!-- Duplicate logos to ensure seamless looping -->
+                                    <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
+                                    <img src="../assets/images/slideslogo/2.png" alt="Logo 2" class="logo">
+                                    <img src="../assets/images/slideslogo/3.png" alt="Logo 3" class="logo">
+                                    <img src="../assets/images/slideslogo/4.png" alt="Logo 4" class="logo">
+                                    <img src="../assets/images/slideslogo/5.png" alt="Logo 5" class="logo">
+                                    <img src="../assets/images/slideslogo/6.png" alt="Logo 6" class="logo">
+                                    <img src="../assets/images/slideslogo/7.png" alt="Logo 7" class="logo">
+                                    <img src="../assets/images/slideslogo/8.png" alt="Logo 8" class="logo">
+                                    <img src="../assets/images/slideslogo/9.png" alt="Logo 9" class="logo">
+                                    <img src="../assets/images/slideslogo/10.png" alt="Logo 10" class="logo">
+                                    <img src="../assets/images/slideslogo/11.png" alt="Logo 11" class="logo">
+                                    <img src="../assets/images/slideslogo/12.png" alt="Logo 12" class="logo">
+                                    <img src="../assets/images/slideslogo/13.png" alt="Logo 13" class="logo">
+                                    <img src="../assets/images/slideslogo/14.png" alt="Logo 14" class="logo">
+                                    <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
+                                    <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
+                                </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -409,4 +461,4 @@
 
     </body>
 
-</html>
+    </html>
