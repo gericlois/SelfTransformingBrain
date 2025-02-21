@@ -241,6 +241,12 @@
 
         <div class="services_brain section">
             <div class="container">
+                <div class="col-lg-12">
+                    <div class="coach">
+                        <img src="../assets/images/includes/coachingheader.png" alt="">
+                    </div>
+                </div>
+
                 <div class="row align-items-left">
                     <!-- Left Column: Image -->
                     <div class="col-lg-6 col-md-12">
@@ -269,6 +275,7 @@
                                 works
                                 is crucial and key to our overall physical and mental well-being.
                             </p>
+                            <a href="#" class="btn btn-primary">LEARN ABOUT BRAIN AND SELF-IMAGE COACHING</a>
                         </div>
                     </div>
 
@@ -279,9 +286,7 @@
                                 butterfly
                                 within—it’s a reminder that transformation is a process, not an instant change.”
                             </p>
-                            <p class="three"> Servet Ege </p>
-                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
-
+                            <p class="three" align-items-center> Servet Ege </p>
                             <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
                                 today
                                 and let's schedule a call to ignite your potential!
@@ -301,14 +306,14 @@
                 <div class="row align-items-left">
                     <!-- Left Column: Image -->
                     <div class="col-lg-6 col-md-12">
-                        <div class="brain">
+                        <div class="financeleft">
                             <img src="../assets/images/includes/believe.png" alt="">
                         </div>
                     </div>
 
                     <!-- Right Column: Text Content -->
                     <div class="col-lg-6 col-md-12">
-                        <div class="finance">
+                        <div class="financeright">
                             <img src="../assets/images/includes/finance.png" alt="">
                             <p class="one">My primary goal with <span class="highlighted-text">Finance and Business
                                     Coaching</span> is to equip and empower <span class="highlighted-text">Women</span>
@@ -328,6 +333,7 @@
                                 looking to start a business or grow their family businesses through tailored finance and
                                 business coaching.
                             </p>
+                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
                         </div>
                     </div>
 
@@ -335,12 +341,11 @@
                         <div class="finance">
                             <p class="two"> “Change Your Mindset, Grow Your Business, Transform Your Finances.”
                             </p>
-                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
                             <p class="four"> Are you ready to transform your business and mindset to unlock the doors to
                                 unlimited growth and success?
 
                             </p>
-                            <span class="button">LET’S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!</span>
+                            <span class="button">LEARN ABOUT FINANCE AND BUSINESS COACHING</span>
                         </div>
                     </div>
 
@@ -365,7 +370,8 @@
 
                     <div class="col-lg-12">
                         <div class="coming">
-                            <span class="button">FIND OUT MORE</span> <span class="transparent">BOOK ME FOR SPEAKING OR
+                            <span class="button">FIND OUT MORE</span><br><br>
+                            <span class="transparent">BOOK ME FOR SPEAKING OR
                                 ATTENDING FOR WORKSHOPS…</span>
                         </div>
                     </div>

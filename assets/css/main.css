@@ -842,23 +842,23 @@ Banner Style
   margin-bottom: 30px;
   border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
-  margin-left: 45%; /* Adds spacing between buttons */
+  margin-left: 45%; 
 }
 
 .main-banner .item span.category.one {
-  margin-left: 45%; /* Adds spacing between buttons */
+  margin-left: 45%; 
 }
 
 .main-banner .item span.category.two {
-  margin-left: 50%; /* Adds spacing between buttons */
+  margin-left: 50%; 
 }
 
 .main-banner .item span.category.three {
-  margin-left: 0%; /* Adds spacing between buttons */
+  margin-left: 0%; 
 }
 
 .main-banner .item span.category.four {
-  margin-left: 40%; /* Adds spacing between buttons */
+  margin-left: 40%; 
 }
 
 .main-banner .item span.categorythree {
@@ -912,7 +912,7 @@ Banner Style
   margin-bottom: 0px;
   text-align: left;
   font-family: 'Baguet Script', cursive; 
-  margin-left: 45%; /* Adds spacing between buttons */
+  margin-left: 45%; 
   padding: 0 0 10px 0;
 }
 
@@ -924,7 +924,7 @@ Banner Style
   text-align: justify;
   text-jutify: inter-word;
   width: 78%;
-  margin-left: 45%; /* Adds spacing between buttons */
+  margin-left: 45%; 
   padding: 0 0 10px 0;
 }
 
@@ -944,7 +944,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: 'Baguet Script', cursive;  /* Apply Dancing Script font */
   text-align: left;
-  margin-left: 45%; /* Adds spacing between buttons */
+  margin-left: 45%; 
 }
 
 .main-banner .item h2.two {
@@ -957,7 +957,7 @@ Banner Style
   text-align: left;
   width: 75%;
   font-family: 'Amasis MT Pro', serif;
-  margin-left: 50%; /* Adds spacing between buttons */
+  margin-left: 50%; 
 }
 
 .main-banner .item p.two {
@@ -970,7 +970,7 @@ Banner Style
   line-height: 20px;
   width: 75%;
   font-family: 'Amasis MT Pro', cursive;  /* Apply Dancing Script font */
-  margin-left: 50%; /* Adds spacing between buttons */
+  margin-left: 50%; 
   padding: 0 0 15px 0;
 }
 
@@ -981,7 +981,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: left;
-  margin-left: 50%; /* Adds spacing between buttons */
+  margin-left: 50%; 
 }
 
 .main-banner .item h2.three {
@@ -1014,7 +1014,7 @@ Banner Style
   margin-bottom: 0px;
   text-align: left;
   font-family: 'Lucida Calligraphy', sans-serif;
-  margin-left:  40%; /* Adds spacing between buttons */
+  margin-left:  40%; 
 }
 
 .main-banner .item p.four {
@@ -1024,7 +1024,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: left;
-  margin-left: 40%; /* Adds spacing between buttons */
+  margin-left: 40%; 
 }
 
 .main-banner .item h2.white-text {
@@ -1149,7 +1149,7 @@ Featured Style
   display: inline-block;
   background-color: #F60017;  
   color: #ffffff; 
-  font-size: 14px;
+  font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
@@ -1289,7 +1289,7 @@ Services_Intro Style
 .services_intro span.button {
   background-color: #F60017;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
   padding: 6px 15px;
@@ -1311,22 +1311,34 @@ Services_Brain Style
   text-align: center;
 }
 
+.services_brain .coach img {
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+  height: auto;
+  max-width: 100%; 
+  height: auto; 
+  padding: 0px 0px 50px 0px;
+}
+
+.services_brain .brainright {
+  display: flex;
+  flex-direction: column; /* Ensures image is above the text */
+  align-items: flex-start; /* Aligns everything to the left */
+}
+
 .services_brain .brainleft img {
   display: block;
   margin: 0 auto;
   width: 90%;
   max-width: 100%; 
   height: auto; 
-  background-color: #46320f;
 }
 
 .services_brain .brainright img {
   display: block;
-  margin: 0 auto;
   width: 80%;
   height: auto;
-  max-width: 100%; 
-  height: auto; 
 }
 
 .services_brain .brainright p.one{
@@ -1334,7 +1346,8 @@ Services_Brain Style
   line-height: 1.3;
   color: #333;
   border-radius: 8px;
-  text-align: center;
+  text-align: justify;
+  padding-bottom: 10px;
   
 }
 
@@ -1346,7 +1359,7 @@ Services_Brain Style
   border-radius: 8px;
   text-align: left;
   font-family: "Quintessential", sans-serif;
-  padding: 50px 70px 0px 70px;
+  padding: 40px 15px 0px 15px;
 }
 
 .services_brain .brain p.three{
@@ -1357,7 +1370,7 @@ Services_Brain Style
   border-radius: 8px;
   text-align: right;
   font-family: "PinyonScript", sans-serif;
-  padding: 0px 70px 50px 70px;
+  padding: 0px 0px 0px 0px;
 }
 
 .services_brain .highlighted-text {
@@ -1365,20 +1378,19 @@ Services_Brain Style
   font-weight: bold;
 }
 
-.services_brain .btn-primary {
+.services_brain .brainright .btn-primary {
   display: inline-block;
   background-color: #571b4c;  /* Customize button background color */
   color: #ffffff;  /* Text color */
-  font-size: 14px;
+  font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
-  text-align: left;
   transition: background-color 0.3s ease;
   
 }
 .services_brain .brain p.four{
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.3;
   font-weight: 400;
   color: #333;
@@ -1386,13 +1398,13 @@ Services_Brain Style
   text-align: left;
   font-family: "Calibri", sans-serif;
   font-style: italic;
-  padding: 40px 70px 40px 70px;
+  padding: 40px 15px 40px 15px;
 }
 
 .services_brain span.button {
   background-color: #F60017;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
   padding: 6px 15px;
@@ -1400,6 +1412,7 @@ Services_Brain Style
   margin-bottom: 30px;
   border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
+  text-align: center;
 }
 /* 
 ---------------------------------------------
@@ -1407,16 +1420,29 @@ Services_Finance Style
 --------------------------------------------- 
 */
 .services_finance {
-  background-color: #e5e4e3;
+  background-color: #f1e8d9;
   padding: 50px 0px 50px 0px;
-  text-align: left;
+  text-align: center;
+}
+
+.services_finance .financeright {
+  display: flex;
+  flex-direction: column; /* Ensures image is above the text */
+  align-items: flex-start; /* Aligns everything to the left */
+}
+
+.services_finance .financeright img {
+  display: block;
+  width: 80%;
+  height: auto;
 }
 
 .services_finance .financeleft img {
   display: block;
   margin: 0 auto;
-  width: 70%;
-  height: auto;
+  width: 90%;
+  max-width: 100%; 
+  height: auto; 
 }
 
 .services_finance .finance img {
@@ -1433,13 +1459,13 @@ Services_Finance Style
 
 
 
-.services_finance .finance p.one{
+.services_finance .financeright p.one{
   font-size: 18px;
   line-height: 1.3;
   color: #333;
   border-radius: 8px;
-  text-align: center;
-  padding-top: 10px;
+  text-align: justify;
+  padding: 0px 0px 10px 0px;
   
 }
 
@@ -1449,43 +1475,31 @@ Services_Finance Style
   font-weight: 700;
   color: #F60017;
   border-radius: 8px;
-  text-align: left;
+  text-align: center;
   font-family: "Quintessential", sans-serif;
-  padding: 50px 70px 50px 70px;
+  padding: 40px 70px 0px 70px;
 }
 
-.services_finance .finance p.three{
-  font-size: 40px;
-  line-height: 1.3;
-  font-weight: 700;
-  color: #333;
-  border-radius: 8px;
-  text-align: right;
-  font-family: "PinyonScript", sans-serif;
-  padding: 0px 70px 50px 70
-}
-
-.services_finance .btn-primary {
+.services_finance .financeright .btn-primary {
   display: inline-block;
   background-color: #571b4c;  /* Customize button background color */
   color: #ffffff;  /* Text color */
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
   text-align: left;
   transition: background-color 0.3s ease;
-  margin-left: 6%; /* Adds spacing between buttons */
   
 }
 
 .services_finance .finance p.four{
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.3;
   font-weight: 400;
   color: #333;
   border-radius: 8px;
-  text-align: left;
+  text-align: center;
   font-family: "Calibri", sans-serif;
   font-style: italic;
   padding: 40px 70px 40px 70px;
@@ -1494,7 +1508,7 @@ Services_Finance Style
 .services_finance span.button {
   background-color: #F60017;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
   padding: 6px 15px;
@@ -1502,7 +1516,7 @@ Services_Finance Style
   margin-bottom: 30px;
   border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
-  margin-left: 6%; /* Adds spacing between buttons */
+  margin-left: 6%; 
 }
 
 .services_finance .brain img {
@@ -1511,6 +1525,7 @@ Services_Finance Style
   width: 90%;
   max-width: 100%; 
   height: auto; 
+  padding: 30px 0px 0px 0px;
 }
 
 
@@ -1522,7 +1537,7 @@ Services_Outro Style
 */
 
 .services_outro {
-  background-color: #e5e4e3;
+  background-color: #d5d4d3;
   padding: 50px 0px 50px 0px;
   text-align: center;
 }
@@ -1538,10 +1553,10 @@ Services_Outro Style
 .services_outro span.button {
   background-color: #F60017;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
-  padding: 6px 100px;
+  padding: 6px 15px;
   display: inline-block;
   border-radius: 25px;
   display: inline-block; /* Ensures they align properly */
@@ -1564,7 +1579,7 @@ Services_Outro Style
 .services_outro .book img {
   display: block;
   margin: 0 auto;
-  width: 60%;
+  width: 80%;
   max-width: 100%; 
   height: auto; 
   padding: 40px 0px 30px 0px;
@@ -1573,7 +1588,7 @@ Services_Outro Style
 .services_outro .contactme img {
   display: block;
   margin: 0 auto;
-  width: 70%;
+  width: 80%;
   max-width: 100%; 
   height: auto; 
   padding-top: 100px;
@@ -1591,7 +1606,7 @@ Services_Outro Style
 }
 
 .services_outro p.slide{
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 700;
   color: #1f1f1f;

@@ -9,7 +9,7 @@
 
         <div class="row align-items-start mt-3">
             <!-- Left Column - Contact Info -->
-            <div class="col-md-3  d-flex flex-column align-items-start">
+            <div class="col-md-4  d-flex flex-column align-items-start">
                 <h5>CONTACT INFORMATION</h5>
                 <div class="d-flex align-items-center mb-2">
                     <i class="fas fa-map-marker-alt fa-lg me-2"></i> <!-- Address Icon -->
@@ -35,19 +35,17 @@
                 </div>
             </div>
 
-            <div class="col-md-3 d-flex flex-column align-items-start">
+            <div class="col-md-4 d-flex flex-column align-items-start">
                 <img src="../assets/images/includes/card.png" alt="">
             </div>
 
-            <div class="col-md-3 d-flex flex-column align-items-start">
-                <h5>WORK HOURS</h5>
+            <!-- Right Column - Social Media Links -->
+            <div class="col-md-4 align-items-end">
+            <h5>WORK HOURS</h5>
                 <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {20 minutes}
                 </p>
                 <p class="mb-1">Session Hours:MON – FRI 09.00 – 19.00 {1.5 – 2 hours}</p>
-            </div>
-
-            <!-- Right Column - Social Media Links -->
-            <div class="col-md-3 align-items-start">
+<hr>
                 <h5>FOLLOW US</h5>
                 <a href="#" class="text-white me-3"><i class="fab fa-facebook fa-lg"></i></a>
                 <a href="#" class="text-white me-3"><i class="fab fa-instagram fa-lg"></i></a>
