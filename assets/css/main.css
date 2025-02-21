@@ -177,9 +177,6 @@ body {
   color: #fff;
 }
 
-.section {
-  margin-top: 100px;
-}
 
 .section-heading {
   margin-bottom: 70px;
@@ -1169,19 +1166,19 @@ Featured Style
 
 
 /* 
-
 ---------------------------------------------
-Services Style
+Services_Intro Style
 --------------------------------------------- 
 */
-.services {
-  background-color: #f8f8f8;
+
+
+.services_intro {
+  background-color: #cbc8c8;
+  padding: 20px 0px 20px 0px;
 }
- .services .brain_self {
- }
 
 
-.services .serviceshead img {
+.services_intro .serviceshead img {
   display: block;
   margin: 0 auto;
   width: 40%; 
@@ -1190,7 +1187,7 @@ Services Style
   padding-top: 60px;
 }
 
-.services .rtthead img {
+.services_intro .rtthead img {
   display: block;
   margin: 0 auto;
   width: 100%;
@@ -1254,7 +1251,7 @@ Services Style
   text-decoration: underline;
 }
 
-.services .cta {
+.services_intro .cta {
   font-size: 20px;
   line-height: 1.3;
   font-weight: 400;
@@ -1266,7 +1263,7 @@ Services Style
   font-family: "Calibri", sans-serif;
 }
 
-.services .workhead {
+.services_intro .workhead {
   font-size: 30px;
   line-height: 1.3;
   font-weight: 700;
@@ -1287,16 +1284,28 @@ Services Style
   padding-top: 30px;
 }
 
-.services .brain .coach img {
+
+/* 
+---------------------------------------------
+Services_Brain Style
+--------------------------------------------- 
+*/
+
+.services_brain {
+  background-color: #e9dbc5;
+  padding: 20px 0px 20px 0px;
+}
+
+.services_brain .brain .coach img {
   display: block;
   margin: 0 auto;
   width: 30%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
-.services .brain img.head {
+.services_brain .brain img.head {
   display: block;
   margin: 0 auto;
   width: 50%;
@@ -1307,7 +1316,7 @@ Services Style
   padding-top: 50px;
 }
 
-.services .brain p.one{
+.services_brain .brain p.one{
   font-size: 18px;
   line-height: 1.3;
   color: #333;
@@ -1318,7 +1327,7 @@ Services Style
   
 }
 
-.services .brain p.two{
+.services_brain .brain p.two{
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
@@ -1329,7 +1338,7 @@ Services Style
   padding: 50px 70px 0px 70px;
 }
 
-.services .brain p.three{
+.services_brain .brain p.three{
   font-size: 40px;
   line-height: 1.3;
   font-weight: 700;
@@ -1340,12 +1349,12 @@ Services Style
   padding: 0px 70px 50px 70px;
 }
 
-.services .highlighted-text {
+.services_brain .highlighted-text {
   color: #000000;
   font-weight: bold;
 }
 
-.services .btn-primary {
+.services_brain .btn-primary {
   display: inline-block;
   background-color: #571b4c;  /* Customize button background color */
   color: #ffffff;  /* Text color */
@@ -1358,7 +1367,7 @@ Services Style
   margin-left: 6%; /* Adds spacing between buttons */
   
 }
-.services .brain p.four{
+.services_brain .brain p.four{
   font-size: 18px;
   line-height: 1.3;
   font-weight: 400;
@@ -1370,7 +1379,7 @@ Services Style
   padding: 60px 70px 0px 70px;
 }
 
-.services .brain p.five{
+.services_brain .brain p.five{
   font-size: 18px;
   line-height: 1.3;
   font-weight: 700;
@@ -1381,7 +1390,17 @@ Services Style
   padding: 10px 70px 0px 70px;
 }
 
-.services .believe img {
+/* 
+---------------------------------------------
+Services_Finance Style
+--------------------------------------------- 
+*/
+.services_finance {
+  background-color: #a19f9c;
+  padding: 20px 0px 20px 0px;
+}
+
+.services_finance .believe img {
   display: block;
   margin: 0 auto;
   width: 53%;
@@ -1391,7 +1410,7 @@ Services Style
 }
 
 
-.services .finance img {
+.services_finance .finance img {
   display: block;
   margin: 0 auto;
   width: 50%;
@@ -1402,7 +1421,7 @@ Services Style
   padding-top: 120px;
 }
 
-.services .finance p.one{
+.services_finance .finance p.one{
   font-size: 18px;
   line-height: 1.3;
   color: #333;
@@ -1413,7 +1432,7 @@ Services Style
   
 }
 
-.services .finance p.two{
+.services_finance .finance p.two{
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
@@ -1424,7 +1443,7 @@ Services Style
   padding: 50px 70px 50px 70px;
 }
 
-.services .finance p.three{
+.services_finance .finance p.three{
   font-size: 40px;
   line-height: 1.3;
   font-weight: 700;
@@ -1435,7 +1454,21 @@ Services Style
   padding: 0px 70px 50px 70
 }
 
-.services .finance p.four{
+.services_finance .btn-primary {
+  display: inline-block;
+  background-color: #571b4c;  /* Customize button background color */
+  color: #ffffff;  /* Text color */
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: left;
+  transition: background-color 0.3s ease;
+  margin-left: 6%; /* Adds spacing between buttons */
+  
+}
+
+.services_finance .finance p.four{
   font-size: 18px;
   line-height: 1.3;
   font-weight: 400;
@@ -1444,10 +1477,10 @@ Services Style
   text-align: left;
   font-family: "Calibri", sans-serif;
   font-style: italic;
-  padding: 60px 70px 0px 70px;
+  padding: 40px 70px 0px 70px;
 }
 
-.services .finance p.five{
+.services_finance .finance p.five{
   font-size: 18px;
   line-height: 1.3;
   font-weight: 700;
@@ -1455,28 +1488,34 @@ Services Style
   border-radius: 8px;
   text-align: left;
   font-family: "Calibri", sans-serif;
-  padding: 10px 70px 0px 70px;
+  padding: 40px 70px 0px 70px;
 }
 
-.services .brain img {
+.services_finance .brain img {
   display: block;
   margin: 0 auto;
   width: 90%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 120px;
+  padding-top: 40px;
 }
 
-.services .coming img {
+/* 
+---------------------------------------------
+Services_Outro Style
+--------------------------------------------- 
+*/
+
+.services_outro .coming img {
   display: block;
   margin: 0 auto;
   width: 50%;
   max-width: 100%; 
   height: auto; 
-  padding-top: 120px;
+  padding-top: 80px;
 }
 
-.services .coming p.four{
+.services_outro .coming p.four{
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
@@ -1487,7 +1526,7 @@ Services Style
   padding: 30px 70px 0px 70px;
 }
 
-.services .coming p.five{
+.services_outro .coming p.five{
   font-size: 18px;
   line-height: 1.3;
   font-weight: 700;
@@ -1498,7 +1537,7 @@ Services Style
   padding: 10px 70px 0px 70px;
 }
 
-.services .book img {
+.services_outro .book img {
   display: block;
   margin: 0 auto;
   width: 50%;
@@ -1507,7 +1546,7 @@ Services Style
   padding-top: 100px;
 }
 
-.services .contactme img {
+.services_outro .contactme img {
   display: block;
   margin: 0 auto;
   width: 50%;
@@ -1516,7 +1555,7 @@ Services Style
   padding-top: 100px;
 }
 
-.services .btn-contact {
+.services_outro .btn-contact {
   display: inline-block;
   background-color: #F60017;  /* Customize button background color */
   color: #ffffff;  /* Text color */
@@ -1530,7 +1569,7 @@ Services Style
   
 }
 
-.services p.bookme{
+.services_outro p.bookme{
   font-size: 22px;
   line-height: 1.3;
   font-weight: 400;

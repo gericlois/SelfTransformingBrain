@@ -3,7 +3,7 @@
 
 <?php include "includes/head.php" ?>
 
-<body>
+<>
 
     <?php include "includes/header.php" ?>
 
@@ -103,7 +103,7 @@
         </div>
     </div>
 
-    <div class="services section">
+    <div class="services_intro section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -240,17 +240,18 @@
                         <img src="../assets/images/includes/your.png" alt="">
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
-                <div class="col-lg-12">
-                    
-                </div>
-
-
+    <div class="services_brain section">
+        <div class="container">
+            <div class="row">
                 <div class="brain_self col-lg-12">
                     <div class="brain">
-                    <div class="coach">
-                        <img src="../assets/images/includes/coachingheader.png" alt="">
-                    </div>
+                        <div class="coach">
+                            <img src="../assets/images/includes/coachingheader.png" alt="">
+                        </div>
                         <img class="head" src="../assets/images/includes/brainheaderw.png" alt="">
                         <p class="one"><span class="highlighted-text">Brain and Self-image Coaching</span> is a unique
                             approach that combines neuroscience, Rapid Transformational Therapy, life-coaching and
@@ -278,7 +279,13 @@
                         </p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
+    <div class="services_finance section">
+        <div class="container">
+            <div class="row">
                 <div class="col-lg-12">
                     <div class="finance">
                         <img src="../assets/images/includes/believe.png" alt="">
@@ -309,7 +316,13 @@
                         <img src="../assets/images/includes/yourbrain.png" alt="">
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
+    <div class="services_outro section">
+        <div class="container">
+            <div class="row">
                 <div class="col-lg-12">
                     <div class="coming">
                         <img src="../assets/images/includes/coming.png" alt="">
@@ -348,8 +361,8 @@
                 </div>
 
                 <div class="col-lg-12">
-                <p class="bookme">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
-                </p>
+                    <p class="bookme">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
+                    </p>
                 </div>
 
                 <div class="row align-items-center h-100">
@@ -376,26 +389,24 @@
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
+    </div>
 
-        </Main>
+    </Main>
 
-        <?php include "includes/footer.php" ?>
+    <?php include "includes/footer.php" ?>
 
-        <!-- Scripts -->
-        <!-- Bootstrap core JavaScript -->
-        <script src="../vendor/jquery/jquery.min.js"></script>
-        <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
-        <script src="../assets/js/isotope.min.js"></script>
-        <script src="../assets/js/owl-carousel.js"></script>
-        <script src="../assets/js/counter.js"></script>
-        <script src="../assets/js/custom.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/isotope.min.js"></script>
+    <script src="../assets/js/owl-carousel.js"></script>
+    <script src="../assets/js/counter.js"></script>
+    <script src="../assets/js/custom.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
-</body>
+    </body>
 
 </html>
