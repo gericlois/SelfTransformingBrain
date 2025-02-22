@@ -1568,7 +1568,7 @@ Services_Outro Style
   background-color: transparent;
   border: 2px solid #F60017; /* Border color is the same as the original background */
   color: #F60017; /* Text color to match the border */
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
   padding: 6px 15px;
