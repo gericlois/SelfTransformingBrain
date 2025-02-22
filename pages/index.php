@@ -127,9 +127,9 @@
                                     <div class="service-content">
                                         <h3>EMPOWERMENT & SELF GROWTH</h3>
                                         <p>Sexuality/Acceptance – Motivation
-                                            Bullying – Self-Esteem – Confidence -
-                                            Procrastination- Relationships-
-                                            Avoidance - Achieving Goals -Rejection
+                                            Bullying – Self-Esteem – Confidence –
+                                            Procrastination – Relationships –
+                                            Avoidance – Achieving Goals – Rejection
                                         </p>
 
                                         <a href="#" class="discover-more">LEARN MORE →</a>
@@ -144,10 +144,10 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>MENTAL HEALTH </h3>
-                                        <p>Depression – Anxiety – Stress – Fears -
-                                            Guilt- Grief – Anger- Panic Attacks -
+                                        <p>Depression – Anxiety – Stress – Fears –
+                                            Guilt- Grief – Anger- Panic Attacks –
                                             Phobias – Relaxation – ADHD –
-                                            Insomnia/Sleeping Problems
+                                            Insomnia/Sleeping Problems –
                                             Childhood Trauma
                                         </p>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
@@ -162,7 +162,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>ADDICTION</h3>
-                                        <p>Smoking- Drinking – Drugs
+                                        <p>Smoking- Drinking – Drugs –
                                             Gambling – Compulsive Behaviour
                                         </p>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
@@ -180,7 +180,7 @@
                                     <div class="service-content">
                                         <h3>WEIGHT & BODY IMAGE</h3>
                                         <p>Bulimia – Food/Diet – Weight Problems
-                                            Anorexia – Eating Problems- Exercise
+                                            Anorexia – Eating Problems – Exercise
                                         </p>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
@@ -194,11 +194,11 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>CAREER AND EDUCATION</h3>
-                                        <p>Imposter Syndrome -
-                                            Interview Skills- Career Issues/Blocks-
-                                            Public Speaking- Money Blocks-
-                                            Memory - Concentration/Focus -
-                                            Exams/Tests Nerves- Driving Skills
+                                        <p>Imposter Syndrome –
+                                            Interview Skills – Career Issues/Blocks –
+                                            Public Speaking – Money Blocks –
+                                            Memory – Concentration/Focus –
+                                            Exams/Tests Nerves – Driving Skills
                                         </p>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
@@ -345,7 +345,7 @@
                                 unlimited growth and success?
 
                             </p>
-                            <span class="button">LEARN ABOUT FINANCE AND BUSINESS COACHING</span>
+                            <span class="button">LET'S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!</span>
                         </div>
                     </div>
 
@@ -370,7 +370,7 @@
 
                     <div class="col-lg-12">
                         <div class="coming">
-                            <span class="button">FIND OUT MORE</span><br><br>
+                            <span class="button">FIND OUT MORE</span><br><br><br>
                             <span class="transparent">BOOK ME FOR SPEAKING OR
                                 ATTENDING FOR WORKSHOPS…</span>
                         </div>

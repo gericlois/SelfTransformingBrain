@@ -40,11 +40,14 @@
             </div>
 
             <!-- Right Column - Social Media Links -->
-            <div class="col-md-4 align-items-end">
+            <div class="right col-md-4 text-left">
             <h5>WORK HOURS</h5>
-                <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {20 minutes}
+                <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00
                 </p>
-                <p class="mb-1">Session Hours:MON – FRI 09.00 – 19.00 {1.5 – 2 hours}</p>
+                <p class="mb-1">{30 minutes}
+                </p>
+                <p class="mb-1">Session Hours:MON – FRI 09.00 – 19.00</p>
+                <p class="mb-1">{1.5 – 2 hours}</p>
 <hr>
                 <h5>FOLLOW US</h5>
                 <a href="#" class="text-white me-3"><i class="fab fa-facebook fa-lg"></i></a>
@@ -58,7 +61,7 @@
         <!-- Centered Copyright & Links Row -->
         <div class="row mt-3">
             <div class="col-12 text-center">
-                <p class="mb-1">©2025 ALL RIGHTS RESERVED | Self-Transforming Brain</p>
+            <a href="#" class="text-white me-3">2025 ALL RIGHTS RESERVED | Self-Transforming Brain</a><br>
                 <a href="#" class="text-white me-3">PRIVACY POLICY | TERMS AND CONDITIONS</a>
             </div>
         </div>
