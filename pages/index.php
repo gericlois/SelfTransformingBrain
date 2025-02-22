@@ -370,7 +370,7 @@
 
                     <div class="col-lg-12">
                         <div class="coming">
-                            <span class="button">FIND OUT MORE</span><br><br><br>
+                            <span class="button">FIND OUT MORaaaaaaaaaaaaaaaaaaaaaaaE</span><br><br><br>
                             <span class="transparent">BOOK ME FOR SPEAKING OR
                                 ATTENDING FOR WORKSHOPS…</span>
                         </div>
