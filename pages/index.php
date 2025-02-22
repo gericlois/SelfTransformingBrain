@@ -232,7 +232,7 @@
 
                     <div class="col-lg-12">
                         <div class="qoute">
-                            <img src="../assets/images/includes/your.png" alt="">
+                            <img src="../assets/images/includes/yours.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -370,7 +370,7 @@
 
                     <div class="col-lg-12">
                         <div class="coming">
-                            <span class="button">FIND OUT MORaaaaaaaaaaaaaaaaaaaaaaaE</span><br><br><br>
+                            <span class="button">FIND OUT MORE</span><br><br><br>
                             <span class="transparent">BOOK ME FOR SPEAKING OR
                                 ATTENDING FOR WORKSHOPS…</span>
                         </div>
