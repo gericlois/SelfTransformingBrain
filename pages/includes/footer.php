@@ -25,13 +25,11 @@
                 </div>
                 <div class="d-flex align-items-center mb-2">
                     <i class="fas fa-phone fa-lg me-2"></i> <!-- Phone Icon -->
-                    <a href="tel:+1234567890" class="text-white">+07825138793</a>
+                    <a href="tel:+1234567890" class="text-white">+4407825138793</a>
                 </div>
                 <div class="d-flex align-items-center mb-2">
-                    <span class="button">CONTACT ME</span>
-                </div>
-                <div class="d-flex align-items-center mb-2">
-                    <span class="button">FAQ</span>
+                    <span class="button">CONTACT ME</span><br>
+                    <span class="button">FAQs</span>
                 </div>
             </div>
 

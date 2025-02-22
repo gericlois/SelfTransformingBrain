@@ -333,7 +333,7 @@
                                 looking to start a business or grow their family businesses through tailored finance and
                                 business coaching.
                             </p>
-                            <a href="#" class="btn btn-primary">LEARN ABOUT THE BRAIN COACH BOOTCAMP</a>
+                            <a href="#" class="btn btn-primary">LEARN ABOUT FINANCE AND BUSINESS COACHING</a>
                         </div>
                     </div>
 
@@ -398,13 +398,24 @@
                         <a href="#" class="btn btn-contact">EMAIL OR CONTACT ME </a>
                     </div>
 
-                    <div class="col-lg-12">
-                        <p class="slide">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
-                        </p>
-                    </div>
 
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="slides section">
+            <div class="container">
+                <div class="row">
                     <div class="row align-items-center h-100">
                         <div class="container rounded">
+                            
+                            <div class="col-lg-12">
+                                <p class="slide">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
+                                </p>
+                            </div>
+
                             <div class="slider">
                                 <div class="logos">
                                     <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
@@ -445,6 +456,7 @@
                             </div>
                         </div>
                     </div>
+
 
                 </div>
             </div>
