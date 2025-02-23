@@ -232,7 +232,7 @@
 
                     <div class="col-lg-12">
                         <div class="qoute">
-                            <img src="../assets/images/includes/your.png" alt="">
+                            <img src="../assets/images/includes/yours.png" alt="">
                         </div>
                     </div>
                 </div>
