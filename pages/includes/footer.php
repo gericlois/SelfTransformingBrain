@@ -1,6 +1,5 @@
 <footer class="footer text-white py-4">
     <div class="container">
-
         <div class="row ">
             <div class="col-12 text-center">
                 <span class="button">BOOK A FREE DISCOVERY CALL</span>

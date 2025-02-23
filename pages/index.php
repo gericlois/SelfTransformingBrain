@@ -73,8 +73,10 @@
                     <div class="col-lg-12">
                         <div class="top">
                             <img src="../assets/images/includes/your_journey.png" alt="">
-                            <p class="one"><span class="highlighted-text">My goal</span> is to help <span class="highlighted-text">Women</span> in any ages
-                                and <span class="highlighted-text">Students</span> to unlock their full potential, breaking free from limiting beliefs and
+                            <p class="one"><span class="highlighted-text">My goal</span> is to help <span
+                                    class="highlighted-text">Women</span> in any ages
+                                and <span class="highlighted-text">Students</span> to unlock their full potential,
+                                breaking free from limiting beliefs and
                                 achieving a more fulfilling life by providing and using range of techniques such as RTT
                                 Hypnotherapy and Therapy, Brain & Self-Image Coaching and Finance & Business Coaching to
                                 guide them on their own path of self-transformation. Whether you're looking to improve
@@ -410,7 +412,7 @@
                 <div class="row">
                     <div class="row align-items-center h-100">
                         <div class="container rounded">
-                            
+
                             <div class="col-lg-12">
                                 <p class="slide">PROFESSIONAL MEMBERSHIPS & ACCREDITATION BODIES
                                 </p>
@@ -456,11 +458,24 @@
                             </div>
                         </div>
                     </div>
-
-
                 </div>
             </div>
         </div>
+
+        <div class="questions section">
+            <div class="container">
+                <div class="row"></div>
+                <div class="col-lg-12">
+                    <p class="four"> HAVE ANY QUESTIONS?
+                    </p>
+
+                    <a href="#" class="btn btn-contact">FREQUENTLY ASK QUESTIONS</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
     </div>
 
     </Main>

@@ -1651,7 +1651,32 @@ Services_Outro Style
       transform: translateX(-100%);
   }
 }
+.questions  {
+  text-align: center;
+}
 
+
+.questions .btn-contact {
+  display: inline-block;
+  background-color: #F60017;  /* Customize button background color */
+  color: #ffffff;  /* Text color */
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  transition: background-color 0.3s ease;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.questions p.four {
+  margin-top: 50px;
+  font-size: 25px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 50px;
+  margin-bottom: 0px;
+}
 
 /* 
 
