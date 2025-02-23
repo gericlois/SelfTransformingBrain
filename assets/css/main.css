@@ -1319,7 +1319,7 @@ Services_Brain Style
   height: auto;
   max-width: 100%; 
   height: auto; 
-  padding: 0px 0px 50px 0px;
+  padding: 0px 0px 120px 0px;
 }
 
 .services_brain .brainright {
@@ -1371,7 +1371,7 @@ Services_Brain Style
   border-radius: 8px;
   text-align: right;
   font-family: "PinyonScript", sans-serif;
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 20px 0px;
 }
 
 .services_brain .highlighted-text {
@@ -1478,7 +1478,7 @@ Services_Finance Style
   border-radius: 8px;
   text-align: center;
   font-family: "Quintessential", sans-serif;
-  padding: 50px 70px 0px 70px;
+  padding: 70px 70px 0px 70px;
 }
 
 .services_finance .financeright .btn-primary {
@@ -1503,7 +1503,7 @@ Services_Finance Style
   text-align: center;
   font-family: "Calibri", sans-serif;
   font-style: italic;
-  padding: 50px 70px 50px 70px;
+  padding: 70px 70px 50px 70px;
 }
 
 .services_finance span.button {
@@ -1636,7 +1636,7 @@ Services_Outro Style
 
 /* INDIVIDUAL LOGOS */
 .logos img {
-  height: 150px;  /* Adjust height as needed */
+  height: 200px;  /* Adjust height as needed */
   width: auto;  /* Keeps aspect ratio */
   margin: 0 15px;
   object-fit: contain; /* Prevents distortion */
@@ -1707,6 +1707,20 @@ span.button {
   display: inline-block; /* Ensures they align properly */
   margin-top: 12px;
   margin-bottom: 12px;
+}
+
+span.button_contact {
+  background-color: #ffffff;
+  color: #F60017;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 4px 15px;
+  display: inline-block;
+  border-radius: 25px;
+  display: inline-block; /* Ensures they align properly */
+  margin-top: 30px;
+  margin-right: 5px;
 }
 
 /* 

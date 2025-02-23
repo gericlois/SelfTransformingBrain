@@ -73,8 +73,8 @@
                     <div class="col-lg-12">
                         <div class="top">
                             <img src="../assets/images/includes/your_journey.png" alt="">
-                            <p class="one"><span class="highlighted-text">My goal</span> is to help Women in any ages
-                                and students to unlock their full potential, breaking free from limiting beliefs and
+                            <p class="one"><span class="highlighted-text">My goal</span> is to help <span class="highlighted-text">Women</span> in any ages
+                                and <span class="highlighted-text">Students</span> to unlock their full potential, breaking free from limiting beliefs and
                                 achieving a more fulfilling life by providing and using range of techniques such as RTT
                                 Hypnotherapy and Therapy, Brain & Self-Image Coaching and Finance & Business Coaching to
                                 guide them on their own path of self-transformation. Whether you're looking to improve
@@ -232,7 +232,7 @@
 
                     <div class="col-lg-12">
                         <div class="qoute">
-                            <img src="../assets/images/includes/yours.png" alt="">
+                            <img src="../assets/images/includes/your.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -286,7 +286,7 @@
                                 butterfly
                                 within—it’s a reminder that transformation is a process, not an instant change.”
                             </p>
-                            <p class="three" align-items-center> Servet Ege </p>
+                            <p class="three" align-items-center> Servet Ege&nbsp;&nbsp;</p>
                             <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
                                 today
                                 and let's schedule a call to ignite your potential!

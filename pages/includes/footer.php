@@ -28,8 +28,8 @@
                     <a href="tel:+1234567890" class="text-white">+4407825138793</a>
                 </div>
                 <div class="d-flex align-items-center mb-2">
-                    <span class="button">CONTACT ME</span><br>
-                    <span class="button">FAQs</span>
+                    <span class="button_contact">CONTACT ME</span><br>
+                    <span class="button_contact">FAQs</span>
                 </div>
             </div>
 
@@ -40,12 +40,10 @@
             <!-- Right Column - Social Media Links -->
             <div class="right col-md-4 text-left">
             <h5>WORK HOURS</h5>
-                <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00
+                <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {30 minutes}
                 </p>
-                <p class="mb-1">{30 minutes}
                 </p>
-                <p class="mb-1">Session Hours:MON – FRI 09.00 – 19.00</p>
-                <p class="mb-1">{1.5 – 2 hours}</p>
+                <p class="mb-1">Session Hours: MON – FRI 09.00 – 19.00 {1.5 – 2 hours}</p>
 <hr>
                 <h5>FOLLOW US</h5>
                 <a href="#" class="text-white me-3"><i class="fab fa-facebook fa-lg"></i></a>
@@ -59,7 +57,7 @@
         <!-- Centered Copyright & Links Row -->
         <div class="row mt-3">
             <div class="col-12 text-center">
-            <a href="#" class="text-white me-3">2025 ALL RIGHTS RESERVED | Self-Transforming Brain</a><br>
+            <a href="#" class="text-white me-3">2025 ALL RIGHTS RESERVED | Self-TransformingBrain</a><br>
                 <a href="#" class="text-white me-3">PRIVACY POLICY | TERMS AND CONDITIONS</a>
             </div>
         </div>
