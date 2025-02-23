@@ -28,8 +28,10 @@
                     <a href="tel:+1234567890" class="text-white">+4407825138793</a>
                 </div>
                 <div class="d-flex align-items-center mb-2">
-                    <span class="button_contact">CONTACT ME</span><br>
-                    <span class="button_contact">FAQs</span>
+                    <span class="button_contact">EMAIL ME</span> 
+                </div>
+                <div class="d-flex align-items-center mb-2">
+                    <span class="button_faq">FAQs</span>
                 </div>
             </div>
 
@@ -43,7 +45,7 @@
                 <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {30 minutes}
                 </p>
                 </p>
-                <p class="mb-1">Session Hours: MON – FRI 09.00 – 19.00 {1.5 – 2 hours}</p>
+                <p class="mb-1">Session Hours: MON – FRI <br>09.00 – 19.00 {1.5 – 2 hours}</p>
 <hr>
                 <h5>FOLLOW US</h5>
                 <a href="#" class="text-white me-3"><i class="fab fa-facebook fa-lg"></i></a>
