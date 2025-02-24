@@ -1172,6 +1172,27 @@ Featured Style
 Services_Intro Style
 --------------------------------------------- 
 */
+.services_intro ul {
+  list-style-type: disc; /* Ensures bullet points appear */
+  padding-left: 20px; /* Adds indentation */
+}
+
+.services_intro ul li {
+  margin-bottom: 5px; /* Adds spacing between items */
+  display: list-item; /* Ensures bullets appear */
+  color: black; /* Text color */
+  position: relative; /* Needed for custom bullet */
+  line-height: 1; /* Increases line spacing */
+}
+
+.services_intro ul li::before {
+  content: "•"; /* Custom bullet point */
+  color: red; /* Red bullet */
+  font-size: 18px; /* Adjust size */
+  position: absolute;
+  left: -20px; /* Moves bullet to correct position */
+}
+
 
 
 .services_intro {

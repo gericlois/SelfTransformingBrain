@@ -128,11 +128,18 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>EMPOWERMENT & SELF GROWTH</h3>
-                                        <p>Sexuality/Acceptance – Motivation
-                                            Bullying – Self-Esteem – Confidence –
-                                            Procrastination – Relationships –
-                                            Avoidance – Achieving Goals – Rejection
-                                        </p>
+                                        <ul>
+                                            <li>Sexuality/Acceptance</li>
+                                            <li>Motivation</li>
+                                            <li>Bullying </li>
+                                            <li>Self-Esteem</li>
+                                            <li>Confidence</li>
+                                            <li>Procrastination</li>
+                                            <li>Relationships</li>
+                                            <li>Avoidance</li>
+                                            <li>Achieving Goals</li>
+                                            <li>Rejection</li>
+                                        </ul>
 
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
@@ -146,12 +153,21 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>MENTAL HEALTH </h3>
-                                        <p>Depression – Anxiety – Stress – Fears –
-                                            Guilt- Grief – Anger- Panic Attacks –
-                                            Phobias – Relaxation – ADHD –
-                                            Insomnia/Sleeping Problems –
-                                            Childhood Trauma
-                                        </p>
+                                        <ul>
+                                            <li>Depression</li>
+                                            <li>Anxiety</li>
+                                            <li>Stress</li>
+                                            <li>Fears</li>
+                                            <li>Guilt</li>
+                                            <li>Grief</li>
+                                            <li>Anger</li>
+                                            <li>Panic Attacks</li>
+                                            <li>Phobias</li>
+                                            <li>Relaxation</li>
+                                            <li>ADHD</li>
+                                            <li>Insomnia/Sleeping Problems</li>
+                                            <li>Childhood Trauma</li>
+                                        </ul>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
                                 </div>
@@ -164,9 +180,13 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>ADDICTION</h3>
-                                        <p>Smoking- Drinking – Drugs –
-                                            Gambling – Compulsive Behaviour
-                                        </p>
+                                        <ul>
+                                            <li>Smoking</li>
+                                            <li>Drinking</li>
+                                            <li>Drugs</li>
+                                            <li>Gambling</li>
+                                            <li>Compulsive Behaviour</li>
+                                        </ul>
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
                                 </div>
@@ -181,9 +201,15 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>WEIGHT & BODY IMAGE</h3>
-                                        <p>Bulimia – Food/Diet – Weight Problems
-                                            Anorexia – Eating Problems – Exercise
-                                        </p>
+                                        <ul>
+                                            <li>Bulimia</li>
+                                            <li>Food/Diet</li>
+                                            <li>Weight Problems</li>
+                                            <li>Anorexia</li>
+                                            <li>Eating Problems</li>
+                                            <li>Exercise</li>
+                                        </ul>
+
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
                                 </div>
@@ -196,12 +222,18 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>CAREER AND EDUCATION</h3>
-                                        <p>Imposter Syndrome –
-                                            Interview Skills – Career Issues/Blocks –
-                                            Public Speaking – Money Blocks –
-                                            Memory – Concentration/Focus –
-                                            Exams/Tests Nerves – Driving Skills
-                                        </p>
+                                        <ul>
+                                            <li>Imposter Syndrome</li>
+                                            <li>Interview Skills</li>
+                                            <li>Career Issues/Blocks</li>
+                                            <li>Public Speaking</li>
+                                            <li>Money Blocks</li>
+                                            <li>Memory</li>
+                                            <li>Concentration/Focus</li>
+                                            <li>Exams/Tests Nerves</li>
+                                            <li>Driving Skills</li>
+                                        </ul>
+
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
                                 </div>
@@ -214,10 +246,15 @@
                                     </div>
                                     <div class="service-content">
                                         <h3>PHYSICAL HEALTH</h3>
-                                        <p>Pain Control/Relief- Hearing/Vision Problems-
-                                            Mobility- Hair Growth- Skin Problems-
-                                            Migraine
-                                        </p>
+                                        <ul>
+                                            <li>Pain Control/Relief</li>
+                                            <li>Hearing/Vision Problems</li>
+                                            <li>Mobility</li>
+                                            <li>Hair Growth</li>
+                                            <li>Skin Problems</li>
+                                            <li>Migraine</li>
+                                        </ul>
+
                                         <a href="#" class="discover-more">LEARN MORE →</a>
                                     </div>
                                 </div>
