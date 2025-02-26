@@ -473,6 +473,7 @@
                                     <img src="../assets/images/slideslogo/14.png" alt="Logo 14" class="logo">
                                     <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
                                     <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
+                                    <img src="../assets/images/slideslogo/16.png" alt="Logo 17" class="logo">
 
                                     <!-- Duplicate logos to ensure seamless looping -->
                                     <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
@@ -491,6 +492,7 @@
                                     <img src="../assets/images/slideslogo/14.png" alt="Logo 14" class="logo">
                                     <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
                                     <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
+                                    <img src="../assets/images/slideslogo/16.png" alt="Logo 17" class="logo">
                                 </div>
                             </div>
                         </div>
