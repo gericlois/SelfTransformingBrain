@@ -41,15 +41,16 @@
                 <img src="../assets/images/logo.png" alt="Villa Logo">
               </a>
               <!-- ***** Logo End ***** -->
+               
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
-                <li><a href="" class="active">HOME</a></li>
+                <li><a href="index.php" class="active">HOME</a></li>
 
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">ABOUT</a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">MEET SERVET</a></li>
+                    <li><a href="about_me.php">MEET SERVET</a></li>
                     <li><a href="#">WHAT IS RTT?</a></li>
                     <li><a href="#">HOW IT WORKS</a></li>
                   </ul>

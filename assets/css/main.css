@@ -78,10 +78,64 @@ font & reset css
 reset
 --------------------------------------------- 
 */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
-pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
-s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
-figure, header, nav, section, article, aside, footer, figcaption {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+div pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+figure,
+header,
+nav,
+section,
+article,
+aside,
+footer,
+figcaption {
   margin: 0;
   padding: 0;
   border: 0;
@@ -109,13 +163,20 @@ html[xmlns] .clearfix {
   height: 1%;
 }
 
-ul, li {
+ul,
+li {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-header, nav, section, article, aside, footer, hgroup {
+header,
+nav,
+section,
+article,
+aside,
+footer,
+hgroup {
   display: block;
 }
 
@@ -123,7 +184,8 @@ header, nav, section, article, aside, footer, hgroup {
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   font-family: Tahoma, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -134,7 +196,12 @@ a {
   text-decoration: none !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #1e1e1e;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -265,7 +332,7 @@ Pre-loader Style
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.99);
+  background-color: rgba(0, 0, 0, 0.99);
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
@@ -287,29 +354,29 @@ Pre-loader Style
 
 @-webkit-keyframes dot {
   50% {
-      -webkit-transform: translateX(96px);
-      transform: translateX(96px);
+    -webkit-transform: translateX(96px);
+    transform: translateX(96px);
   }
 }
 
 @keyframes dot {
   50% {
-      -webkit-transform: translateX(96px);
-      transform: translateX(96px);
+    -webkit-transform: translateX(96px);
+    transform: translateX(96px);
   }
 }
 
 @-webkit-keyframes dots {
   50% {
-      -webkit-transform: translateX(-31px);
-      transform: translateX(-31px);
+    -webkit-transform: translateX(-31px);
+    transform: translateX(-31px);
   }
 }
 
 @keyframes dots {
   50% {
-      -webkit-transform: translateX(-31px);
-      transform: translateX(-31px);
+    -webkit-transform: translateX(-31px);
+    transform: translateX(-31px);
   }
 }
 
@@ -365,7 +432,8 @@ Header Style
 }
 
 .dropdown-menu {
-  display: none; /* Initially hidden */
+  display: none;
+  /* Initially hidden */
   position: absolute;
   top: 100%;
   left: 0;
@@ -383,7 +451,8 @@ Header Style
 }
 
 .dropdown-item {
-  padding: 0.25rem 1rem; /* Adjust padding as needed */
+  padding: 0.25rem 1rem;
+  /* Adjust padding as needed */
 }
 
 .dropdown-menu li {
@@ -393,8 +462,10 @@ Header Style
 .sub-header .btn-primary {
   display: inline-block;
   padding: 5px 30px;
-  background-color: #F60017;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #F60017;
+  /* Customize button background color */
+  color: #ffffff;
+  /* Text color */
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
@@ -404,7 +475,8 @@ Header Style
 }
 
 .sub-header .btn-primary:hover {
-  background-color: #D50011;  /* Darker shade on hover */
+  background-color: #D50011;
+  /* Darker shade on hover */
   cursor: pointer;
 }
 
@@ -465,12 +537,12 @@ Header Style
 
 .background-header {
   background-color: #fff;
-  height: 60px!important;
-  position: fixed!important;
-  top: 0!important;
+  height: 60px !important;
+  position: fixed !important;
+  top: 0 !important;
   left: 0;
   right: 0;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15) !important;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
@@ -492,13 +564,14 @@ Header Style
   background: transparent;
   display: flex;
   height: 70px;
-    
+
 }
 
 .header-area .main-nav .logo img {
   max-width: 210px;
   height: auto;
-  max-height: none; /* Remove or set to a higher value if needed */
+  max-height: none;
+  /* Remove or set to a higher value if needed */
 }
 
 
@@ -658,8 +731,8 @@ Header Style
   background-color: #1e1e1e;
 }
 
-.visible{
-  display:inline !important;
+.visible {
+  display: inline !important;
 }
 
 @media (max-width: 1400px) {
@@ -673,15 +746,18 @@ Header Style
 @media (max-width: 1200px) {
 
   .header-area .main-nav .menu-trigger {
-    display: block !important; /* Make hamburger icon visible at widths less than 1200px */
+    display: block !important;
+    /* Make hamburger icon visible at widths less than 1200px */
   }
-  
+
   .background-header .main-nav .nav {
-    display: none; /* Hide the regular nav at this width */
+    display: none;
+    /* Hide the regular nav at this width */
   }
-  
-  .header-area .main-nav .menu-trigger.active + .nav {
-    display: block; /* Show the menu when hamburger is clicked */
+
+  .header-area .main-nav .menu-trigger.active+.nav {
+    display: block;
+    /* Show the menu when hamburger is clicked */
   }
 
   .background-header .main-nav {
@@ -689,10 +765,12 @@ Header Style
     border-radius: 0px 0px 25px 25px;
     width: 100%;
   }
+
   .background-header .main-nav .nav,
   .header-area .main-nav .nav {
     background-color: #fff;
   }
+
   .background-header .main-nav .nav li a,
   .header-area .main-nav .nav li a {
     line-height: 50px;
@@ -700,8 +778,9 @@ Header Style
     font-weight: 400;
     color: #fff1f1;
     background-color: #ffffff;
-     border-radius: 0px 0px 25px 25px;
+    border-radius: 0px 0px 25px 25px;
   }
+
   .background-header .main-nav .nav li,
   .header-area .main-nav .nav li {
     border-top: 1px solid #ddd;
@@ -709,38 +788,45 @@ Header Style
     height: 50px;
     border-radius: 0px 0px 25px 25px;
   }
+
   .header-area .main-nav .nav {
     height: 50px;
     flex-basis: 100%;
   }
-  
+
   .background-header .main-nav .border-button {
     top: 0px !important;
   }
+
   .header-area .main-nav .border-button {
     position: absolute;
     top: 15px;
     right: 70px;
   }
+
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #991820!important;
+    color: #991820 !important;
     opacity: 1;
   }
+
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
   }
+
   .header-area .nav li:last-child a {
     background-color: transparent !important;
     font-weight: 300 !important;
     text-transform: capitalize !important;
   }
+
   .header-area {
     padding: 0px 15px;
     height: 80px;
     box-shadow: none;
     text-align: center;
   }
+
   .header-area .container {
     padding: 0px;
   }
@@ -748,9 +834,11 @@ Header Style
   .header-area .menu-trigger {
     display: block !important;
   }
+
   .header-area .main-nav {
     overflow: hidden;
   }
+
   .header-area .main-nav .nav {
     float: none;
     width: 100%;
@@ -761,22 +849,26 @@ Header Style
     transition: all 0s ease 0s;
     margin-left: 0px;
   }
+
   .header-area .main-nav .nav li:first-child {
     border-top: 1px solid #2e2525;
   }
+
   .header-area.header-sticky .nav {
     margin-top: 100px !important;
   }
+
   .background-header.header-sticky .nav {
     margin-top: 100px !important;
   }
+
   .header-area .main-nav .nav li {
     width: 100%;
     background: #ffffff;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
-  
+
 }
 
 /* 
@@ -789,14 +881,18 @@ Banner Style
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding:5% 18% 2% 18%;
-  height: 600px; /* Ensure full width for proper alignment */
+  padding: 5% 18% 2% 18%;
+  height: 600px;
+  /* Ensure full width for proper alignment */
   margin-top: 0px;
-  text-align: left; /* Align text to the right */
-  width: 100%; /* Ensure full width for proper alignment */
+  text-align: left;
+  /* Align text to the right */
+  width: 100%;
+  /* Ensure full width for proper alignment */
   display: flex;
   flex-direction: column;
-  align-items: flex-end; /* Push all content to the right */
+  align-items: flex-end;
+  /* Push all content to the right */
 
 }
 
@@ -841,24 +937,25 @@ Banner Style
   display: inline-block;
   margin-bottom: 30px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
-  margin-left: 45%; 
+  display: inline-block;
+  /* Ensures they align properly */
+  margin-left: 45%;
 }
 
 .main-banner .item span.category.one {
-  margin-left: 45%; 
+  margin-left: 45%;
 }
 
 .main-banner .item span.category.two {
-  margin-left: 50%; 
+  margin-left: 50%;
 }
 
 .main-banner .item span.category.three {
-  margin-left: 0%; 
+  margin-left: 0%;
 }
 
 .main-banner .item span.category.four {
-  margin-left: 40%; 
+  margin-left: 40%;
 }
 
 .main-banner .item span.categorythree {
@@ -871,13 +968,16 @@ Banner Style
   display: inline-block;
   margin-bottom: 25px;
   border-radius: 8px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 .main-banner .item span.transparent {
   background-color: transparent;
-  border: 2px solid #F60017; /* Border color is the same as the original background */
-  color: #F60017; /* Text color to match the border */
+  border: 2px solid #F60017;
+  /* Border color is the same as the original background */
+  color: #F60017;
+  /* Text color to match the border */
   font-size: 16px;
   font-weight: 700;
   text-transform: capitalize;
@@ -885,7 +985,8 @@ Banner Style
   display: inline-block;
   margin-bottom: 25px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 
@@ -911,8 +1012,8 @@ Banner Style
   width: 85%;
   margin-bottom: 0px;
   text-align: left;
-  font-family: 'Baguet Script', cursive; 
-  margin-left: 45%; 
+  font-family: 'Baguet Script', cursive;
+  margin-left: 45%;
   padding: 0 0 10px 0;
 }
 
@@ -924,12 +1025,13 @@ Banner Style
   text-align: justify;
   text-jutify: inter-word;
   width: 78%;
-  margin-left: 45%; 
+  margin-left: 45%;
   padding: 0 0 10px 0;
 }
 
 .highlighted-text {
-  font-family: 'Baguet Script', cursive;  /* Apply Dancing Script font */
+  font-family: 'Baguet Script', cursive;
+  /* Apply Dancing Script font */
   font-weight: 700;
   color: #F60017;
   font-size: 22px;
@@ -942,9 +1044,10 @@ Banner Style
   width: 75%;
   line-height: 35px;
   margin-bottom: 0px;
-  font-family: 'Baguet Script', cursive;  /* Apply Dancing Script font */
+  font-family: 'Baguet Script', cursive;
+  /* Apply Dancing Script font */
   text-align: left;
-  margin-left: 45%; 
+  margin-left: 45%;
 }
 
 .main-banner .item h2.two {
@@ -957,7 +1060,7 @@ Banner Style
   text-align: left;
   width: 75%;
   font-family: 'Amasis MT Pro', serif;
-  margin-left: 50%; 
+  margin-left: 50%;
 }
 
 .main-banner .item p.two {
@@ -969,8 +1072,9 @@ Banner Style
   text-jutify: inter-word;
   line-height: 20px;
   width: 75%;
-  font-family: 'Amasis MT Pro', cursive;  /* Apply Dancing Script font */
-  margin-left: 50%; 
+  font-family: 'Amasis MT Pro', cursive;
+  /* Apply Dancing Script font */
+  margin-left: 50%;
   padding: 0 0 15px 0;
 }
 
@@ -981,7 +1085,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: left;
-  margin-left: 50%; 
+  margin-left: 50%;
 }
 
 .main-banner .item h2.three {
@@ -1014,7 +1118,7 @@ Banner Style
   margin-bottom: 0px;
   text-align: left;
   font-family: 'Lucida Calligraphy', sans-serif;
-  margin-left:  40%; 
+  margin-left: 40%;
 }
 
 .main-banner .item p.four {
@@ -1024,7 +1128,7 @@ Banner Style
   margin-bottom: 0px;
   font-family: Calibri, sans-serif;
   text-align: left;
-  margin-left: 40%; 
+  margin-left: 40%;
 }
 
 .main-banner .item h2.white-text {
@@ -1119,7 +1223,7 @@ Featured Style
   padding: 0;
 }
 
-.featured .top p.one{
+.featured .top p.one {
   font-size: 18px;
   line-height: 1.3;
   color: #333;
@@ -1127,10 +1231,10 @@ Featured Style
   border-radius: 8px;
   text-align: justify;
   text-align-last: center;
-  
+
 }
 
-.featured .top p.two{
+.featured .top p.two {
   font-size: 16px;
   line-height: 1.3;
   font-weight: 700;
@@ -1148,8 +1252,8 @@ Featured Style
 
 .featured .btn-primary {
   display: inline-block;
-  background-color: #F60017;  
-  color: #ffffff; 
+  background-color: #F60017;
+  color: #ffffff;
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1173,24 +1277,35 @@ Services_Intro Style
 --------------------------------------------- 
 */
 .services_intro ul {
-  list-style-type: disc; /* Ensures bullet points appear */
-  padding-left: 20px; /* Adds indentation */
+  list-style-type: disc;
+  /* Ensures bullet points appear */
+  padding-left: 20px;
+  /* Adds indentation */
 }
 
 .services_intro ul li {
-  margin-bottom: 5px; /* Adds spacing between items */
-  display: list-item; /* Ensures bullets appear */
-  color: black; /* Text color */
-  position: relative; /* Needed for custom bullet */
-  line-height: 1; /* Increases line spacing */
+  margin-bottom: 5px;
+  /* Adds spacing between items */
+  display: list-item;
+  /* Ensures bullets appear */
+  color: black;
+  /* Text color */
+  position: relative;
+  /* Needed for custom bullet */
+  line-height: 1;
+  /* Increases line spacing */
 }
 
 .services_intro ul li::before {
-  content: "•"; /* Custom bullet point */
-  color: red; /* Red bullet */
-  font-size: 18px; /* Adjust size */
+  content: "•";
+  /* Custom bullet point */
+  color: red;
+  /* Red bullet */
+  font-size: 18px;
+  /* Adjust size */
   position: absolute;
-  left: -20px; /* Moves bullet to correct position */
+  left: -20px;
+  /* Moves bullet to correct position */
 }
 
 
@@ -1205,9 +1320,9 @@ Services_Intro Style
 .services_intro .serviceshead img {
   display: block;
   margin: 0 auto;
-  width: 40%; 
-  max-width: 100%; 
-  height: auto; 
+  width: 40%;
+  max-width: 100%;
+  height: auto;
   padding-top: 60px;
 }
 
@@ -1215,8 +1330,8 @@ Services_Intro Style
   display: block;
   margin: 0 auto;
   width: 100%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding-top: 60px;
 }
 
@@ -1235,21 +1350,24 @@ Services_Intro Style
 
 .service-row {
   display: grid;
-  grid-template-columns: 50px auto; /* First column = icon, Second column = text */
+  grid-template-columns: 50px auto;
+  /* First column = icon, Second column = text */
   align-items: start;
   gap: 15px;
   background: transparent;
 }
 
 .service-icon img {
-  width: 40px; /* Adjust icon size */
+  width: 40px;
+  /* Adjust icon size */
   height: auto;
 }
 
 .service-content h3 {
   font-size: 20px;
   font-weight: bold;
-  color: #F60017; /* Adjust color */
+  color: #F60017;
+  /* Adjust color */
   margin: 0;
 }
 
@@ -1303,8 +1421,8 @@ Services_Intro Style
   display: block;
   margin: 0 auto;
   width: 90%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding: 10px 0px 20px 0px;
 }
 
@@ -1318,7 +1436,8 @@ Services_Intro Style
   display: inline-block;
   margin-bottom: 40px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 /* 
@@ -1338,23 +1457,25 @@ Services_Brain Style
   margin: 0 auto;
   width: 30%;
   height: auto;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding: 0px 0px 120px 0px;
 }
 
 .services_brain .brainright {
   display: flex;
-  flex-direction: column; /* Ensures image is above the text */
-  align-items: flex-start; /* Aligns everything to the left */
+  flex-direction: column;
+  /* Ensures image is above the text */
+  align-items: flex-start;
+  /* Aligns everything to the left */
 }
 
 .services_brain .brainleft img {
   display: block;
   margin: 0 auto;
   width: 90%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
 }
 
 .services_brain .brainright img {
@@ -1363,17 +1484,17 @@ Services_Brain Style
   height: auto;
 }
 
-.services_brain .brainright p.one{
+.services_brain .brainright p.one {
   font-size: 18px;
   line-height: 1.3;
   color: #333;
   border-radius: 8px;
   text-align: justify;
   padding-bottom: 50px;
-  
+
 }
 
-.services_brain .brain p.two{
+.services_brain .brain p.two {
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
@@ -1384,7 +1505,7 @@ Services_Brain Style
   padding: 70px 15px 0px 15px;
 }
 
-.services_brain .brain p.three{
+.services_brain .brain p.three {
   font-size: 40px;
   line-height: 1.3;
   font-weight: 700;
@@ -1402,16 +1523,19 @@ Services_Brain Style
 
 .services_brain .brainright .btn-primary {
   display: inline-block;
-  background-color: #571b4c;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #571b4c;
+  /* Customize button background color */
+  color: #ffffff;
+  /* Text color */
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
   transition: background-color 0.3s ease;
-  
+
 }
-.services_brain .brain p.four{
+
+.services_brain .brain p.four {
   font-size: 22px;
   line-height: 1.3;
   font-weight: 600;
@@ -1433,9 +1557,11 @@ Services_Brain Style
   display: inline-block;
   margin-bottom: 30px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
   text-align: center;
 }
+
 /* 
 ---------------------------------------------
 Services_Finance Style
@@ -1449,8 +1575,10 @@ Services_Finance Style
 
 .services_finance .financeright {
   display: flex;
-  flex-direction: column; /* Ensures image is above the text */
-  align-items: flex-start; /* Aligns everything to the left */
+  flex-direction: column;
+  /* Ensures image is above the text */
+  align-items: flex-start;
+  /* Aligns everything to the left */
 }
 
 .services_finance .financeright img {
@@ -1463,8 +1591,8 @@ Services_Finance Style
   display: block;
   margin: 0 auto;
   width: 90%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
 }
 
 .services_finance .finance img {
@@ -1481,17 +1609,17 @@ Services_Finance Style
 
 
 
-.services_finance .financeright p.one{
+.services_finance .financeright p.one {
   font-size: 18px;
   line-height: 1.3;
   color: #333;
   border-radius: 8px;
   text-align: justify;
   padding: 10px 0px 50px 0px;
-  
+
 }
 
-.services_finance .finance p.two{
+.services_finance .finance p.two {
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
@@ -1504,18 +1632,20 @@ Services_Finance Style
 
 .services_finance .financeright .btn-primary {
   display: inline-block;
-  background-color: #571b4c;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #571b4c;
+  /* Customize button background color */
+  color: #ffffff;
+  /* Text color */
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
   text-align: left;
   transition: background-color 0.3s ease;
-  
+
 }
 
-.services_finance .finance p.four{
+.services_finance .finance p.four {
   font-size: 22px;
   line-height: 1.3;
   font-weight: 600;
@@ -1537,15 +1667,16 @@ Services_Finance Style
   display: inline-block;
   margin-bottom: 30px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 .services_finance .brain img {
   display: block;
   margin: 0 auto;
   width: 90%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding: 30px 0px 0px 0px;
 }
 
@@ -1567,8 +1698,8 @@ Services_Outro Style
   display: block;
   margin: 0 auto;
   width: 50%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding: 0px 0px 30px 0px;
 }
 
@@ -1581,13 +1712,16 @@ Services_Outro Style
   padding: 6px 15px;
   display: inline-block;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 .services_outro span.transparent {
   background-color: transparent;
-  border: 2px solid #F60017; /* Border color is the same as the original background */
-  color: #F60017; /* Text color to match the border */
+  border: 2px solid #F60017;
+  /* Border color is the same as the original background */
+  color: #F60017;
+  /* Text color to match the border */
   font-size: 20px;
   font-weight: 700;
   text-transform: capitalize;
@@ -1595,15 +1729,16 @@ Services_Outro Style
   display: inline-block;
   margin-bottom: 25px;
   border-radius: 25px;
-  display: inline-block; /* Ensures they align properly */
+  display: inline-block;
+  /* Ensures they align properly */
 }
 
 .services_outro .book img {
   display: block;
   margin: 0 auto;
   width: 85%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding: 40px 0px 40px 0px;
 }
 
@@ -1611,15 +1746,17 @@ Services_Outro Style
   display: block;
   margin: 0 auto;
   width: 80%;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
   padding-top: 100px;
 }
 
 .services_outro .btn-contact {
   display: inline-block;
-  background-color: #F60017;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #F60017;
+  /* Customize button background color */
+  color: #ffffff;
+  /* Text color */
   font-size: 19px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1627,7 +1764,7 @@ Services_Outro Style
   transition: background-color 0.3s ease;
 }
 
-.slides p.slide{
+.slides p.slide {
   font-size: 28px;
   line-height: 1.3;
   font-weight: 700;
@@ -1657,30 +1794,37 @@ Services_Outro Style
 
 /* INDIVIDUAL LOGOS */
 .logos img {
-  height: 200px;  /* Adjust height as needed */
-  width: auto;  /* Keeps aspect ratio */
+  height: 200px;
+  /* Adjust height as needed */
+  width: auto;
+  /* Keeps aspect ratio */
   margin: 0 15px;
-  object-fit: contain; /* Prevents distortion */
+  object-fit: contain;
+  /* Prevents distortion */
 }
 
 /* SLIDING ANIMATION */
 @keyframes slidein {
   from {
-      transform: translateX(0);
+    transform: translateX(0);
   }
+
   to {
-      transform: translateX(-100%);
+    transform: translateX(-100%);
   }
 }
-.questions  {
+
+.questions {
   text-align: center;
 }
 
 
 .questions .btn-contact {
   display: inline-block;
-  background-color: #571b4c;  /* Customize button background color */
-  color: #ffffff;  /* Text color */
+  background-color: #571b4c;
+  /* Customize button background color */
+  color: #ffffff;
+  /* Text color */
   font-size: 19px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1707,7 +1851,8 @@ Footer Style
 */
 
 footer .right {
-  padding: 0px 80px; /* Adds space around the entire right section */
+  padding: 0px 80px;
+  /* Adds space around the entire right section */
 }
 
 footer {
@@ -1785,6 +1930,396 @@ span.button_faq {
 
 /* 
 ---------------------------------------------
+About Me Style
+--------------------------------------------- 
+*/
+.about_me {
+  background-color: #e7e7e7;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
+}
+
+.about_me h2.one {
+  font-size: 43px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 50px;
+  margin-bottom: 0px;
+  font-family: 'Arial', cursive;
+  padding: 0 0 80px 0;
+}
+
+.about_me h2.two {
+  font-size: 50px;
+  font-weight: 700;
+  color: #af9607;
+  margin-bottom: 0px;
+  font-family: 'Lucida Calligraphy';
+}
+
+.about_me .middle img {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  height: auto;
+  max-width: 100%;
+  padding: 0px 0px 85px 0px;
+}
+
+/* 
+---------------------------------------------
+.My_Journey Style
+--------------------------------------------- 
+*/
+
+.my_journey {
+  background-color: #e7e7e7;
+  padding: 50px 0px 50px 0px;
+  text-align: left;
+}
+
+.my_journey .brainright {
+  display: flex;
+  flex-direction: column;
+  /* Ensures image is above the text */
+  align-items: flex-start;
+  /* Aligns everything to the left */
+}
+
+.my_journey .brainleft img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.my_journey .brainleft p.one {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  border-radius: 8px;
+  padding-bottom: 5px;
+  margin-left: 25px;
+
+}
+
+.my_journey .brainright img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.my_journey .brainright p.one {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  text-align: justify;
+  padding: 30px 0 20px 0;
+
+}
+
+.my_journey .brainright p.two {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  text-align: justify;
+  padding-bottom: 20px;
+
+}
+
+.my_journey .brain p.two {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  text-align: justify;
+  padding: 20px 0px 20px 0px;
+}
+
+
+.my_journey .highlighted-text {
+  color: #000000;
+  font-weight: bold;
+}
+
+.my_journey span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-bottom: 30px;
+  border-radius: 25px;
+  display: inline-block;
+  /* Ensures they align properly */
+  text-align: center;
+}
+
+.my_journey .buttom img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding: 50px 0px 50px 0px;
+}
+
+/* 
+---------------------------------------------
+Why Choose Style
+--------------------------------------------- 
+*/
+.why_choose {
+  background-color: #eaf5e7;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
+}
+
+.why_choose h2.one {
+  font-size: 70px;
+  font-weight: 700;
+  color: #F60017;
+  line-height: 50px;
+  margin-bottom: 0px;
+  font-family: 'Lucida Calligraphy', cursive;
+  padding: 60px 0 0 0;
+}
+
+.why_choose .top img {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  height: auto;
+  max-width: 100%;
+  padding: 0px 0px 30px 0px;
+}
+
+.why_choose p.one {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  text-align: center;
+  padding: 10px 0 10px 0;
+
+}
+
+.why_choose .highlighted-text {
+  color: #000000;
+  font-weight: bold;
+}
+
+.why_choose span.button {
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: capitalize;
+  padding: 6px 15px;
+  display: inline-block;
+  margin-top: 80px;
+  border-radius: 25px;
+  display: inline-block;
+  /* Ensures they align properly */
+  text-align: center;
+}
+
+/* 
+---------------------------------------------
+Qualifications Style
+--------------------------------------------- 
+*/
+.qualifications {
+  background-color: #efefef;
+  padding: 50px 0px 50px 0px;
+  text-align: left;
+}
+
+.qualifications h2.one {
+  font-size: 50px;
+  font-weight: 700;
+  color: #c55911;
+  line-height: 50px;
+  margin-bottom: 0px;
+  font-family: 'Lucida Calligraphy', cursive;
+  padding: 60px 0 0 0;
+  text-align: center;
+}
+
+.qualifications h2.two {
+  font-size: 70px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 50px;
+  margin-bottom: 0px;
+  font-family: 'Lucida Calligraphy', cursive;
+  padding: 60px 0 0 0;
+  text-align: center;
+}
+
+.qualifications h2.three {
+  font-size: 25px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 30px;
+  margin-bottom: 0px;
+  font-family: 'Calibri', cursive;
+  padding: 5px 0 50px 0;
+  text-align: center;
+}
+
+.qualifications h2.four {
+  font-size: 25px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 30px;
+  margin-bottom: 0px;
+  font-family: 'Calibri', cursive;
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+
+.qualifications .top img {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  height: auto;
+  max-width: 100%;
+  padding: 0px 0px 30px 0px;
+}
+.qualifications .right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.qualifications .left img {
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+  max-width: 100%;
+  height: auto;
+}
+
+.qualifications .left p.one {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  border-radius: 8px;
+  padding-bottom: 5px;
+  margin-left: 25px;
+
+}
+
+.qualifications .right p.one {
+  font-size: 22px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  padding: 50px 20px 20px 20px;
+
+}
+
+.qualifications ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.qualifications ul li {
+  font-size: 20px;
+  margin-bottom: 5px;
+  display: list-item;
+  color: black;
+  position: relative;
+  line-height: 1.3;
+}
+
+.qualifications ul li::before {
+  content: "▶"; /* Unicode for a triangle bullet */
+  color: red;
+  font-size: 20px;
+  position: absolute;
+  left: -20px;
+}
+
+.qualifications ul.check  {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.qualifications ul.check  li {
+  font-size: 20px;
+  margin-bottom: 5px;
+  display: list-item;
+  color: black;
+  position: relative;
+  line-height: 1.3;
+  margin-left: 20%;
+}
+
+.qualifications ul.check li::before {
+  content: "\2713"; /* Unicode for a right-facing triangle */
+  color: red; /* Triangle color */
+  position: absolute;
+  left: -20px;
+  font-size: 24px; /* Adjust size */
+}
+
+.qualifications .member p.one {
+  font-size: 22px;
+  line-height: 1.2;
+  color: #000000;
+  border-radius: 8px;
+  padding: 50px 20px 0px 20px;
+  text-align: center;
+
+}
+.qualifications .buttom h2.four {
+  font-size: 25px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 30px;
+  margin-bottom: 0px;
+  font-family: 'Calibri', cursive;
+  padding: 100px 0 0px 0;
+  text-align: center;
+}
+
+.qualifications .buttom img {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  height: auto;
+  max-width: 100%;
+  padding: 0px 0px 30px 0px;
+}
+
+.highlightedone-text {
+  font-family: 'Lucida Calligraphy', cursive;
+  /* Apply Dancing Script font */
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+}
+
+.qualifications a {
+  font-family: 'Calibri', cursive;
+  /* Apply Dancing Script font */
+  font-weight: 700;
+  color: #F60017;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-decoration: underline; 
+}
+/* 
+---------------------------------------------
 Page Header Style
 --------------------------------------------- 
 */
@@ -1817,82 +2352,6 @@ Page Header Style
   font-size: 48px;
   font-weight: 900;
   text-transform: uppercase;
-  color: #fff;
-}
-
-
-/* 
----------------------------------------------
-Properties Style
---------------------------------------------- 
-*/
-
-.properties ul.properties-filter {
-  list-style: none;
-  text-align: center;
-  margin-bottom: 70px;
-}
-
-.properties ul.properties-filter li {
-  display: inline-block;
-  margin: 5px 8px;
-}
-
-.properties ul.properties-filter li a {
-  display: inline-block;
-  text-align: center;
-  font-size: 15px;
-  text-transform: capitalize;
-  font-weight: 500;
-  color: #fff;
-  background-color: #1e1e1e;
-  padding: 12px 25px;
-  border-radius: 5px;
-  transition: all .3s;
-}
-
-.properties ul.properties-filter li a.is_active {
-  background-color: #f35525;
-  color: #fff;
-}
-
-.properties ul.properties-filter li a.is_active:hover {
-  color: #fff;
-}
-
-.properties ul.properties-filter li a:hover {
-  color: #f35525;
-}
-
-.properties ul.pagination {
-  margin-top: 50px;
-  text-align: center;
-  width: 100%;
-  display: inline-block;
-}
-
-.properties ul.pagination li {
-  display: inline-block;
-  margin: 0px 5px;
-}
-
-.properties ul.pagination li a {
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  text-align: center;
-  background-color: #1e1e1e;
-  color: #fff;
-  font-size: 15px;
-  font-weight: 600;
-  border-radius: 50%;
-  transition: all .3s;
-}
-
-.properties ul.pagination li a:hover,
-.properties ul.pagination li a.is_active {
-  background-color: #f35525;
   color: #fff;
 }
 
