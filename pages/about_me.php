@@ -242,7 +242,7 @@
                     </div>
 
                     <!-- Left Column: Image -->
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-8 col-md-12">
                         <div class="right">
                             <ul>
                                 <li>Certified Rapid Transformational Hypnotherapist & Therapist trained
@@ -271,7 +271,7 @@
 
 
                     <!-- Right Column: Text Content -->
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-4 col-md-12">
                         <div class="left">
                             <img src="../assets/images/includes/qualifications.jpg" alt="">
                         </div>

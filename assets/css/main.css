@@ -2076,7 +2076,7 @@ Why Choose Style
 --------------------------------------------- 
 */
 .why_choose {
-  background-color: #eaf5e7;
+  background-color: #F5F5DC;
   padding: 50px 0px 50px 0px;
   text-align: center;
 }
@@ -2136,7 +2136,7 @@ Qualifications Style
 --------------------------------------------- 
 */
 .qualifications {
-  background-color: #efefef;
+  background-color: #faebd7;
   padding: 50px 0px 50px 0px;
   text-align: left;
 }
@@ -2202,7 +2202,7 @@ Qualifications Style
 .qualifications .left img {
   display: block;
   margin: 0 auto;
-  width: 95%;
+  width: 100%;
   max-width: 100%;
   height: auto;
 }
