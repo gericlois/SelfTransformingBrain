@@ -103,7 +103,7 @@
                                 trauma, fuelled my commitment to supporting others in overcoming their struggles. I
                                 wanted to be the kind of support and guide that I didn't always have when I was growing
                                 up, someone who could help others to recognise their worth and potential, despite the
-                                challenges they face. </p>
+                                challenges they face. </p><br>
 
                             <p class="two">
                                 This journey led me to pursue a career in RTT Hypnotherapy, allowing me to combine my
@@ -125,7 +125,7 @@
 
                     <!-- Right Column: Text Content -->
                     <div class="col-lg-6 col-md-12">
-                        <div class="brainleft">
+                        <div class="brainleft2">
                             <img src="../assets/images/includes/portrait_myjourney2.jpg" alt="">
                         </div>
                     </div>
