@@ -7,7 +7,7 @@
 
     <div class="main-banner">
 
-        <div class="about_me section">
+        <div class="about_me section" id="target-section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -243,7 +243,7 @@
 
                     <!-- Left Column: Image -->
                     <div class="col-lg-8 col-md-12">
-                        <div class="right">
+                        <div class="left">
                             <ul>
                                 <li>Certified Rapid Transformational Hypnotherapist & Therapist trained
                                     by Marisa Peer – WORLD RENOWNED and highly acclaimed therapist and hypnotherapist
@@ -265,14 +265,13 @@
                                     at Insight Community Coach, accredited by the International
                                     Coaching Federation (ICF).</li>
                             </ul>
-
                         </div>
                     </div>
 
 
                     <!-- Right Column: Text Content -->
                     <div class="col-lg-4 col-md-12">
-                        <div class="left">
+                        <div class="right">
                             <img src="../assets/images/includes/qualifications.jpg" alt="">
                         </div>
                     </div>
@@ -298,8 +297,10 @@
                     </div>
 
                     <div class="buttom">
-                        <h2 class="four">If you are looking for  <span class="highlightedone-text">FAST, EFFECTIVE, PERMENANT CHANGE, </span>Please <span class="highlightedone-text"><a href=""> BOOK A FREE
-                            DISCOVERY CALL NOW</a></span> to see how Rapid Transformation Therapy can transform your life.
+                        <h2 class="four">If you are looking for <span class="highlightedone-text">FAST, EFFECTIVE,
+                                PERMENANT CHANGE, </span>Please <a href=""><u>BOOK A FREE
+                                    DISCOVERY CALL NOW</u> </a> to see how Rapid Transformation Therapy can transform
+                            your life.
                         </h2>
                         <img src="../assets/images/includes/qualificationbot.png" alt="">
                     </div>
@@ -325,6 +326,20 @@
     <script src="../assets/js/counter.js"></script>
     <script src="../assets/js/custom.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        window.addEventListener("scroll", function() {
+            var header = document.querySelector(".header-area");
+            var section = document.querySelector("#target-section");
+
+            if (window.scrollY >= section.offsetTop) {
+                header.classList.add("floating-header");
+            } else {
+                header.classList.remove("floating-header");
+            }
+        });
+    });
+    </script>
 
     </body>
 
