@@ -434,15 +434,6 @@ Pre-loader Style
 Header Style
 --------------------------------------------- 
 */
-.floating-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  background: #fff;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  z-index: 999;
-}
 
 .dropdown:hover .dropdown-menu {
   display: block;
@@ -450,13 +441,12 @@ Header Style
 
 .dropdown-menu {
   display: none;
-  /* Initially hidden */
   position: absolute;
   top: 100%;
   left: 0;
   z-index: 1000;
   min-width: 160px;
-  padding: 0.5rem 0;
+  padding: .5rem 0;
   margin: 0;
   font-size: 1rem;
   color: #000000;
@@ -468,8 +458,9 @@ Header Style
 }
 
 .dropdown-item {
-  padding: 0.25rem 1rem;
-  /* Adjust padding as needed */
+  padding: 1rem 1rem;
+  line-height: 19.5; /* Adjust this value as needed */
+  white-space: normal; /* Ensures text wraps properly */
 }
 
 .dropdown-menu li {
@@ -480,9 +471,7 @@ Header Style
   display: inline-block;
   padding: 5px 30px;
   background-color: #F60017;
-  /* Customize button background color */
   color: #ffffff;
-  /* Text color */
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
@@ -493,7 +482,6 @@ Header Style
 
 .sub-header .btn-primary:hover {
   background-color: #D50011;
-  /* Darker shade on hover */
   cursor: pointer;
 }
 
@@ -615,7 +603,7 @@ Header Style
   padding-bottom: 10px;
   font-weight: 700;
   font-size: 14px;
-  line-height: 8px;
+  line-height: 10px;
   text-transform: capitalize;
   color: #1e1e1e;
   -webkit-transition: all 0.4s ease 0s;
