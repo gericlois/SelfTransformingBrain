@@ -6,7 +6,7 @@
     <?php include "includes/header.php" ?>
 
     <div class="main-banner">
-        <div class="rtt_top">
+        <div class="rtt section">
             <div class="container">
                 <div class="row">
 
@@ -27,8 +27,8 @@
                     <div class="col-lg-12">
                         <div class="context">
                             <p class="one"><span class="highlighted-text">Rapid Transformational Therapy (RTT),</span>
-                                created by GLOBALLY RECOGNIZED MARISA PEER,</span> is an innovative therapeutic approach
-                                grounded in neuroscience. It delivers<span class="highlighted-text">effective, fast,
+                                created by <span class="highlighted-text">GLOBALLY RECOGNIZED MARISA PEER,</span> is an innovative therapeutic approach
+                                grounded in neuroscience. It delivers <span class="highlighted-text">effective, fast,
                                     powerful and TRANSFORMATIVE</span> results by integrating the most effective and
                                 powerful principles of Hypnotherapy, Psychotherapy, NLP, and CBT. In just a few powerful
                                 sessions, RTT helps you to uncover and heal the root causes of your struggles—whether
@@ -59,8 +59,8 @@
                                 emotional pain and physical discomfort. Clients have reported improvement in areas like
                                 chronic pain, sleep issues, weight loss challenges, and even more severe
                                 conditions—simply by addressing the emotional and mental root causes. RTT gives you the
-                                tools and insights you need to live a life of empowerment, purpose, and fulfilment. By
-                                eliminating the negative subconscious programming that’s been holding you back, RTT
+                                tools and insights in order to live a life of empowerment, purpose, and fulfilment. It is
+                                eliminating the negative subconscious programming that’s been holding you back. Also, RTT
                                 helps you discover a deeper sense of confidence and self-worth, allowing you to pursue
                                 your dreams with courage and clarity.
                             </p>
