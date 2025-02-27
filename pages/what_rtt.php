@@ -79,7 +79,7 @@
                                 achieve the freedom you deserve?
                             </p>
 
-                            <span class="button">WORK WITH ME</span>
+                            <span class="button">BOOK A SESSION WITH ME</span>
 
                             <div class="footer">
                                 <img src="../assets/images/includes/rtt_footer.png" alt="">
