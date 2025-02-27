@@ -61,17 +61,19 @@
                                 University of Westminster teaching range of subjects within Economy, Entrepreneurship,
                                 Finance and Accounting, Business Management and Strategy, and Quantitative Analysis to
                                 both undergraduates and postgraduates. I have actively contributed to both the education
-                                and business sectors, focusing on roles in training and mentorship. As a
-                                Research/Dissertation Supervisor and Project Supervisor, I assist learners—ranging from
-                                students to young professionals and early-career workers—in enhancing their skills and
-                                advancing their professional growth.
+                                and business sectors, focusing on roles in training and mentorship.
                             </p>
                         </div>
                     </div>
 
 
                     <div class="col-lg-12">
-                        <div class="brain">
+                        <div class="buttom">
+                            <p class="one"> As a Research/Dissertation Supervisor and Project Supervisor, I assist
+                                learners—ranging from
+                                students to young professionals and early-career workers—in enhancing their skills and
+                                advancing their professional growth.
+                            </p>
                             <p class="two"> Additionally, I provide consultancy services to start-up businesses for
                                 <span class="highlighted-text"> Women, Students </span>and <span
                                     class="highlighted-text">Graduates,</span> assisting them to establish their
