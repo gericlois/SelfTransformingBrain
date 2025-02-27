@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row align-items-left">
                     <!-- Left Column: Image -->
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-5 col-md-12">
                         <div class="brainleft">
                             <p class="one" align-items-left> ------------MEET SERVET EGE</p>
                             <img src="../assets/images/includes/portrait_myjourney.jpg" alt="">
@@ -38,7 +38,7 @@
                     </div>
 
                     <!-- Right Column: Text Content -->
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-7 col-md-12">
                         <div class="brainright">
                             <p class="one"><span class="highlighted-text">MY Journey</span> to becoming a therapist is a
                                 unique blend of my passion for neuroscience and personal growth, with each experience
@@ -55,7 +55,7 @@
                                 a sense of purpose and hope. Despite the chaos at home, my academic success became a
                                 refuge for me. At 17, I moved to the UK. Although I had originally planned to study
                                 neuroscience, I ended up pursuing in Finance and Accounting. I have been working in
-                                Finance industry for last 28 years in the city of London in range of senior roles in
+                                Finance industry for last 28 years in the City of London in range of senior roles in
                                 private and public companies in corporate world. I have amazing and successful career in
                                 Finance industry. Also, last five years I have been working as a Visiting Lecturer at
                                 University of Westminster teaching range of subjects within Economy, Entrepreneurship,
