@@ -51,7 +51,7 @@
                     aria-expanded="false">ABOUT</a>
                   <ul class="dropdown-menu">
                     <li><a href="about_me.php">MEET SERVET</a></li>
-                    <li><a href="#">WHAT IS RTT?</a></li>
+                    <li><a href="what_rtt.php">WHAT IS RTT?</a></li>
                     <li><a href="#">HOW IT WORKS</a></li>
                   </ul>
                 </li>

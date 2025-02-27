@@ -7,18 +7,20 @@
 
     <div class="main-banner">
 
-        <div class="about_me section" id="target-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="top">
-                            <h2 class="one">"WHAT HELPED ME CAN HELP YOU TOO—I’M A LIVING EXAMPLE OF IT"</h2>
-                            <h2 class="two">MY JOURNEY</h2>
-                        </div>
-
+        <div class="about_me" id="target-section">
+            <div class="header-text">
+                <div class="container">
+                    <div class="row">
                         <div class="col-lg-12">
-                            <div class="middle">
-                                <img src="../assets/images/includes/myjourney.png" alt="">
+                            <div class="top">
+                                <h2 class="one">"WHAT HELPED ME CAN HELP YOU TOO—I’M A LIVING EXAMPLE OF IT"</h2>
+                                <h2 class="two">MY JOURNEY</h2>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="middle">
+                                    <img src="../assets/images/includes/myjourney.png" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -213,7 +215,7 @@
 
                             </p>
 
-                            <span class="button">BEGIN YOUR TRANSFORMATION TODAY</span><br><br><br>
+                            <span class="button">WORK WITH ME </span>
                         </div>
                     </div>
 
@@ -312,7 +314,6 @@
             </div>
         </div>
 
-    </div>
     </div>
 
     </Main>
