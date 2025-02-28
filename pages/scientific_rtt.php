@@ -87,7 +87,7 @@
                                 by altering habitual thought patterns.
                                 <br>
                                 Also, we need to consider the <span class="highlighted-text">Neurotransmitters</span> in
-                                this mix which they are the chemical
+                                this mix as they are the chemical
                                 messengers in our brain, play a crucial role in this process. They influence mood,
                                 motivation, and cognitive function, affecting everything from happiness (serotonin and
                                 dopamine) to stress (cortisol). The NLP techniques can help optimize thought patterns,
