@@ -70,6 +70,7 @@
         <div class="featured section">
             <div class="container">
                 <div class="row">
+
                     <div class="col-lg-12">
                         <div class="top">
                             <img src="../assets/images/includes/your_journey.png" alt="">
@@ -96,6 +97,7 @@
                             <img src="../assets/images/includes/you_believe2.png" alt="">
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>

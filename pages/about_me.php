@@ -11,6 +11,7 @@
             <div class="header-text">
                 <div class="container">
                     <div class="row">
+
                         <div class="col-lg-12">
                             <div class="top">
                                 <h2 class="one">"WHAT HELPED ME CAN HELP YOU TOO—I’M A LIVING EXAMPLE OF IT"</h2>
@@ -23,6 +24,7 @@
                                 </div>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>
@@ -214,7 +216,6 @@
 
 
                             </p>
-
                             <span class="button">WORK WITH ME </span>
                         </div>
                     </div>

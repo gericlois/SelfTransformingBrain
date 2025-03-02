@@ -27,7 +27,8 @@
                     <div class="col-lg-12">
                         <div class="context">
                             <p class="one"><span class="highlighted-text">Rapid Transformational Therapy (RTT),</span>
-                                created by <span class="highlighted-text">GLOBALLY RECOGNIZED MARISA PEER,</span> is an innovative therapeutic approach
+                                created by <span class="highlighted-text">GLOBALLY RECOGNIZED MARISA PEER,</span> is an
+                                innovative therapeutic approach
                                 grounded in neuroscience. It delivers <span class="highlighted-text">effective, fast,
                                     powerful and TRANSFORMATIVE</span> results by integrating the most effective and
                                 powerful principles of Hypnotherapy, Psychotherapy, NLP, and CBT. In just a few powerful
@@ -59,8 +60,10 @@
                                 emotional pain and physical discomfort. Clients have reported improvement in areas like
                                 chronic pain, sleep issues, weight loss challenges, and even more severe
                                 conditions—simply by addressing the emotional and mental root causes. RTT gives you the
-                                tools and insights in order to live a life of empowerment, purpose, and fulfilment. It is
-                                eliminating the negative subconscious programming that’s been holding you back. Also, RTT
+                                tools and insights in order to live a life of empowerment, purpose, and fulfilment. It
+                                is
+                                eliminating the negative subconscious programming that’s been holding you back. Also,
+                                RTT
                                 helps you discover a deeper sense of confidence and self-worth, allowing you to pursue
                                 your dreams with courage and clarity.
                             </p>
@@ -78,20 +81,41 @@
                             <p class="four">Are you ready to experience rapid, lasting change and
                                 achieve the freedom you deserve?
                             </p>
-
-                            <span class="button">BOOK A SESSION WITH ME</span>
+ 
 
                             <div class="footer">
                                 <img src="../assets/images/includes/rtt_footer.png" alt="">
                             </div>
 
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/u80NerrMyxo?si=9SOyiBrlZRRq7RHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <div class="list">
+                                <p class="one">RTT IS ACCREDITED BY THE FOLLOWING PROFESSIONAL BODIES:</p>
+                                <ul class="check">
+                                    <li>Accredited Counsellors, Coaches, Psychotherapists and Hypnotherapists (ACCPH)
+                                    </li>
+                                    <li>International Hypnosis Federation (IHF)</li>
+                                    <li>International Hypnosis Association (IHA)</li>
+                                    <li>General Hypnotherapy Register (GHR)</li>
+                                    <li>International Association of Counsellors and Therapists (IACT)</li>
+                                    <li>International Institute for Complementary Therapists (IICT)</li>
+                                    <li>New Zealand Association of Professional Hypnotherapists Inc. (NZAPH)</li>
+                                    <li>Australian Society of Clinical Hypnotherapists (ASCH)</li>
+                                </ul>
+                            </div>
+
+                            
+                            <iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/u80NerrMyxo?si=9SOyiBrlZRRq7RHz"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
                         </div>
                     </div>
-
                 </div>
+
             </div>
         </div>
+    </div>
 
 
 

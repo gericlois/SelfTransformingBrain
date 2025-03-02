@@ -53,7 +53,7 @@
                     <li><a href="about_me.php">MEET SERVET</a></li>
                     <li><a href="what_rtt.php">WHAT IS RTT?</a></li>
                     <li><a href="scientific_rtt.php">SCIENTIFIC OVERVIEW</a></li>
-                    <li><a href="#">HOW RTT WORKS</a></li>
+                    <li><a href="how_rtt.php">HOW RTT WORKS</a></li>
                   </ul>
                 </li>
 
