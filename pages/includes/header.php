@@ -61,10 +61,12 @@
                   <a href="#" class="dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">RTT
                     TREATMENTS</a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">CAREER</a></li>
-                    <li><a href="#">EDUCATION</a></li>
-                    <li><a href="#">RELATIONSHIP</a></li>
+                    <li><a href="#">EMPOWERMENT & SELF GROWTH</a></li>
                     <li><a href="#">MENTAL HEALTH</a></li>
+                    <li><a href="#">ADDICTION</a></li>
+                    <li><a href="#">WEIGHT & BODY IMAGE</a></li>
+                    <li><a href="#">CAREER AND EDUCATION</a></li>
+                    <li><a href="#">PHYSICAL HEALTH</a></li>
                   </ul>
                 </li>
 

@@ -19,7 +19,7 @@
 
                 <div class="col-lg-12">
                     <div class="step1">
-                        <img src="../assets/images/includes/step1.png" alt="">
+                        <img src="../assets/images/includes/STEP1.png" alt="">
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@
 
                 <div class="col-lg-12">
                     <div class="step2">
-                        <img src="../assets/images/includes/step2.png" alt="">
+                        <img src="../assets/images/includes/STEP2.png" alt="">
                     </div>
                 </div>
 
@@ -43,7 +43,7 @@
 
                 <div class="col-lg-12">
                     <div class="step3">
-                        <img src="../assets/images/includes/step3.png" alt="">
+                        <img src="../assets/images/includes/STEP3.png" alt="">
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@
 
                 <div class="col-lg-12">
                     <div class="step4">
-                        <img src="../assets/images/includes/step4.png" alt="">
+                        <img src="../assets/images/includes/STEP4.png" alt="">
                     </div>
                 </div>
 
@@ -67,7 +67,7 @@
 
                 <div class="col-lg-12">
                     <div class="step5">
-                        <img src="../assets/images/includes/step5.png" alt="">
+                        <img src="../assets/images/includes/STEP5.png" alt="">
                     </div>
                 </div>
 
