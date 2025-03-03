@@ -32,7 +32,7 @@
 
                     <div class="col-lg-12">
                         <div class="context">
-                            <p class="one">Bulimia, as well as other eating and
+                            <p class="one"><span class="highlighted-text">Bulimia,</span> as well as other eating and
                                 weight-related issues, can deeply affect
                                 both <span class="highlighted-text">WOMEN</span> and <span class="highlighted-text">STUDENTS,</span> with various factors contributing to these challenges. The
                                 condition often involves unhealthy behaviours, such as binge eating followed by purging
@@ -56,7 +56,7 @@
                                 especially for students who may feel immense pressure to perform academically or
                                 socially.<br><br>
 
-                                Dieting is a common starting point for many who struggle with eating disorders.
+                                <span class="highlighted-text">Dieting</span> is a common starting point for many who struggle with eating disorders.
                                 Restrictive diets can sometimes lead to binging episodes, which then lead to purging as
                                 a way to counteract feelings of guilt or anxiety related to food. Weight problems can
                                 arise from a variety of factors, including hormonal imbalances, genetics, and lifestyle
@@ -75,7 +75,7 @@
                                 uncover these underlying issues and reframe them in a healthier, more positive way. RTT
                                 works by rewiring negative thought patterns and beliefs that contribute to disordered
                                 eating behaviours. For example, someone with bulimia may have deep-seated beliefs about
-                                not being "good enough" or "deserving of love" unless they conform to a certain body
+                                not being <span class="highlighted-text">"good enough"</span> or <span class="highlighted-text">"deserving of love"</span> unless they conform to a certain body
                                 standard. RTT can help replace these negative beliefs with positive, empowering
                                 thoughts.<br><br>
 
@@ -92,21 +92,21 @@
                                 bodies and treat themselves with kindness and respect.<br><br>
 
                                 Bulimia, along with other eating disorders, often arises from a complex mix of societal,
-                                psychological, and personal factors. For WOMEN and STUDENTS, who are especially
+                                psychological, and personal factors. For <span class="highlighted-text">WOMEN</span> and <span class="highlighted-text">STUDENTS,</span> who are especially
                                 vulnerable to body image issues, these factors can trigger unhealthy eating behaviours.
                                 As an Rapid Transformational Therapist I do address the root causes of these disorders,
                                 reprogram negative thinking, and support individuals in developing healthier
                                 relationships with food, their bodies, and themselves.<br><br>
                             </p>
 
-                            <p class="two">Recovery from bulimia and other eating disorders is a powerful journey of
+                            <p class="two">"Recovery from bulimia and other eating disorders is a powerful journey of
                                 self-love, strength, and transformation. Remember, your worth is not defined by a number
                                 on a scale or how you look, but by who you are on the inside—the kindness you give, the
                                 strength you embody, and the beauty of your spirit. Healing takes time, but every small
                                 step forward is a victory. You have the power to embrace your true self, to heal deeply,
                                 and to live a life filled with peace, balance, and love. You are worthy of all the good
                                 things life has to offer, and you deserve to feel at home in your own body. Keep
-                                going—you are stronger than you think.
+                                going—you are stronger than you think". SERVET EGE
 
                             </p>
                             <div class="col-lg-12">

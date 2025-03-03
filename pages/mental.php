@@ -98,8 +98,10 @@
                                 change, RTT helps them process their emotions and find strength to cope with the
                                 challenges they face, supporting their emotional well-being during tough times.<br><br>
 
-                                Women may feel anger arising from feeling unheard, overlooked, or unappreciated. Rapid
-                                Transformational Hypnotherapy assist women uncover the root causes of this anger and
+                                Women may feel anger arising from feeling unheard, overlooked, or unappreciated. <span
+                                    class="highlighted-text">Rapid
+                                    Transformational Hypnotherapy</span> assist women uncover the root causes of this
+                                anger and
                                 replace it with healthier ways of expressing emotions, allowing them to communicate
                                 effectively and feel empowered. For students, anger may arise from frustration with
                                 school, family expectations, or social pressures. RTT helps students identify the causes
@@ -113,8 +115,10 @@
                                 back. RTT helps students reframe these fears, replacing them with empowering beliefs
                                 that allow them to face and overcome these phobias with courage.<br><br>
 
-                                Women with ADHD may feel overwhelmed by the demands of daily life. Rapid
-                                Transformational Hypnotherapy, helps women to develop strategies to focus, boost
+                                Women with ADHD may feel overwhelmed by the demands of daily life. <span
+                                    class="highlighted-text">Rapid
+                                    Transformational Hypnotherapy,</span> helps women to develop strategies to focus,
+                                boost
                                 productivity, and enhance emotional regulation, ultimately helping them manage <span
                                     class="highlighted-text">ADHD
                                     symptoms</span> and lead a more balanced life. For students, ADHD can present
@@ -148,12 +152,25 @@
 
                             <div class="col-lg-12">
                                 <div class="button">
-                                    <a href="#" class="btn btn-primary"> YOUR TRANSFORMATION JOURNEY BEGINS HERE! BOOK A FREE CALL NOW.</a>
+                                    <a href="#" class="btn btn-primary"> YOUR TRANSFORMATION JOURNEY BEGINS HERE! BOOK A
+                                        FREE CALL NOW.</a>
                                 </div>
                             </div>
 
                             <div class="footer">
                                 <img src="../assets/images/includes/mental_poem.png" alt="">
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="footer_contact">
+                                    <img src="../assets/images/includes/weight_footer.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="button_contact">
+                                    <a href="#" class="btn btn-primary"> EMAIL OR CONTACT ME</a>
+                                </div>
                             </div>
 
 

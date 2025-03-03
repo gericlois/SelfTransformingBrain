@@ -110,7 +110,7 @@
                             </p>
                             <p class="two"> If you’re struggling with any form of addiction, <span
                                     class="highlighted-text">Rapid Transformational Hypnotherapy</span>could be the
-                                <span class="highlighted-text">TRANFORMATIVE THERAPY</span> you need to break free and
+                                <span class="highlighted-text">TRANFORMATIVE THERAPY</span> that you need to break free and
                                 start living a healthier, more fulfilling life.
                             </p>
 
