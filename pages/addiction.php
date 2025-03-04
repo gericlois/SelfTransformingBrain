@@ -128,6 +128,17 @@
                                 <img src="../assets/images/includes/addiction_poem.png" alt="">
                             </div>
 
+                            <p class="three">Embrace the Power of Doing Right: An Insight from Maya Angelou
+                            </p>
+
+                            <p class="four">In the journey of self-discovery and healing, there are moments when clarity and guidance from wise voices can light our path. Maya Angelou, with her profound wisdom, reminds us of the importance of simply doing what’s right, no matter the circumstances. <br>
+                                In this powerful clip, she speaks to the core of our human experience — the simplicity yet strength in choosing to act with integrity and compassion. Whether you’re facing challenges, striving for change, or embracing a new chapter in your life, Angelou’s message is a beacon of encouragement.
+
+                            </p>
+                            <p class="five">Watch the clip and be inspired to take action with purpose, knowing that doing what is right is always within your control.
+
+                            </p>
+
                             <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/bxrV2J_OjGo?si=WsRlIMWm2izy-u9C"
                                 title="YouTube video player" frameborder="0"

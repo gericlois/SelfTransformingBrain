@@ -185,7 +185,6 @@
                                         <ul>
                                             <li>Smoking</li>
                                             <li>Drinking</li>
-                                            <li>Drugs</li>
                                             <li>Gambling</li>
                                             <li>Compulsive Behaviour</li>
                                         </ul>

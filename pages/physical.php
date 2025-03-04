@@ -94,7 +94,7 @@
                                 conditions can be healed and rejuvenated from the inside out. I used Rapid
                                 Transformational Hypnotherapy along with Command Cell Therapy on one of my students who
                                 had eczema on her arm, and after just one session, there was noticeable improvement. The
-                                underlying issue was related to the stress she was experiencing with her exams."<br><br>
+                                underlying issue was related to the stress she was experiencing with her exams.<br><br>
 
                                 <span class="highlighted-text">Migraines</span> are often linked to triggers such as
                                 stress, tension, and emotional turmoil.
@@ -143,7 +143,7 @@
 
                             <div class="col-lg-12">
                                 <div class="footer_contact">
-                                    <img src="../assets/images/includes/weight_footer.png" alt="">
+                                    <img src="../assets/images/includes/physical_footer_purple.png" alt="">
                                 </div>
                             </div>
 

@@ -163,7 +163,7 @@
 
                             <div class="col-lg-12">
                                 <div class="footer_contact">
-                                    <img src="../assets/images/includes/weight_footer.png" alt="">
+                                    <img src="../assets/images/includes/mental_footer_brown.png" alt="">
                                 </div>
                             </div>
 

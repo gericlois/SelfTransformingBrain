@@ -106,7 +106,10 @@
                                 step forward is a victory. You have the power to embrace your true self, to heal deeply,
                                 and to live a life filled with peace, balance, and love. You are worthy of all the good
                                 things life has to offer, and you deserve to feel at home in your own body. Keep
-                                going—you are stronger than you think". SERVET EGE
+                                going—you are stronger than you think".
+                            </p>
+
+                            <p class="three">SERVET EGE
 
                             </p>
                             <div class="col-lg-12">
@@ -118,7 +121,7 @@
 
                             <div class="col-lg-12">
                                 <div class="footer">
-                                    <img src="../assets/images/includes/weight_footer.png" alt="">
+                                    <img src="../assets/images/includes/weight_footer_blue.png" alt="">
                                 </div>
                             </div>
 

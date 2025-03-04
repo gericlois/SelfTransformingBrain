@@ -36,8 +36,7 @@
                                 technique that combines aspects of cognitive behavioural therapy (CBT), hypnotherapy,
                                 NLP (neuro-linguistic programming), and psychotherapy to address various mental and
                                 emotional challenges. It’s particularly beneficial for women and students facing issues
-                                related to imposter syndrome, career challenges, public speaking, and more. Here's how
-                                RTT can help address some common issues:<br><br>
+                                related to imposter syndrome, career challenges, public speaking, and more.<br><br>
 
                                 <span class="highlighted-text">Imposter syndrome</span> is a psychological pattern where individuals doubt their abilities and
                                 feel like they don't belong in certain situations, often feeling like a fraud. <span class="highlighted-text">WOMEN AND

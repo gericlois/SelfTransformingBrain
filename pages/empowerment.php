@@ -111,14 +111,38 @@
                                 </div>
                             </div>
 
+                            <p class="four">A Personal Reflection on Strength and Resilience
+                            </p>
+
+                            <p class="five">Before we explore the timeless words of Maya Angelou, I’d like to share my
+                                own poem, which reflects the power, resilience, and journey of women. This piece is a
+                                celebration of how we rise, grow, and overcome, much like the spirit captured in
+                                Angelou's iconic work. I hope it resonates as we honour the strength and courage that
+                                define us.
+                            </p>
+
                             <div class="video-container">
                                 <video autoplay loop muted playsinline>
-                                    <source src="../assets/images/includes/newbutterfly.mp4" type="video/mp4">
+                                    <source src="../assets/images/includes/butterfly.mp4" type="video/mp4">
                                     Your browser does not support the video tag.
                                 </video>
                             </div>
 
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/JqOqo50LSZ0?si=aGDioBMh-Kr9SwGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <p class="six">"Still I Rise" by Maya Angelou: A Celebration of Empowerment
+                            </p>
+
+                            <p class="seven">In honour of women’s strength and resilience, we proudly feature Maya
+                                Angelou’s "Still I Rise." This empowering poem embodies the spirit of overcoming
+                                adversity and standing tall in the face of challenges. It serves as a powerful reminder
+                                that women continue to rise with pride, dignity, and unwavering strength.
+                            </p>
+
+                            <iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/JqOqo50LSZ0?si=aGDioBMh-Kr9SwGU"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
                         </div>
                     </div>
                 </div>
