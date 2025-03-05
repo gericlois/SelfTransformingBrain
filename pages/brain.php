@@ -78,6 +78,12 @@
                                 opportunities, or facing any major life decision, my coaching sessions will help you
                                 gain clarity and confidence to navigate the changes ahead.<br><br>
 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="context">
+                            <p class="two_a">
                                 Your brain constantly shapes how you perceive the world and yourself. It has the
                                 remarkable ability to change and adapt through a process called <span
                                     class="highlighted-text">Neuroplasticity.</span> By
@@ -90,60 +96,72 @@
                                 and worth. This image is often influenced by past experiences, beliefs, and societal
                                 expectations. A positive self-image can lead to a more fulfilling and successful life,
                                 while a negative self-image may hold you back from reaching your goals.<br><br>
+                            </p>
+                        </div>
+                    </div>
 
-                                <span class="highlighted-text">Brain and Self-Image Coaching</span> can be incredibly
-                                beneficial for both women and students
-                                in various ways, particularly for mental and emotional growth. Many women struggle with
-                                self-esteem or feel pressure to meet societal expectations. My coaching can help them to
-                                develop a positive self-image, set boundaries, and embrace their uniqueness. Students
-                                often face stress, comparison, and a fear of failure. As a coach I can help them to
-                                build their self-confidence, increase belief in their abilities, and combat negative
-                                self-talk.<br><br>
+                    <div class="col-lg-6">
+                        <div class="imageleft">
+                            <img src="../assets/images/includes/brain_image2.png" alt="">
+                        </div>
+                    </div>
 
-                                Whether it’s career, family, or personal life, many women experience stress and anxiety.
-                                <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I provide tools
-                                to manage stress, stay calm under
-                                pressure, and approach challenges with a clear mind. Students often experience
-                                heightened stress due to academic pressures, peer relationships, and future career
-                                worries. As a coach I can teach relaxation techniques, mindfulness, and strategies for
-                                balancing their life and studies.<br><br>
+                    <div class="col-lg-12">
+                        <div class="context">
+                            <p class="two_b">
+                            <span class="highlighted-text">Brain and Self-Image Coaching</span> can be incredibly
+                            beneficial for both women and students
+                            in various ways, particularly for mental and emotional growth. Many women struggle with
+                            self-esteem or feel pressure to meet societal expectations. My coaching can help them to
+                            develop a positive self-image, set boundaries, and embrace their uniqueness. Students
+                            often face stress, anxiety, and a fear of failure. As a coach I can help them to
+                            build their self-confidence, increase belief in their abilities, and combat the negative
+                            self-talk.<br><br>
 
-                                <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I help women to
-                                set clear, achievable goals in various
-                                aspects of life, such as career, relationships, and personal growth. This helps them to
-                                take actionable steps toward their dreams. I also assist students in setting academic
-                                and personal goals, staying focused on them, and developing the discipline to succeed,
-                                while ensuring they don’t feel overwhelmed.<br><br>
+                            Whether it’s career, family, or personal life, many women experience stress and anxiety.
+                            <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I provide tools
+                            to manage stress, stay calm under
+                            pressure, and approach challenges with a clear mind. Students often experience
+                            heightened stress due to academic pressures, peer relationships, and future career
+                            worries. As a coach I can teach relaxation techniques, mindfulness, and strategies for
+                            balancing their life and studies.<br><br>
 
-                                Life presents challenges, and women may sometimes feel discouraged by setbacks. <span
-                                    class="highlighted-text">As a
-                                    Brain and Self-Image Coach,</span> I help women build emotional resilience so they
-                                can bounce
-                                back from adversity and view setbacks as valuable learning opportunities. Women, like
-                                students, may face failure, rejection, or unexpected obstacles. As a coach, I guide them
-                                in reframing negative experiences, teach effective coping strategies for
-                                disappointments, and foster a growth mindset. Understanding and managing emotions is
-                                vital for women, both personally and professionally. I teach emotional intelligence
-                                skills that enhance relationships, communication, and decision-making process. For
-                                students navigating the complexities of adolescence and early adulthood, emotional
-                                intelligence plays a crucial role in improving social skills, resolving conflicts, and
-                                managing emotions effectively in school and relationships. Women often juggle multiple
-                                roles, including career, family, and self-care. As a Brain and Self-Image Coach, I can
-                                help them prioritize their time, delegate tasks, and create a healthy balance between
-                                work, personal life, and self-care. Similarly, students often struggle with balancing
-                                study, extracurricular activities, and personal life.<br><br>
+                            <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I help women to
+                            set clear, achievable goals in various
+                            aspects their life, such as career, relationships, and personal growth. This helps them to
+                            take actionable steps toward their dreams. I also assist students in setting academic
+                            and personal goals, staying focused on them, and developing the discipline to succeed,
+                            while ensuring they don’t feel overwhelmed.<br><br>
 
-                                <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I help
-                                individuals reconnect with their true selves by
-                                breaking free from their outdated beliefs and patterns. My mission is to guide
-                                individuals to shedding the layers of their old self-images and discovering their
-                                authentic purpose in life. Together, we will unlock your full potential, empowering you
-                                to live a life that truly reflects who you are, not the expectations or limitations of
-                                others.<br><br>
+                            Life presents challenges, and women may sometimes feel discouraged by setbacks. <span
+                                class="highlighted-text">As a
+                                Brain and Self-Image Coach,</span> I help women build emotional resilience so they
+                            can bounce
+                            back from adversity and view setbacks as valuable learning opportunities. Women, like
+                            students, may face failure, rejection, or unexpected obstacles. As a coach, I guide them
+                            in reframing negative experiences, teach effective coping strategies for
+                            disappointments, and foster a growth mindset. Understanding and managing emotions is
+                            vital for women, both personally and professionally. I teach emotional intelligence
+                            skills that enhance relationships, communication, and decision-making process. For
+                            students navigating the complexities of adolescence and early adulthood, emotional
+                            intelligence plays a crucial role in improving social skills, resolving conflicts, and
+                            managing emotions effectively in school and relationships. Women often juggle multiple
+                            roles, including career, family, and self-care. As a Brain and Self-Image Coach, I can
+                            help them prioritize their time, delegate tasks, and create a healthy balance between
+                            work, personal life, and self-care. Similarly, students often struggle with balancing
+                            study, extracurricular activities, and personal life.<br><br>
 
-                                Brain and Self-Image coaching typically requires a minimum of three sessions. You can
-                                schedule a 30-minute free consultation via Zoom. After the consultation, I will tailor a
-                                coaching plan to meet your specific needs.
+                            <span class="highlighted-text">As a Brain and Self-Image Coach,</span> I help
+                            individuals reconnect with their true selves by
+                            breaking free from their outdated beliefs and patterns. My mission is to guide
+                            individuals to shedding the layers of their old self-images and discovering their
+                            authentic purpose in life. Together, we will unlock your full potential, empowering you
+                            to live a life that truly reflects who you are, not the expectations or limitations of
+                            others.<br><br>
+
+                            Brain and Self-Image coaching typically requires a minimum of three sessions. You can
+                            schedule a 30-minute free consultation via Zoom. After the consultation, I will tailor a
+                            coaching plan to meet your specific needs.
 
 
                             </p>
@@ -191,7 +209,7 @@
                                 </div>
                             </div>
 
-<hr>
+                            <hr>
                             <p class="five">Moriel Zelikowsky: Inspiring Women in Neuroscience and Self-Discovery
                             </p>
                             <p class="six">As I am currently studying to become a neuroscientist, I draw immense
@@ -210,7 +228,7 @@
 
                             </p>
                             <hr><br><br>
-                            <iframe width="560" height="315" 
+                            <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/XkAdNKplEqs?si=j_QTZkTlMCQT3f9e"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
