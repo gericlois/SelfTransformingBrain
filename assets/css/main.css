@@ -3644,10 +3644,10 @@ Brain Style
 }
 .brain .header img {
   display: block;
-  width: 40%;
+  width: 35%;
   height: auto;
   max-width: 100%;
-  padding: 20px 0px 200px 0px;
+  padding: 40px 0px 200px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3762,10 +3762,10 @@ Brain Style
 .brain .poem img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 30%;
   height: auto;
   max-width: 100%;
-  padding: 50px 0px 40px 0px;
+  padding: 0px 0px 0px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3776,7 +3776,7 @@ Brain Style
   width: 60%;
   height: auto;
   max-width: 100%;
-  padding: 150px 0px 20px 0px;
+  padding: 120px 0px 20px 0px;
   margin-right: auto;
   margin-left: auto;
 }
