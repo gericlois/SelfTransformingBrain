@@ -76,14 +76,14 @@
                                 in making the changes necessary to achieve it, especially during challenging
                                 transitions. Whether it’s leaving a toxic relationship, relocating for career
                                 opportunities, or facing any major life decision, my coaching sessions will help you
-                                gain clarity and confidence to navigate the changes ahead.<br><br>
+                                gain clarity and confidence to navigate the changes ahead.
 
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="context">
-                            <p class="two_a">
+                            <p class="two_a"><br>
                                 Your brain constantly shapes how you perceive the world and yourself. It has the
                                 remarkable ability to change and adapt through a process called <span
                                     class="highlighted-text">Neuroplasticity.</span> By
