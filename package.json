@@ -1,0 +1,23 @@
+{
+  "name": "selftransformingbrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {  
+  "dev": "C:\\xampp2\\php\\php.exe -S localhost:8000 -t .",
+  "test": "echo \"Error: no test specified\" && exit 1",
+   "watch": "browser-sync start --proxy localhost:8000 --files '**/*.php, **/*.html, **/*.css, **/*.js'"
+  
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gericlois/SelfTransformingBrain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gericlois/SelfTransformingBrain/issues"
+  },
+  "homepage": "https://github.com/gericlois/SelfTransformingBrain#readme"
+}

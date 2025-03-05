@@ -74,16 +74,16 @@
                   <a href="#" class="dropdown-toggle" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">COACHING</a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">BRAIN &amp; SELF-IMAGE COACHING</a></li>
-                    <li><a class="dropdown-item" href="#">FINANCE &amp; BUSINESS COACHING</a></li>
+                    <li><a class="dropdown-item" href="brain.php">BRAIN &amp; SELF-IMAGE COACHING</a></li>
+                    <li><a class="dropdown-item" href="finance.php">FINANCE &amp; BUSINESS COACHING</a></li>
                   </ul>
                 </li>
 
-                <li><a href="">PRICING</a></li>
-                <li><a href="">WORK WITH ME</a></li>
-                <li><a href="">SPEAKING & WORKSHOPS</a></li>
-                <li><a href="">SUCCESS STORIES</a></li>
-                <li><a href="">CONTACT ME</a></li>
+                <li><a href="price.php">PRICING</a></li>
+                <li><a href="work.php">WORK WITH ME</a></li>
+                <li><a href="speaking.php">SPEAKING & WORKSHOPS</a></li>
+                <li><a href="success.php">SUCCESS STORIES</a></li>
+                <li><a href="contact.php">CONTACT ME</a></li>
               </ul>
               <a class='menu-trigger'>
                 <span>Menu</span>

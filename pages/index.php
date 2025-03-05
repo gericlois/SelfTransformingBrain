@@ -11,7 +11,7 @@
                 <div class="header-text">
                     <h2 class="one">Welcome to Self-Transforming Brain!</h2>
                     <p class="one"><span class="highlighted-text">I’M SERVET EGE</span>, a Certified Rapid
-                        Transformational Hypnotherapist, RTT Therapist and Qualified Brain & Finance Coach. I work
+                        Transformational Hypnotherapist, RTT Therapist and Qualsified Brain & Finance Coach. I work
                         with Women and Students to help them to discover and unlock the power of their mind and
                         transform their lives. My mission is simple: to empower Women and Students to take control
                         of their thoughts, mindset, and habits so they can live a life that’s not only fulfilling
