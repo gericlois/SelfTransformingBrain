@@ -115,17 +115,20 @@
                                 back. RTT helps students reframe these fears, replacing them with empowering beliefs
                                 that allow them to face and overcome these phobias with courage.<br><br>
 
-                                Women with ADHD may feel overwhelmed by the demands of daily life. <span
-                                    class="highlighted-text">Rapid
-                                    Transformational Hypnotherapy,</span> helps women to develop strategies to focus,
-                                boost
-                                productivity, and enhance emotional regulation, ultimately helping them manage <span
-                                    class="highlighted-text">ADHD
-                                    symptoms</span> and lead a more balanced life. For students, ADHD can present
-                                challenges with
-                                focus and organization. RTT helps students reframe thoughts and beliefs that may
-                                contribute to distractibility, while introducing techniques to improve concentration,
-                                time management, and emotional balance.<br><br>
+                                <span class="highlighted-text">Women with ADHD</span> often feel overwhelmed by the
+                                demands of daily life. <span class="highlighted-text">As Rapid</span>
+                                Transformational Hypnotherapist, I help women to develop strategies to improve focus,
+                                boost productivity, and enhance emotional regulation, ultimately empowering them to
+                                manage <span class="highlighted-text">ADHD Symptoms</span> and lead a more balanced
+                                life. For students, ADHD can present
+                                challenges with focus and organization. RTT assists students in reframing thoughts and
+                                beliefs that may contribute to distractibility, while introducing techniques to improve
+                                concentration, time management, and emotional balance.<br><br>
+                                I have also taught students with <span class="highlighted-text">ADHD</span> at both the
+                                <span class="highlighted-text">UNIVERSITY LEVEL</span> and in specialized
+                                <span class="highlighted-text">SPEACIAL EDUCATION NEEDS (SEN) ACADEMIES,</span> which
+                                has provided me with firsthand
+                                experience and a deeper understanding of this neurodivergent disorder.<br><br>
 
                                 Many women suffer from insomnia due to stress, past relationship traumas, or emotional
                                 overwhelming. <span class="highlighted-text">Rapid Transformational Hypnotherapy,</span>

@@ -96,9 +96,7 @@
 
                                 We’ve all heard it: running a business means endless hustle, burnout, and sacrificing
                                 your personal life. And that myth about having to choose between building a business or
-                                enjoying life? It’s simply not true.<br><br>
-
-                                From my professional experience working with CEOs, Business owners, and Founders, I’ve
+                                enjoying life? It’s simply not true. From my professional experience working with CEOs, Business owners, and Founders, I’ve
                                 learned that building a thriving business and achieving financial freedom isn’t about
                                 overworking. It’s about mastering business finances and making intentional, data-driven
                                 decisions. It’s also crucial to understand and analyse the market and industry in which
@@ -135,7 +133,7 @@
                         <div class="context">
                             <p class="four">What I learned working in 28 years in Finance Industry is that: Our
                                 Businesses can only grow as much as we do as a person. Definitely, personal growth fuels
-                                professional success.<br>
+                                professional success.<br><br>
 
                                 Mastering numbers is more than just a skill—it’s a powerful tool that unlocks the full
                                 potential of your business. If you’re feeling stuck financially, unsure of where your
@@ -157,7 +155,7 @@
                                 </div>
                             </div>
 
-                            <p class="six">"Shift your mindset and create and grow the business you've always dreamed
+                            <p class="six">"Shift your mindset to create and grow the business you've always dreamed
                                 of."
                             </p>
 
