@@ -3685,7 +3685,7 @@ Brain Style
   font-weight: 400;
   color: #000000;
   border-radius: 8px;
-  padding: 0px 0px 110px 0px;
+  padding: 0px 0px 0px 0px;
   text-align: Justify;
   font-family: 'Aptos', normal;
   margin-right: 5%;
@@ -3707,7 +3707,7 @@ Brain Style
 .brain .imageleft img {
   display: block;
   margin: 0 auto;
-  width: 100%;
+  width: 90%;
   height: auto;
   max-width: 100%;
   margin-right: 10%;
