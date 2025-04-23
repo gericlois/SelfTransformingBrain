@@ -1083,7 +1083,7 @@ Banner Style
 }
 
 .main-banner .item p.two {
-  font-size: 17px;
+  font-size: 1px;
   font-weight: 100;
   color: #000000;
   margin-bottom: 0px;
@@ -1339,7 +1339,7 @@ Services_Intro Style
 .services_intro .serviceshead img {
   display: block;
   margin: 0 auto;
-  width: 40%;
+  width: 50%;
   max-width: 100%;
   height: auto;
   padding-top: 60px;
@@ -1439,7 +1439,7 @@ Services_Intro Style
 .services_intro .qoute img {
   display: block;
   margin: 0 auto;
-  width: 70%;
+  width: 80%;
   max-width: 100%;
   height: auto;
   padding: 10px 0px 20px 0px;
@@ -1514,7 +1514,7 @@ Services_Brain Style
 }
 
 .services_brain .brain p.two {
-  font-size: 20px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 700;
   color: #F60017;
@@ -1555,7 +1555,7 @@ Services_Brain Style
 }
 
 .services_brain .brain p.four {
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
@@ -1640,7 +1640,7 @@ Services_Finance Style
 }
 
 .services_finance .finance p.two {
-  font-size: 20px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 700;
   color: #F60017;
@@ -1666,7 +1666,7 @@ Services_Finance Style
 }
 
 .services_finance .finance p.four {
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
@@ -2968,7 +2968,7 @@ Empowerment Style
   color: #000000;
   border-radius: 8px;
   padding: 5px 0px 100px 0px;
-  text-align: left;
+  text-align: justify;
   font-family: 'Calibri', normal;
   margin-left: 5%;
   margin-right: 5%;

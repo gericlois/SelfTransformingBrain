@@ -40,9 +40,9 @@
                                 <br><br>
                                 I am deeply dedicated to working with women because I know, from my personal experience,
                                 the challenges that our gender faces. As a woman, I have lived through the struggles,
-                                and I understand the obstacles we must overcome. It is <span class="highlighted-text">MY
+                                and I understand the obstacles that we need to overcome. It is <span class="highlighted-text">MY
                                     MISSION to HELP, SUPPORT, and
-                                    EMPOWER US AS WOMEN</span>—lifting each other up and embracing our strength.
+                                    EMPOWER US AS WOMEN</span> also lifting each other up and embracing our strength.
                                 <br><br>
                                 Throughout my own journey, I have encountered gender-specific challenges in the
                                 workplace and beyond. As women, we often face societal expectations that limit our
@@ -50,17 +50,17 @@
                                 pressure of balancing career and family life.
                                 <br><br>
                                 Growing up in an environment that affected by domestic violence, I experienced firsthand
-                                how women’s mental health can be severely impacted. I have seen how trauma—especially
+                                how women’s mental health can be severely impacted by abusive relationship. I have seen how trauma—especially
                                 Narcissistic Abuse—can quietly devastate a woman's life. Many of the women that I work
                                 with have spent years suffering in silence, trapped in toxic relationships, unable to
-                                break free from the cycles of emotional manipulation and control.
+                                break free from the cycles of emotional, manipulation and control.
                                 <br><br>
                                 <span class="highlighted-text">Rapid Transformational Hypnotherapy (RTT)</span> offers a
                                 powerful, holistic approach to
                                 healing. RTT works by addressing the root causes of trauma, empowering the subconscious
                                 mind to release limiting beliefs, emotional pain, and patterns that keep women stuck in
                                 unhealthy cycles. Through RTT, women can uncover the hidden beliefs that keep them
-                                trapped, often beliefs about their worth, their ability to set boundaries, or their fear
+                                trapped, these often beliefs about their worth, their ability to set boundaries, or their fear
                                 of change.
                                 <br><br>
                                 By accessing the subconscious mind, RTT helps women to reprogram these negative thought
@@ -74,7 +74,7 @@
                                 Beyond personal trauma, women face cultural and societal barriers that reinforce
                                 feelings of inadequacy, whether it’s from unrealistic beauty standards, or the
                                 underrepresentation in leadership positions. We are often taught to suppress our voices
-                                or to place the needs of others before our own, leading to burnout and a loss of
+                                or to place the needs of others before our own, this leads feeling burnout and a loss of
                                 self-worth.
                                 <br><br>
                                 Many women also experience challenges related to gender inequality in the workplace,

@@ -87,9 +87,7 @@
                                 industry, particularly in relation to <span class="highlighted-text">LGBTQ+
                                     Community.</span> I wholeheartedly embrace and
                                 celebrate the richness of LGBTQ+ Community, acknowledging from my personal experience
-                                that the unique challenges they may face. Furthermore, I support SMEs in scaling their
-                                operations, developing teams, driving profitability, and implementing effective
-                                financial systems, controls, and efficiency measures. While, I am enjoying my career in
+                                that the unique challenges they may face. Furthermore, I help SMEs grow by developing their teams, driving profitability, implementing effective financial systems and controls, and scaling their operations. While, I am enjoying my career in
                                 Finance and Education, my childhood dream of becoming a scientist always remains close
                                 to my heart, soul and mind.
                             </p>
@@ -287,13 +285,12 @@
                             <li>Member of The British Neuroscience Association
                                 <b>(BNA)</b>
                             </li>
-                            <li>Member of The International Association of Counsellors &
-                                Therapists <b>(I.A.C.T.)</b></li>
+                            <li>Member of British Society of Clinical and Academic Hypnosis <b>(BSCAH)</b></li>
                             <li>Member of The International Hypnotherapy Association
                                 <b>(IHA)</b>
                             </li>
-                            <li>Member of The National Council for Hypnotherapy
-                                <b>(NCH)</b>
+                            <li>Member of The National Hypnotherapy Society
+                                <b>(NHS)</b>
                             </li>
                             <li>Member of The Institute of Leadership & Management
                                 <b>(ILM)</b>
