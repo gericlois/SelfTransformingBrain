@@ -53,7 +53,7 @@
                                 release emotional pain and rebuild their sense of self-worth and confidence. Students
                                 who have experienced childhood trauma may carry emotional scars that affect their
                                 academic performance and personal growth. RTT helps them process these experiences, heal
-                                emotional wounds, and build the resilience needed to succeed both academically and
+                                emotional wounds, and build the resilience that needed to succeed both academically and
                                 socially.<br><br>
 
                                 Women often face unique sources of anxiety, such as perfectionism, body image issues, or
@@ -135,15 +135,14 @@
                                 helps women uncover the subconscious
                                 causes of their sleep problems and reprogram their mind to foster healthy sleep
                                 patterns, promoting restful and rejuvenating sleep. Students often struggle with sleep
-                                due to late-night study sessions, stress, or anxiety. RTT helps them release stress,
-                                reduce anxiety, and reframe beliefs about sleep, allowing them to sleep better and wake
-                                up refreshed and ready for the day.<br><br>
+                                due to late-night study sessions, stress, or anxiety. RTT helps them to release stress,
+                                reduce anxiety, reframe beliefs about sleep, and allow them to sleep better.<br><br>
 
                                 RTT provides a deeply transformative and empowering process for women, addressing
                                 emotional wounds, societal pressures, and personal struggles. By helping women release
                                 limiting beliefs and fears, RTT allows them to step into their power, live
-                                authentically, and achieve the balance and fulfilment they deserve. RTT offers students
-                                the emotional support and mental clarity they need to navigate the stresses of academic
+                                authentically, and achieve the balance and fulfillment they deserve. RTT offers students
+                                the emotional support and mental clarity that they need to navigate the stresses of academic
                                 life and personal growth. By empowering students to overcome obstacles like anxiety,
                                 stress, and self-doubt, RTT helps them achieve their potential while maintaining
                                 emotional well-being and resilience. RTT offers an effective and holistic approach to

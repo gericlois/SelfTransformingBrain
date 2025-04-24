@@ -49,7 +49,7 @@
                                 mind, where smoking habits are stored. Through RTT, clients can reframe their
                                 perception of smoking, reducing cravings and the emotional attachment they may have
                                 to cigarettes. The therapeutic process can address the root causes of the addiction,
-                                such as stress, anxiety, or unresolved trauma, leading to lasting change.<br><br>
+                                such as stress, anxiety, or unresolved trauma and it will lead to long lasting change.<br><br>
 
                                 <span class="highlighted-text">Alcohol addiction</span> is often linked to emotional
                                 numbness, stress relief, or social
@@ -110,7 +110,7 @@
                             </p>
                             <p class="two"> If you’re struggling with any form of addiction, <span
                                     class="highlighted-text">Rapid Transformational Hypnotherapy</span>could be the
-                                <span class="highlighted-text">TRANFORMATIVE THERAPY</span> that you need to break free and
+                                <span class="highlighted-text">TRANFORMATIVE THERAPY</span> that you need in order to break free and
                                 start living a healthier, more fulfilling life.
                             </p>
 
@@ -132,7 +132,7 @@
                             </p>
 
                             <p class="four">In the journey of self-discovery and healing, there are moments when clarity and guidance from wise voices can light our path. Maya Angelou, with her profound wisdom, reminds us of the importance of simply doing what’s right, no matter the circumstances. <br>
-                                In this powerful clip, she speaks to the core of our human experience — the simplicity yet strength in choosing to act with integrity and compassion. Whether you’re facing challenges, striving for change, or embracing a new chapter in your life, Angelou’s message is a beacon of encouragement.
+                                In this powerful clip, she speaks to the core of our human experience — the simplicity yet strength in choosing to act with integrity and compassion. Whether you’re facing challenges, striving for change, or embracing a new chapter in your life, Angelou’s message serves as a beacon of encouragement.
 
                             </p>
                             <p class="five">Watch the clip and be inspired to take action with purpose, knowing that doing what is right is always within your control.
