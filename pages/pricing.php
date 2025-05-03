@@ -10,7 +10,7 @@
             <div class="col-lg-12">
                 <div class="header-text">
                     <div class="header">
-                        <img src="../assets/images/includes/pricing1.png" alt="">
+                        <img src="../assets/images/includes/pricing.png" alt="">
                     </div>
                 </div>
             </div>
