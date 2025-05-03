@@ -79,7 +79,7 @@
                   </ul>
                 </li>
 
-                <li><a href="price.php">PRICING</a></li>
+                <li><a href="pricing.php">PRICING</a></li>
                 <li><a href="work.php">WORK WITH ME</a></li>
                 <li><a href="speaking.php">SPEAKING & WORKSHOPS</a></li>
                 <li><a href="success.php">SUCCESS STORIES</a></li>
