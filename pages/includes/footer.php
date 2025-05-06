@@ -26,12 +26,16 @@
                     <i class="fas fa-phone fa-lg me-2"></i> <!-- Phone Icon -->
                     <a href="tel:+1234567890" class="text-white">+4407825138793</a>
                 </div>
-                <div class="d-flex align-items-center mb-2">
-                    <span class="button_contact">EMAIL ME</span>
-                </div>
-                <div class="d-flex align-items-center mb-2">
-                    <span class="button_faq">FAQs</span>
-                </div>
+                <a href="contact.php" class="text-white">
+                    <div class="d-flex align-items-center mb-2">
+                        <span class="button_contact">EMAIL ME</span>
+                    </div>
+                </a>
+                <a href="faqs.php" class="text-white">
+                    <div class="d-flex align-items-center mb-2">
+                        <span class="button_faq">FAQs</span>
+                    </div>
+                </a>
             </div>
 
             <div class="col-md-4 d-flex flex-column align-items-start">
@@ -71,13 +75,13 @@
     </div>
 
     <script>
-    function enlargeImage(img) {
-        document.getElementById("modalImage").src = img.src;
-        document.getElementById("imageModal").style.display = "block";
-    }
+        function enlargeImage(img) {
+            document.getElementById("modalImage").src = img.src;
+            document.getElementById("imageModal").style.display = "block";
+        }
 
-    document.getElementById("imageModal").onclick = function() {
-        this.style.display = "none";
-    };
+        document.getElementById("imageModal").onclick = function() {
+            this.style.display = "none";
+        };
     </script>
 </footer>

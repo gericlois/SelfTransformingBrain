@@ -2482,7 +2482,7 @@ RTT Style
 .rtt .footer img {
   display: block;
   margin: 0 auto;
-  width: 80%;
+  width: 70%;
   height: auto;
   max-width: 100%;
   padding: 50px 0px 100px 0px;
@@ -4539,6 +4539,122 @@ Contact Style
   margin-left: auto;
 }
 
+/* 
+---------------------------------------------
+FAQS Style
+--------------------------------------------- 
+*/
+.faqs {
+  background-color: #ffffff;
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+}
+
+.faqs .header img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.faqs .accordion {
+  text-align: left;
+}
+
+.faqs p.one {
+  font-size: 35px;
+  line-height: 1.3;
+  font-weight: 400;
+  color: #000000;
+  border-radius: 8px;
+  padding: 40px 0px 10px 0px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.faqs p.two {
+  font-size: 40px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 0px 0px 10px 0px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.faqs p.three {
+  font-size: 28px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #fa1b13;
+  border-radius: 8px;
+  padding: 70px 0px 10px 0px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.faqs p.four {
+  font-size: 28px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #36ad69;
+  border-radius: 8px;
+  padding: 70px 0px 10px 0px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.faqs p.five {
+  font-size: 28px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #6222ea;
+  border-radius: 8px;
+  padding: 70px 0px 10px 0px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.faqs .button .btn-primary {
+  display: inline-block;
+  padding: 5px 30px;
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  border: 1px solid #F60017;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.faqs .footer img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  height: auto;
+  max-width: 100%;
+  padding: 80px 0px 40px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.faqs .footertwo img {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  height: auto;
+  max-width: 100%;
+  padding: 80px 0px 40px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
 /* 
 ---------------------------------------------
 Page Header Style
