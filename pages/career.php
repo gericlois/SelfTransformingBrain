@@ -139,8 +139,6 @@
 
                             <p class="two"><i><span class="highlighted-texttwo">Rapid Transformational
                                         Hypnotherapy</span>is a powerful treatment for women and students who are facing various personal and professional adversities and challenges. By tapping into the subconscious mind, RTT helps to identify and transform the root causes of negative beliefs and empowers individuals to overcome these obstacles. Moreover, it improves their performance and helps them to achieve their goals. Whether dealing with imposter syndrome, career blocks, public speaking fear, or test anxiety, RTT provides a pathway to mental and emotional transformation, leading to greater success and fulfillment.</i>
-
-
                             </p>
                             <div class="col-lg-12">
                                 <div class="button">
