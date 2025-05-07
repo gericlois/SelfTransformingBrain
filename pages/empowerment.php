@@ -50,8 +50,8 @@
                                 pressure of balancing career and family life.
                                 <br><br>
                                 Growing up in an environment that affected by domestic violence, I experienced firsthand
-                                how women’s mental health can be severely impacted by abusive relationship. I have seen how trauma—especially
-                                Narcissistic Abuse—can quietly devastate a woman's life. Many of the women that I work
+                                how women’s mental health can be severely impacted by abusive relationship. I have seen how trauma especially
+                                Narcissistic Abuse can quietly devastate a woman's life. Many of the women that I work
                                 with have spent years suffering in silence, trapped in toxic relationships, unable to
                                 break free from the cycles of emotional, manipulation and control.
                                 <br><br>
@@ -66,7 +66,7 @@
                                 By accessing the subconscious mind, RTT helps women to reprogram these negative thought
                                 patterns, allowing them to break free from the emotional manipulation and control
                                 they’ve endured. RTT not only heals the emotional wounds but also rewires the mind for
-                                lasting change—instilling confidence, self-worth, and the ability to create healthier
+                                lasting change instilling confidence, self-worth, and the ability to create healthier
                                 relationships.
                                 <br><br>
                                 Through this transformative process, women can finally release the past, reclaim their

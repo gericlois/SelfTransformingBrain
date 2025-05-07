@@ -101,7 +101,7 @@
 
                                 <span class="highlighted-text">Rapid Transformational Hypnotherapy</span> is not about
                                 temporarily suppressing cravings or
-                                behaviours—it’s about permanently changing the underlying thought patterns and
+                                behaviours, it’s about permanently changing the underlying thought patterns and
                                 emotional responses that fuel the addiction. By uncovering the root causes of
                                 addiction, clients can experience lasting freedom from harmful behaviours, regain
                                 control over their lives, and build healthier habits for the future.
@@ -110,7 +110,7 @@
                             </p>
                             <p class="two"> If you’re struggling with any form of addiction, <span
                                     class="highlighted-text">Rapid Transformational Hypnotherapy</span>could be the
-                                <span class="highlighted-text">TRANFORMATIVE THERAPY</span> that you need in order to break free and
+                                <span class="highlighted-text">TRANSFORMATIVE THERAPY</span> that you need in order to break free and
                                 start living a healthier, more fulfilling life.
                             </p>
 
@@ -132,7 +132,7 @@
                             </p>
 
                             <p class="four">In the journey of self-discovery and healing, there are moments when clarity and guidance from wise voices can light our path. Maya Angelou, with her profound wisdom, reminds us of the importance of simply doing what’s right, no matter the circumstances. <br>
-                                In this powerful clip, she speaks to the core of our human experience — the simplicity yet strength in choosing to act with integrity and compassion. Whether you’re facing challenges, striving for change, or embracing a new chapter in your life, Angelou’s message serves as a beacon of encouragement.
+                                In this powerful clip, she speaks to the core of our human experience, the simplicity yet strength in choosing to act with integrity and compassion. Whether you’re facing challenges, striving for change, or embracing a new chapter in your life, Angelou’s message serves as a beacon of encouragement.
 
                             </p>
                             <p class="five">Watch the clip and be inspired to take action with purpose, knowing that doing what is right is always within your control.

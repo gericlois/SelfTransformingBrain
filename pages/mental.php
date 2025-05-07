@@ -171,7 +171,7 @@
 
                             <div class="col-lg-12">
                                 <div class="button_contact">
-                                    <a href="#" class="btn btn-primary"> EMAIL OR CONTACT ME</a>
+                                    <a href="contact.php" class="btn btn-primary"> EMAIL OR CONTACT ME</a>
                                 </div>
                             </div>
 

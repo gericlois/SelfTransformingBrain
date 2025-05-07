@@ -97,7 +97,7 @@
                             <img src="../assets/images/includes/you_believe2.png" alt="">
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -424,14 +424,26 @@
                     </div>
 
                     <div class="col-lg-12">
-                        <iframe src="https://koalendar.com/e/discovery-call-koa5KYDd" width="100%" height="600px"
-                            style="border: none;">
-                        </iframe>
+                        <!-- Koalendar Inline Embed Start -->
+                        <div id="inline-widget-a-full-rtt-or-coaching-session-with-servet-ege"></div>
+                        <script>
+                            window.Koalendar = window.Koalendar || function() {
+                                (Koalendar.props = Koalendar.props || []).push(arguments)
+                            };
+                        </script>
+                        <script async src="https://koalendar.com/assets/widget.js"></script>
+                        <script>
+                            Koalendar('inline', {
+                                "url": "https://koalendar.com/e/a-full-rtt-or-coaching-session-with-servet-ege",
+                                "selector": "#inline-widget-a-full-rtt-or-coaching-session-with-servet-ege"
+                            });
+                        </script>
+                        <!-- Koalendar Inline Embed End -->
                     </div>
 
                     <div class="col-lg-12">
                         <div class="contactme">
-                            <img src="../assets/images/includes/contactme.png" alt="">
+                            <img src="../assets/images/includes/work3.png" alt="">
                         </div>
                     </div>
 
@@ -476,6 +488,7 @@
                                     <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
                                     <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
                                     <img src="../assets/images/slideslogo/17.png" alt="Logo 17" class="logo">
+                                    <img src="../assets/images/slideslogo/18.png" alt="Logo 18" class="logo">
 
                                     <!-- Duplicate logos to ensure seamless looping -->
                                     <img src="../assets/images/slideslogo/1.png" alt="Logo 1" class="logo">
@@ -495,6 +508,7 @@
                                     <img src="../assets/images/slideslogo/15.png" alt="Logo 15" class="logo">
                                     <img src="../assets/images/slideslogo/16.png" alt="Logo 16" class="logo">
                                     <img src="../assets/images/slideslogo/17.png" alt="Logo 17" class="logo">
+                                    <img src="../assets/images/slideslogo/18.png" alt="Logo 18" class="logo">
                                 </div>
                             </div>
                         </div>
@@ -510,7 +524,7 @@
                     <p class="four"> HAVE ANY QUESTIONS?
                     </p>
 
-                    <a href="#" class="btn btn-contact">FREQUENTLY ASK QUESTIONS</a>
+                    <a href="faqs.php" class="btn btn-contact">FREQUENTLY ASK QUESTIONS</a>
                 </div>
             </div>
         </div>

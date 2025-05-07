@@ -176,7 +176,16 @@
                                 Women also often juggle with multiple roles, including career, family and their
                                 self-care. As a Brain and Self-Image Coach, I can help them to prioritize their time, to
                                 guide them to delegate their tasks and to create a healthy balanced relationship between
-                                their professional and personal life. Similarly, students often struggle to balance
+                                their professional and personal life.
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <div class="context">
+                            <p class="two"><br>
+                                Similarly, students often struggle to balance
                                 their studies, extracurricular activities and peer pressure. My coaching skills and
                                 knowledge help them to manage these areas effectively, also ensuring that they succeed
                                 both academically and personally.<br><br>
@@ -235,7 +244,7 @@
 
                 <div class="col-lg-12">
                     <div class="button_contact">
-                        <a href="#" class="btn btn-primary"> EMAIL OR CONTACT ME </a>
+                        <a href="contact.php" class="btn btn-primary"> EMAIL OR CONTACT ME </a>
                     </div>
                 </div>
 

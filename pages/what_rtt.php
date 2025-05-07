@@ -32,7 +32,7 @@
                                 grounded in neuroscience. It delivers <span class="highlighted-text">effective, fast,
                                     powerful and TRANSFORMATIVE</span> results by integrating the most effective and
                                 powerful principles of Hypnotherapy, Psychotherapy, NLP, and CBT. In just a few powerful
-                                sessions, RTT helps you to uncover and heal the root causes of your struggles—whether
+                                sessions, RTT helps you to uncover and heal the root causes of your struggles, whether
                                 they stem from past trauma, subconscious beliefs, or habitual patterns. RTT empowers you
                                 to break free from the limitations that have held you back, creating a clear path toward
                                 lasting change and personal growth. Unlike traditional therapy that may take months or
@@ -59,8 +59,8 @@
                                 repressed emotions. RTT helps you access the mind-body connection, healing both
                                 emotional pain and physical discomfort. Clients have reported improvement in areas like
                                 chronic pain, sleep issues, weight loss challenges, and even more severe
-                                conditions—simply by addressing the emotional and mental root causes. RTT gives you the
-                                tools and insights in order to live a life of empowerment, purpose, and fulfilment. It
+                                conditions, simply by addressing the emotional and mental root causes. RTT gives you the
+                                tools and insights in order to live a life of empowerment, purpose, and fulfillment. It
                                 is
                                 eliminating the negative subconscious programming that’s been holding you back. Also,
                                 RTT
@@ -69,9 +69,9 @@
                             </p>
 
                             <p class="three"><span class="highlighted-text">Rapid Transformational Therapy </span>is not
-                                just a treatment—it’s a journey of self-discovery, healing, and empowerment. It’s about
+                                just a treatment, it’s a journey of self-discovery, healing, and empowerment. It’s about
                                 finally stepping into your true potential, overcoming the fears and limitations that
-                                have held you back, and creating a life of joy, purpose, and fulfilment. With RTT, you
+                                have held you back, and creating a life of joy, purpose, and fulfillment. With RTT, you
                                 have the opportunity to change not just how you feel in the moment, but how you
                                 experience life on a lasting, deep level. RTT offers a clear path to healing, growth,
                                 and transformation, helping you to embrace your highest potential and move forward with

@@ -20,6 +20,7 @@
                     <div class="col-lg-6">
                         <div class="imageright">
                             <img src="../assets/images/includes/finance_portrait.png" alt="">
+                            <img src="../assets/images/includes/financefill.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -97,6 +98,7 @@
                     <div class="col-lg-6">
                         <div class="imageleft">
                             <img src="../assets/images/includes/finance_image.jpg" alt="">
+                            <img src="../assets/images/includes/financefill.png" alt="">
                         </div>
                     </div>
 
@@ -199,7 +201,7 @@
 
                             <div class="col-lg-12">
                                 <div class="button_contact">
-                                    <a href="#" class="btn btn-primary"> EMAIL OR CONTACT ME </a>
+                                    <a href="contact.php" class="btn btn-primary"> EMAIL OR CONTACT ME </a>
                                 </div>
                             </div>
 

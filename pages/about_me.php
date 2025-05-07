@@ -300,7 +300,7 @@
 
                     <div class="buttom">
                         <h2 class="four">If you are looking for <span class="highlightedone-text">FAST, EFFECTIVE,
-                                PERMENANT CHANGE, </span>Please <a href=""><u>BOOK A FREE
+                                PERMANENT CHANGE, </span>Please <a href=""><u>BOOK A FREE
                                     DISCOVERY CALL NOW</u> </a> to see how Rapid Transformation Therapy can transform
                             your life.
                         </h2>

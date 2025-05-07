@@ -1338,7 +1338,7 @@ Services_Intro Style
 .services_intro .serviceshead img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 70%;
   max-width: 100%;
   height: auto;
   padding-top: 60px;
@@ -1764,7 +1764,7 @@ Services_Outro Style
 .services_outro .contactme img {
   display: block;
   margin: 0 auto;
-  width: 80%;
+  width: 70%;
   max-width: 100%;
   height: auto;
   padding-top: 100px;
@@ -3067,10 +3067,10 @@ Mental Style
 .mental .footer_contact img {
   display: block;
   margin: 0 auto;
-  width: 60%;
+  width: 70%;
   height: auto;
   max-width: 100%;
-  padding: 150px 0px 20px 0px;
+  padding: 80px 0px 20px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3439,7 +3439,7 @@ Carreer Style
 }
 .carreer .highlighted-texttwo {
   color: #F60017;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 22px;
   font-family: "Century Schoolblack", sans-serif;
 }

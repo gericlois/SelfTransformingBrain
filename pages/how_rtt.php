@@ -84,13 +84,13 @@
 
                     <div class="col-lg-12">
                         <div class="footer_contact">
-                            <img src="../assets/images/includes/weight_footer.png" alt="">
+                            <img src="../assets/images/includes/contactnewred.png" alt="">
                         </div>
                     </div>
 
                     <div class="col-lg-12">
                         <div class="button_contact">
-                            <a href="#" class="btn btn-primary"> EMAIL OR CONTACT ME</a>
+                            <a href="contact.php" class="btn btn-primary"> EMAIL OR CONTACT ME</a>
                         </div>
                     </div>
 
