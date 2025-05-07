@@ -107,12 +107,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                        aria-expanded="false" aria-controls="collapseOne">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse14"
+                                                        aria-expanded="false" aria-controls="collapse14">
                                                         What Is RTT Hypnotherapy?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseOne" class="accordion-collapse collapse"
+                                                <div id="collapse14" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>Rapid Transformational Therapy (RTT) is a form of therapy that
@@ -131,12 +131,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                        aria-expanded="false" aria-controls="collapseTwo">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse15"
+                                                        aria-expanded="false" aria-controls="collapse15">
                                                         How does RTT work?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                                <div id="collapse15" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>RTT (Rapid Transformational Therapy) works by helping you:</p>
@@ -158,12 +158,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                                        aria-expanded="false" aria-controls="collapseThree">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse16"
+                                                        aria-expanded="false" aria-controls="collapse16">
                                                         What Issues Can RTT Help With?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseThree" class="accordion-collapse collapse"
+                                                <div id="collapse16" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>RTT can help address a wide range of emotional, mental, and
@@ -191,12 +191,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                        aria-expanded="false" aria-controls="collapseFour">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse17"
+                                                        aria-expanded="false" aria-controls="collapse17">
                                                         Are there any people who should not have this form of therapy?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseFour" class="accordion-collapse collapse"
+                                                <div id="collapse17" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>Yes, there are certain cases where RTT Hypnotherapy may not be
@@ -225,12 +225,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                                        aria-expanded="false" aria-controls="collapseFive">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse18"
+                                                        aria-expanded="false" aria-controls="collapse18">
                                                         How long is an RTT session?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseFive" class="accordion-collapse collapse"
+                                                <div id="collapse18" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>An RTT session typically runs for 1.5 to 2 hours, including time
@@ -247,12 +247,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                                        aria-expanded="false" aria-controls="collapseSix">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse19"
+                                                        aria-expanded="false" aria-controls="collapse19">
                                                         How many RTT sessions will I need?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseSix" class="accordion-collapse collapse"
+                                                <div id="collapse19" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
                                                         <p>RTT is an incredible therapy that provides effective, powerful
@@ -273,13 +273,13 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseSeven"
-                                                        aria-expanded="false" aria-controls="collapseSeven">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse20"
+                                                        aria-expanded="false" aria-controls="collapse20">
                                                         What can I expect from an RTT session with you? What does a session
                                                         feel like?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseSeven" class="accordion-collapse collapse"
+                                                <div id="collapse20" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Each session begins with a gentle relaxation process that guides
@@ -301,13 +301,13 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseEight"
-                                                        aria-expanded="false" aria-controls="collapseEight">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse21"
+                                                        aria-expanded="false" aria-controls="collapse21">
                                                         How soon will I notice changes, and can you guarantee results with
                                                         RTT Hypnotherapy?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseEight" class="accordion-collapse collapse"
+                                                <div id="collapse21" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>RTT Hypnotherapy (Rapid Transformational Therapy) is a powerful,
@@ -338,12 +338,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseNine"
-                                                        aria-expanded="false" aria-controls="collapseNine">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse22"
+                                                        aria-expanded="false" aria-controls="collapse22">
                                                         What is your cancellation policy?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseNine" class="accordion-collapse collapse"
+                                                <div id="collapse22" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>I have a 48-hour cancellation policy and require full payment
@@ -370,13 +370,13 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseTen"
-                                                        aria-expanded="false" aria-controls="collapseTen">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse23"
+                                                        aria-expanded="false" aria-controls="collapse23">
                                                         Can I get the same results from an online session as I would in
                                                         person?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseTen" class="accordion-collapse collapse"
+                                                <div id="collapse23" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Yes, RTT is equally effective whether conducted online or in
@@ -393,13 +393,13 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseEleven"
-                                                        aria-expanded="false" aria-controls="collapseEleven">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse24"
+                                                        aria-expanded="false" aria-controls="collapse24">
                                                         Will I be aware of what’s happening during the session and remember
                                                         it afterward?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseEleven" class="accordion-collapse collapse"
+                                                <div id="collapse24" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Yes, you will remain fully aware throughout the entire RTT
@@ -415,13 +415,13 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseTwelve"
-                                                        aria-expanded="false" aria-controls="collapseTwelve">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse25"
+                                                        aria-expanded="false" aria-controls="collapse25">
                                                         How important is my personalized recording in the RTT Hypnotherapy
                                                         process?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseTwelve" class="accordion-collapse collapse"
+                                                <div id="collapse25" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Your personalized recording is essential to your transformation,
@@ -440,12 +440,12 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseThirteen"
-                                                        aria-expanded="false" aria-controls="collapseThirteen">
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse26"
+                                                        aria-expanded="false" aria-controls="collapse26">
                                                         What if I believe I already understand the cause of my issue?
                                                     </button>
                                                 </h2>
-                                                <div id="collapseThirteen" class="accordion-collapse collapse"
+                                                <div id="collapse26" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Having a conscious understanding of your issue can be helpful,
@@ -485,12 +485,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                    aria-expanded="false" aria-controls="collapseOne">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse27"
+                                                    aria-expanded="false" aria-controls="collapse27">
                                                     What is brain and self-image coaching?
                                                 </button>
                                             </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse"
+                                            <div id="collapse27" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs">
                                                 <div class="accordion-body">
                                                     <p>Brain and self-image coaching is a process designed to help
@@ -505,12 +505,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse28"
+                                                    aria-expanded="false" aria-controls="collapse28">
                                                     How does brain and self-image coaching work?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                            <div id="collapse28" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs">
                                                 <div class="accordion-body">
                                                     <p>Coaching involves a combination of techniques like
@@ -525,12 +525,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse29"
+                                                    aria-expanded="false" aria-controls="collapse29">
                                                     Who can benefit from brain and self-image coaching?
                                                 </button>
                                             </h2>
-                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                            <div id="collapse29" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs">
                                                 <div class="accordion-body">
                                                     <p>Anyone who feels limited by negative self-beliefs, low
@@ -548,12 +548,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                    aria-expanded="false" aria-controls="collapseFour">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse30"
+                                                    aria-expanded="false" aria-controls="collapse30">
                                                     How is brain and self-image coaching different from therapy?
                                                 </button>
                                             </h2>
-                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                            <div id="collapse30" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs2">
                                                 <div class="accordion-body">
                                                     <p>While therapy often focuses on addressing deep emotional trauma
@@ -568,12 +568,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                                    aria-expanded="false" aria-controls="collapseFive">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse31"
+                                                    aria-expanded="false" aria-controls="collapse31">
                                                     What results can I expect from coaching?
                                                 </button>
                                             </h2>
-                                            <div id="collapseFive" class="accordion-collapse collapse"
+                                            <div id="collapse31" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs2">
                                                 <div class="accordion-body">
                                                     <p>Results can vary depending on the individual’s goals and
@@ -587,12 +587,12 @@
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                                    aria-expanded="false" aria-controls="collapseSix">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse32"
+                                                    aria-expanded="false" aria-controls="collapse32">
                                                     How much does brain and self-image coaching cost?
                                                 </button>
                                             </h2>
-                                            <div id="collapseSix" class="accordion-collapse collapse"
+                                            <div id="collapse32" class="accordion-collapse collapse"
                                                 data-bs-parent="#coachingFAQs2">
                                                 <div class="accordion-body">
                                                     <p>The cost varies depending on the coaching type and package. There
