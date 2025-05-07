@@ -2,7 +2,6 @@
 <lang="en">
 
     <?php include "includes/head.php" ?>
-
     <?php include "includes/header.php" ?>
 
     <div class="main-banner">
@@ -125,9 +124,6 @@
 
 
     </div>
-    </div>
-
-    </Main>
 
     <?php include "includes/footer.php" ?>
 

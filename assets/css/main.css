@@ -4655,6 +4655,145 @@ FAQS Style
   margin-right: auto;
   margin-left: auto;
 }
+
+/* 
+---------------------------------------------
+Speaking Style
+--------------------------------------------- 
+*/
+.speaking {
+  background-color: #ffffff;
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+}
+
+.speaking .header img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.speaking .buttonone .btn-primary {
+  display: inline-block;
+  padding: 5px 30px;
+  background-color: #6e1247;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  border: 1px solid #6e1247;
+}
+
+.speaking .button .btn-primary {
+  display: inline-block;
+  padding: 5px 30px;
+  background-color: #6e1247;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  border: 1px solid #6e1247;
+}
+
+.speaking p.one {
+  font-size: 30px;
+  line-height: 1.3;
+  font-weight: 400;
+  color: #000000;
+  border-radius: 8px;
+  padding: 40px 0px 40px 0px;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.speaking p.two {
+  font-size: 23px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 10px 0px 40px 0px;
+  text-align: left;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking p.three {
+  font-size: 23px;
+  line-height: 1.3;
+  font-weight: 4600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 10px 0px 40px 0px;
+  text-align: left;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking .highlighted-text{
+  font-size: 33px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking .highlighted-text1{
+  font-size: 26px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking p.four {
+  font-size: 23px;
+  line-height: 1.3;
+  font-weight: 400;
+  color: #000000;
+  border-radius: 8px;
+  padding: 10px 0px 10px 0px;
+  text-align: left;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking p.five {
+  font-size: 26px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 40px 0px 50px 0px;
+  text-align: left;
+  font-family: "Calibri", sans-serif;
+}
+
+.speaking .footerbanner img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding: 80px 0px 40px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.speaking .footer img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  height: auto;
+  max-width: 100%;
+  padding: 80px 0px 40px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /* 
 ---------------------------------------------
 Page Header Style

@@ -111,7 +111,7 @@
                                     <div class="mb-3">
                                         <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Submit</button>
+                                    <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Send</button>
                                 </form>
                             </div>
                         </div>
