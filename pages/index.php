@@ -38,7 +38,7 @@
                         of Hypnotherapy, Psychotherapy, NLP - Neurolinguistics Programming and CBT - Cognitive
                         Behavioural Therapy.
                     </p>
-                    <br><br><br><br>
+                    <br><br>
                     <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
                     <p class="twodown">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
