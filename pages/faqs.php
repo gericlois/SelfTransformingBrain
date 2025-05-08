@@ -2,77 +2,8 @@
 <lang="en">
 
     <?php include "includes/head.php" ?>
-
     <?php include "includes/header.php" ?>
-    <style>
-        .accordion-button:not(.collapsed) {
-            color: #0c306b;
-            background-color: #e3eefb;
-            font-weight: 500;
-        }
-
-        .accordion-button {
-            color: #0c306b;
-            font-weight: normal;
-        }
-
-        .accordion-button:hover {
-            color: #082040;
-            background-color: #f8f9fa;
-        }
-
-        .accordion-item {
-            border-color: #d4dae0;
-            border-radius: 0.5rem;
-            margin-bottom: 0.5rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-        }
-
-        .accordion-item:last-child {
-            border-radius: 0.5rem;
-        }
-
-        .accordion-body {
-            color: #343a40;
-            padding-bottom: 1rem;
-        }
-
-        .accordion-button::after {
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-chevron-down' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'%3C/path%3E%3C/svg%3E");
-        }
-
-        .accordion-button:not(.collapsed)::after {
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-chevron-up' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z'%3C/path%3E%3C/svg%3E");
-        }
-
-        /* Styles for 2-column layout */
-        @media (min-width: 992px) {
-
-            /* Large screens and up */
-            .row-cols-lg-2>* {
-                flex: 0 0 50%;
-                /* Each column takes 50% width */
-                max-width: 50%;
-            }
-        }
-
-        .row-cols-lg-2 {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .row-cols-lg-2>* {
-            flex: 0 0 100%;
-            max-width: 100%;
-        }
-
-        @media (min-width: 992px) {
-            .row-cols-lg-2>* {
-                flex: 0 0 50%;
-                max-width: 50%;
-            }
-        }
-    </style>
+   
     <div class="main-banner">
         <div class="faqs section">
             <div class="col-lg-12">
@@ -98,7 +29,7 @@
                         <p class="three">
                             RAPID TRANSFORMATIONAL THERAPY (RTT) FAQs
                         </p>
-
+                        
                         <div class="accordion">
                             <div class="container">
                                 <div class="row row-cols-1 row-cols-lg-2 g-4">
@@ -787,7 +718,6 @@
     <script src="../assets/js/owl-carousel.js"></script>
     <script src="../assets/js/counter.js"></script>
     <script src="../assets/js/custom.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 
