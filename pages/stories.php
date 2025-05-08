@@ -48,6 +48,14 @@
     #modal-testimonials {
         text-align: justify;
     }
+
+    #modal-name {
+        font-size: 30px;
+    }
+
+    #modal-service {
+        font-size: 20px;
+    }
 </style>
 
 <div class="main-banner">
@@ -88,7 +96,7 @@
                             <?php while ($row = mysqli_fetch_assoc($result)): ?>
                                 <div class="card-stack bg-red-800 border border-gray-700 rounded-xl p-5 w-64 flex-shrink-0 snap-start transition-transform duration-300 hover:rotate-[-3deg] hover:z-10 text-white">
                                     <p class="text-sm text-gray-300"><?= htmlspecialchars($row['address']) ?></p>
-                                    <h3 class="text-sm font-bold mt-2"><?= htmlspecialchars($row['service']) ?></h3>
+                                    <h3 class="text-sm text-gray-300 font-bold mt-2"><?= htmlspecialchars($row['service']) ?></h3>
                                     <div class="flex items-center mt-4">
                                         <?php if (!empty($row['picture'])): ?>
                                             <img src="<?= htmlspecialchars($row['picture']) ?>" alt="Profile" class="rounded-full mr-2" />
@@ -153,7 +161,7 @@
                             </form>
                         </div>
                     </div>
-                    
+
                     <div class="youtube d-flex justify-content-center my-4">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/elbqER_ZrLQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
                     </div>
@@ -170,7 +178,7 @@
     <div class="modal-dialog modal-xl modal-dialog-centered">
         <div class="modal-content" style="background-color: #b91c1c; color: white;"> <!-- Deep red background -->
             <div class="modal-header border-0">
-                <h5 class="modal-title" id="storyModalLabel">Testimonial Details</h5>
+                <h5 class="modal-title text-white" id="storyModalLabel">Testimonial Details</h5>
                 <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
@@ -180,10 +188,10 @@
                         <div class="col-lg-3">
                             <img id="modal-picture" src="" alt="Profile" class="rounded-circle me-3" width="50%" height="50%" style="object-fit: cover; display: none;" />
                         </div>
-                        <div class="modalcontent col-lg-9">
-                            <h3 id="modal-name" class="mb-0"></h3>
+                        <div class="col-lg-9">
+                            <h2 class="text-white mt-4" id="modal-name" class="mb-0"></h2>
                             <small id="modal-address"></small>
-                            <h4 id="modal-service" class="mb-3"></h4>
+                            <h4 class="text-white mt-4" id="modal-service" class="mb-3"></h4>
                             <h6 class="text-white mt-4" id="modal-testimonials"></h6>
                             <p class="text-white mt-4"><small id="modal-created"></small></p>
                         </div>
