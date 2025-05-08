@@ -24,9 +24,12 @@
                         </p>
 
                         <p class="two">
-                            <span class="highlighted-text3">&#11162; Rapid Transformational Hypnotherapy (RTT).</span><br>
-                            <span class="highlighted-text1">&#11162; Brain & Self-Image Coaching,</span><br>
-                            <span class="highlighted-text2">&#11162; Finance & Business Coaching</span><br>
+                            <span class="highlighted-text3">&#11162; Rapid Transformational Hypnotherapy (RTT).<br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;"HEAL.TRANSFORM. THRIVE."</span><br>
+                            <span class="highlighted-text1">&#11162; Brain & Self-Image Coaching <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp; "STEP INTO A NEW YOU"</span><br>
+                            <span class="highlighted-text2">&#11162; Finance & Business Coaching<br>
+                                &nbsp;&nbsp;&nbsp;&nbsp; "TRANSFORM YOUR MINDSET, GROW YOUR WEALTH<br></span>
                         </p>
 
                         <div class="col-lg-12">
