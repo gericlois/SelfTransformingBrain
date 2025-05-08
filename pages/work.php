@@ -66,8 +66,8 @@
                         </div>
 
                         <p class="three">
-                            You're one decision away from a major breakthrough. Book your session now
-                            and step into the life you've always dreamed of.
+                            You're one decision away from a major breakthrough. <br>
+                            Book your session now and step into the life you've always dreamed of.
                         </p>
 
                         <div class="col-lg-12">
