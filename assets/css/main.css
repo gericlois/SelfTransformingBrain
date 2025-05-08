@@ -256,6 +256,24 @@ body {
   font-family: "Calibri", sans-serif;
 }
 
+.emailer {
+  padding: 0px 0px 50px 0px;
+}
+
+.btn-primary-form {
+  display: inline-block;
+  padding: 5px 30px;
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  border: 1px solid #F60017;
+}
+
 ::selection {
   background: #0071f8;
   color: #fff;
@@ -4096,7 +4114,7 @@ Pricing Style
   width: 60%;
   height: auto;
   max-width: 100%;
-  padding: 60px 0px 20px 0px;
+  padding: 20px 0px 20px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4116,6 +4134,18 @@ Pricing Style
   margin-bottom: 50px;
 }
 
+.pricing .brainheader img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  height: auto;
+  max-width: 100%;
+  padding: 20px 0px 20px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
 .pricing .footer img {
   display: block;
   margin: 0 auto;
@@ -4130,15 +4160,15 @@ Pricing Style
 .pricing .brainbutton .btn-primary {
   display: inline-block;
   padding: 5px 15px;
-  background-color: #c0c0c0;
-  color: #00ac46;
+  background-color: #00ac46;
+  color: #ffffff;
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
   text-align: center;
   transition: background-color 0.3s ease;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #00ac46;
   margin-bottom: 50px;
 }
 
@@ -4168,7 +4198,7 @@ Pricing Style
   margin-bottom: 50px;
 }
 
-.pricing .financebutton2 .btn-primary {
+.pricing .financebutton .btn-primary {
   display: inline-block;
   padding: 5px 30px;
   background-color: #429ce4;
@@ -4186,7 +4216,7 @@ Pricing Style
 .pricing .footer_contact img {
   display: block;
   margin: 0 auto;
-  width: 40%;
+  width: 70%;
   height: auto;
   max-width: 100%;
   padding: 20px 0px 20px 0px;
@@ -4194,12 +4224,48 @@ Pricing Style
   margin-left: auto;
 }
 
-.pricing .button_contact .btn-primary {
+.pricing p.one {
+  font-size: 25px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 40px 20px 20px 20px;
+  text-align: left;
+  font-family: "Calibri", sans-serif;
+}
+
+.pricing p.two {
+  font-size: 32px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 8px;
+  padding: 20px 0px 50px 0px;
+  text-align: center;
+  font-family: "Calibri", sans-serif;
+}
+
+.pricing .button .btn-primary {
   display: inline-block;
   padding: 5px 30px;
   background-color: #F60017;
   color: #ffffff;
   font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 25px;
+  text-align: left;
+  transition: background-color 0.3s ease;
+  border: 1px solid #F60017;
+}
+
+.pricing .button_contact .btn-primary {
+  display: inline-block;
+  padding: 5px 30px;
+  background-color: #F60017;
+  color: #ffffff;
+  font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
@@ -4338,6 +4404,11 @@ Stories Style
   text-align: center;
 }
 
+.text-sky-400 {
+  font-size: 15px;
+  line-height: 1.3;
+}
+
 .stories .header img {
   display: block;
   width: 100%;
@@ -4352,7 +4423,7 @@ Stories Style
   font-weight: 600;
   color: #000000;
   border-radius: 8px;
-  padding: 40px 0px 10px 0px;
+  padding: 40px 12% 10px 12%;
   text-align: center;
   font-family: 'Quintessential', normal;
 }
@@ -4363,29 +4434,29 @@ Stories Style
   font-weight: 600;
   color: #ffffff;
   border-radius: 8px;
-  padding: 40px 0px 10px 0px;
+  padding: 50px 0px 10px 0px;
   text-align: center;
   font-family: 'Quintessential', normal;
 }
 
 .stories p.two {
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
   border-radius: 8px;
-  padding: 40px 0px 10px 0px;
-  text-align: center;
+  padding: 50px 12% 10px 12%;
+  text-align: justify;
   font-family: 'Arial', normal;
 }
 
 .stories p.three {
-  font-size: 25px;
+  font-size: 27px;
   line-height: 1.3;
-  font-weight: 600;
+  font-weight: 400;
   color: #000000;
   border-radius: 8px;
-  padding: 40px 0px 10px 0px;
+  padding: 40px 12% 10px 12%;
   text-align: center;
   font-family: 'Quintessential', normal;
 }
@@ -4403,7 +4474,7 @@ Stories Style
   transition: background-color 0.3s ease;
   border: 1px solid #F60017;
   margin-top: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
 .stories .footer img {
@@ -4668,7 +4739,7 @@ Speaking Style
 
 .speaking .header img {
   display: block;
-  width: 100%;
+  width: 80%;
   height: auto;
   margin-right: auto;
   margin-left: auto;
@@ -4703,23 +4774,23 @@ Speaking Style
 }
 
 .speaking p.one {
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1.3;
-  font-weight: 400;
+  font-weight: 700;
   color: #000000;
   border-radius: 8px;
-  padding: 40px 0px 40px 0px;
+  padding: 40px 16% 40px 16%;
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
 }
 
 .speaking p.two {
-  font-size: 23px;
+  font-size: 21px;
   line-height: 1.3;
-  font-weight: 600;
+  font-weight: 500;
   color: #000000;
   border-radius: 8px;
-  padding: 10px 0px 40px 0px;
+  padding: 10px 16% 40px 16%;
   text-align: left;
   font-family: "Calibri", sans-serif;
 }
@@ -4730,7 +4801,7 @@ Speaking Style
   font-weight: 4600;
   color: #000000;
   border-radius: 8px;
-  padding: 10px 0px 40px 0px;
+  padding: 10px 16% 40px 16%;
   text-align: left;
   font-family: "Calibri", sans-serif;
 }
@@ -4743,7 +4814,7 @@ Speaking Style
 }
 
 .speaking .highlighted-text1{
-  font-size: 26px;
+  font-size: 23px;
   color: #000000;
   font-weight: bold;
   font-family: "Calibri", sans-serif;
@@ -4755,26 +4826,26 @@ Speaking Style
   font-weight: 400;
   color: #000000;
   border-radius: 8px;
-  padding: 10px 0px 10px 0px;
+  padding: 10px 16% 10px 16%;
   text-align: left;
   font-family: "Calibri", sans-serif;
 }
 
 .speaking p.five {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
   border-radius: 8px;
   padding: 40px 0px 50px 0px;
-  text-align: left;
+  text-align: center;
   font-family: "Calibri", sans-serif;
 }
 
 .speaking .footerbanner img {
   display: block;
   margin: 0 auto;
-  width: 100%;
+  width: 80%;
   height: auto;
   max-width: 100%;
   padding: 80px 0px 40px 0px;

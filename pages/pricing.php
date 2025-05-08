@@ -101,23 +101,23 @@
                             <div class="finance1">
                                 <img src="../assets/images/includes/pricingfinance1.png" alt="">
                             </div>
-                            <div class="financebutton1">
-    <a href="#" class="btn  btn-primary w-100 w-100">BOOK A FREE DISCOVERY CALL NOW TO LAUNCH YOUR BUSINESS</a>
-</div>
+                            <div class="financebutton">
+                                <a href="#" class="btn  btn-primary w-100 w-100">BOOK A FREE DISCOVERY CALL NOW TO LAUNCH YOUR BUSINESS</a>
+                            </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="finance2">
                                 <img src="../assets/images/includes/pricingfinance2.png" alt="">
                             </div>
-                            <div class="financebutton1">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO LAUNCH YOUR BUSINESS </a>
+                            <div class="financebutton">
+                                <a href="#" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="finance3">
                                 <img src="../assets/images/includes/pricingfinance3.png" alt="">
                             </div>
-                            <div class="financebutton2">
+                            <div class="financebutton">
                                 <a href="#" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
                             </div>
                         </div>
@@ -125,35 +125,50 @@
                 </div>
             </div>
 
-            <div class="col-lg-12">
-                <div class="footer_contact">
-                    <img src="../assets/images/includes/work3.png" alt="">
-                </div>
-            </div>
+            <div class="container">
+                <p class="one">
+                    DO YOU HAVE ANY QUESTIONS ABOUT THE SERVICES ABOVE BEFORE BOOKING WITH ME? IF SO, PLEASE BOOK A FREE 30 MINUTE DISCOVERY CALL NOW!
+                </p>
 
-            <div class="col-lg-12">
-                <div class="emailer">
-                    <form class="p-4 bg-light" method="POST" action="send_mail.php">
-                        <div class="mb-3">
-                            <input type="text" class="form-control" name="name" placeholder="Your Name*" required>
-                        </div>
-                        <div class="row mb-3">
-                            <div class="col-md-6">
-                                <input type="text" class="form-control" name="service" placeholder="Type of Services*" required>
-                            </div>
-                            <div class="col-md-6">
-                                <input type="email" class="form-control" name="email" placeholder="Email*" required>
-                            </div>
-                        </div>
-                        <div class="mb-3">
-                            <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Send</button>
-                    </form>
+                <div class="button">
+                    <a href="#" class="btn  btn-primary"> BOOK A FREE DISCOVERY CALL NOW!... </a>
                 </div>
+
+                
+                <p class="two">
+                    <a href="faqs.php">&#x2192; SEE OUR FAQ’s </a>
+                </p>
+
+
+                <div class="col-lg-12">
+                    <div class="footer_contact">
+                        <img src="../assets/images/includes/work3.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-12 d-flex justify-content-center">
+                            <div class="emailer" style="max-width: 1000px; width: 100%;">
+                                <form class="p-4 bg-light" method="POST" action="send_mail.php">
+                                    <div class="mb-3">
+                                        <input type="text" class="form-control" name="name" placeholder="Your Name*" required>
+                                    </div>
+                                    <div class="row mb-3">
+                                        <div class="col-md-6">
+                                            <input type="text" class="form-control" name="service" placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <input type="email" class="form-control" name="email" placeholder="Email*" required>
+                                        </div>
+                                    </div>
+                                    <div class="mb-3">
+                                        <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary-form">SEND</button>
+                                </form>
+                            </div>
+                        </div>
             </div>
         </div>
-    </div>
 
     </div>
     </div>

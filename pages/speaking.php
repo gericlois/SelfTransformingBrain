@@ -46,10 +46,10 @@
                         </p>
 
                         <p class="two">
-                            For professionals, I distill neuroscience, health psychology and principles of coaching into practical tools and strategies for use in the workshop, classroom or businesses. <br>
-                            For students, I break down complex brain science into relatable insights that help them to understand themselves better, build resilience, and find their career journey with clarity and confidence.<br>
-                            For general audiences, I share my neuro-knowledge and top tips for better mental health and longevity.<br>
-                            I'm happy to work with you to create a bespoke keynote, interactive workshop, panel discussion and present it face-to-face or virtually, depending on your audience and requirements.<br>
+                            For professionals, I distill neuroscience, health psychology and principles of coaching into practical tools and strategies for use in the workshop, classroom or businesses. <br><br>
+                            For students, I break down complex brain science into relatable insights that help them to understand themselves better, build resilience, and find their career journey with clarity and confidence.<br><br>
+                            For general audiences, I share my neuro-knowledge and top tips for better mental health and longevity.<br><br>
+                            I'm happy to work with you to create a bespoke keynote, interactive workshop, panel discussion and present it face-to-face or virtually, depending on your audience and requirements.
                         </p>
 
                         <p class="three">
@@ -80,7 +80,7 @@
 
                         <div class="button">
                             <a href="#" class="btn btn-primary">
-                            ENQUIRE ABOUT SPEAKING, WORKSHOPS OR PROGRAMS
+                            ENQUIRE ABOUT SPEAKING, WORKSHOPS AND PROGRAMS
                             </a>
                         </div>
 
@@ -96,15 +96,15 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-12">
-                            <div class="emailer">
+                        <div class="col-lg-12 d-flex justify-content-center">
+                            <div class="emailer" style="max-width: 1000px; width: 100%;">
                                 <form class="p-4 bg-light" method="POST" action="send_mail.php">
                                     <div class="mb-3">
                                         <input type="text" class="form-control" name="name" placeholder="Your Name*" required>
                                     </div>
                                     <div class="row mb-3">
                                         <div class="col-md-6">
-                                            <input type="text" class="form-control" name="service" placeholder="Type of Services*" required>
+                                            <input type="text" class="form-control" name="service" placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
                                         </div>
                                         <div class="col-md-6">
                                             <input type="email" class="form-control" name="email" placeholder="Email*" required>
@@ -113,10 +113,11 @@
                                     <div class="mb-3">
                                         <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Send</button>
+                                    <button type="submit" class="btn btn-primary-form">SEND</button>
                                 </form>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>

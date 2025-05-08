@@ -98,7 +98,7 @@
                                     </div>
                                     <div class="row mb-3">
                                         <div class="col-md-6">
-                                            <input type="text" class="form-control" name="service" placeholder="Type of Services*" required>
+                                            <input type="text" class="form-control" name="service" placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
                                         </div>
                                         <div class="col-md-6">
                                             <input type="email" class="form-control" name="email" placeholder="Email*" required>
@@ -107,7 +107,8 @@
                                     <div class="mb-3">
                                         <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Send</button>
+                                    
+                                        <button type="submit" class="btn btn-primary-form">SEND</button>
                                 </form>
                             </div>
                         </div>

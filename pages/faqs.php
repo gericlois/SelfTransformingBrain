@@ -748,7 +748,7 @@
                                     <div class="row mb-3">
                                         <div class="col-md-6">
                                             <input type="text" class="form-control" name="service"
-                                                placeholder="Type of Services*" required>
+                                                placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
                                         </div>
                                         <div class="col-md-6">
                                             <input type="email" class="form-control" name="email" placeholder="Email*"

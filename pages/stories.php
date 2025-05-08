@@ -4,7 +4,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/connection.php" ?>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <style>
     .card-container {
@@ -45,6 +44,10 @@
         border: 3px solid transparent;
         border-image: linear-gradient(to bottom, #f97316, #ec4899, #06b6d4) 1;
     }
+
+    #modal-testimonials {
+        text-align: justify;
+    }
 </style>
 
 <div class="main-banner">
@@ -69,10 +72,11 @@
                     <div class="flex items-start">
                         <div class="gradient-border rounded-xl p-6 pt-10 w-90 flex flex-col justify-between bg-black">
                             <div class="flex items-center mt-4">
-                            <img src="../assets/images/profile/servet.jpg" class="rounded-full mr-5" style="width: 250px; height: 150px; object-fit: cover;" />
+                                <img src="../assets/images/profile/servet.jpg" class="rounded-full mr-5" style="width: 250px; height: 150px; object-fit: cover;" />
 
                             </div>
-                            <h3 class="text-lg text-white mt-6">SERVET EGE<br><span class="text-sky-400">Coach</span></h3>
+                            <h3 class="text-lg text-white mt-6">SERVET EGE</h3>
+                            <p class="text-sky-400">RTT HYPNOTHERAPIST & THERAPIST & COACH</p>
                         </div>
 
                         <?php
@@ -128,15 +132,15 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
-                        <div class="emailer">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <div class="emailer" style="max-width: 1000px; width: 100%;">
                             <form class="p-4 bg-light" method="POST" action="send_mail.php">
                                 <div class="mb-3">
                                     <input type="text" class="form-control" name="name" placeholder="Your Name*" required>
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-md-6">
-                                        <input type="text" class="form-control" name="service" placeholder="Type of Services*" required>
+                                        <input type="text" class="form-control" name="service" placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
                                     </div>
                                     <div class="col-md-6">
                                         <input type="email" class="form-control" name="email" placeholder="Email*" required>
@@ -145,14 +149,16 @@
                                 <div class="mb-3">
                                     <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                 </div>
-                                <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Send</button>
+                                <button type="submit" class="btn btn-primary-form">SEND</button>
                             </form>
                         </div>
                     </div>
-
-                    <div class="col-lg-12">
+                    
+                    <div class="youtube d-flex justify-content-center my-4">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/elbqER_ZrLQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
                     </div>
+
+
                 </div>
             </div>
         </div>
@@ -174,16 +180,16 @@
                         <div class="col-lg-3">
                             <img id="modal-picture" src="" alt="Profile" class="rounded-circle me-3" width="50%" height="50%" style="object-fit: cover; display: none;" />
                         </div>
-                        <div class="col-lg-9">
+                        <div class="modalcontent col-lg-9">
                             <h3 id="modal-name" class="mb-0"></h3>
                             <small id="modal-address"></small>
                             <h4 id="modal-service" class="mb-3"></h4>
-                <h6 class="text-white mt-4" id="modal-testimonials"></h6>
-                <p class="text-white mt-4"><small id="modal-created"></small></p>
+                            <h6 class="text-white mt-4" id="modal-testimonials"></h6>
+                            <p class="text-white mt-4"><small id="modal-created"></small></p>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
