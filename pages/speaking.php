@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta charset="UTF-8">
 <lang="en">
 
     <?php include "includes/head.php" ?>
@@ -62,7 +63,7 @@
                         </p>
 
                         <p class="four">
-                            Interested in elevating your mindset, unlocking peak performance, and driving change from the inside out? <span class="highlighted-text1">JOIN ME or INVITE ME</span> to lead powerful sessions in: <br>
+                            Interested in elevating your mindset, unlocking peak performance, and driving change from the inside out? <span class="highlighted-text1">JOIN ME or INVITE ME</span> to lead powerful sessions in: <br><br>
                                 &#x2022; <b> Channelling With OKUSAWA From ORION Workshop <br>
                                 &#x2022; Neuroscience<br>
                                 &#x2022; Neuroentrepreneurship<br>
