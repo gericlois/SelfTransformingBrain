@@ -665,7 +665,7 @@
 
                         <div class="col-lg-12">
                             <div class="footer">
-                                <img src="../assets/images/includes/work3.png" alt="">
+                                <img src="../assets/images/includes/faqs1.png" alt="">
                             </div>
                         </div>
 
@@ -673,7 +673,7 @@
                             <div class="emailer">
                                 <form class="p-4 bg-light" method="POST" action="send_mail.php">
                                     <div class="mb-3">
-                                        <input type="text" class="form-control" name="name" placeholder="Your Name*"
+                                        <input type="text" class="form-control" name="name" placeholder="Name*"
                                             required>
                                     </div>
                                     <div class="row mb-3">
@@ -697,7 +697,7 @@
 
                         <div class="col-lg-12">
                             <div class="footertwo">
-                                <img src="../assets/images/includes/faqs1.png" alt="">
+                                <img src="../assets/images/includes/faqsfooter.png" alt="">
                             </div>
                         </div>
                     </div>

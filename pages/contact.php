@@ -117,7 +117,7 @@
                             <div class="emailer" style="max-width: 1000px; width: 100%;">
                                 <form class="p-4 bg-light" method="POST" action="send_mail.php">
                                     <div class="mb-3">
-                                        <input type="text" class="form-control" name="name" placeholder="Your Name*" required>
+                                        <input type="text" class="form-control" name="name" placeholder="Name*" required>
                                     </div>
                                     <div class="row mb-3">
                                         <div class="col-md-6">

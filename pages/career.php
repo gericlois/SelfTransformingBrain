@@ -69,7 +69,7 @@
                                 help to unlock these blocks to create space for new opportunities, clearer goals, and
                                 increased motivation.<br><br>
 
-                                Public Speaking is one of the most common fears of people to face and it can greatly
+                                <span class="highlighted-text">Public Speaking </span>is one of the most common fears of people to face and it can greatly
                                 affect one's ability to perform in interviews, deliver presentations, or participate in
                                 professional and academic settings. RTT helps to remove a person’s fear, anxiety, and self-consciousness associated with
                                 public speaking. By working with the subconscious mind, <span class="highlighted-text">Rapid Transformational Therapy</span>
@@ -96,7 +96,7 @@
                                 underlying emotional blocks or limiting beliefs that might be affecting cognitive
                                 function of the brain. By accessing the subconscious mind, RTT helps strengthen the
                                 brain’s natural memory processes and enhance recall any particular information needed.
-                                It can also boost focus and concentration, enabling individuals to better absorb and
+                                It can also boost <span class="highlighted-text">focus and concentration</span>, enabling individuals to better absorb and
                                 retain information, especially in high-pressure situations such as exams or
                                 presentations. A lack of concentration and focus can be frustrating, especially when we are trying to
                                 juggle academic and career demands. This can result in procrastination, poor
@@ -129,7 +129,7 @@
                                 addressing any fears or anxieties related to driving. Whether it's fear of the road,
                                 being in control of the vehicle, or worries about having accidents, RTT can help to
                                 shift those beliefs into positive and empowering ones. It boosts confidence, reduces
-                                anxiety, and helps individuals to feel more in control and relaxed behind the wheel.<br><br>
+                                anxiety,<br>  and helps individuals to feel more in control and relaxed behind the wheel.<br><br>
 
                             </p>
 

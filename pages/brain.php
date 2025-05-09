@@ -207,9 +207,7 @@
                 </div>
 
                 <p class="three">
-                    BELIEVE IN YOUR POWER TO CHANGE. EVERY STEP FORWARD, NO MATTER HOW SMALL,
-                    BRINGS YOU CLOSER TO THE BEST VERSION OF YOURSELF. YOUR MIND IS YOUR GREATEST
-                    TOOL—UNLOCK IT, EMBRACE GROWTH, AND WATCH YOUR LIFE TRANSFORM!
+                    BELIEVE IN YOUR POWER TO CHANGE. EVERY STEP IS FORWARD, NO MATTER HOW SMALL THEY ARE, IT BRINGS YOU CLOSER TO THE BEST VERSION OF YOURSELF. YOUR MIND IS YOUR GREATEST TOOL, UNLOCK IT, EMBRACE ITS GROWTH AND WATCH YOUR LIFE TRANSFORM!
                 </p>
 
                 <div class="col-lg-12">
@@ -251,20 +249,7 @@
                 <hr>
                 <p class="five">Moriel Zelikowsky: Inspiring Women in Neuroscience and Self-Discovery
                 </p>
-                <p class="six">As I am currently studying to become a neuroscientist, I draw immense
-                    inspiration from trailblazers like Moriel Zelikowsky. Her groundbreaking contributions
-                    to neuroscience, particularly in the areas of brain science and self-image, have not
-                    only advanced our understanding of the brain but also empowered countless individuals to
-                    embrace their potential for change and growth.
-                    In this video, you’ll learn about Moriel’s remarkable journey and her passion for
-                    reshaping how we think about the brain and self-perception and also mental health as a
-                    whole. Her story is a powerful reminder that with resilience, dedication, and a
-                    commitment to self-discovery, we can transform our self-image and unlock new
-                    possibilities for personal and professional growth.
-                    Moriel’s work resonates deeply with my own journey, as I strive to contribute to the
-                    evolving field of neuroscience and help others tap into the transformative power of the
-                    brain.
-
+                <p class="six">As I am currently studying to become a neuroscientist, I draw immense inspiration from trailblazers like Dr Moriel Zelikowsky. Dr Zelikowsky’s groundbreaking contributions to neuroscience, particularly in the areas of brain science and self-image it has not only advanced our understanding of the brain but also empowered countless individuals to embrace their potential for change and growth. In this video, you’ll learn about Dr Moriel’s remarkable journey and her passion for reshaping how we think about the brain and the human’s self-perception along with our mental health. Overall, Dr. Zelikowsky’s story is a powerful reminder that with strong resilience, dedication, and a commitment to self-discovery, we can transform our self-image with ease and able to unlock new possibilities for both personal and professional growth. Dr Moriel’s work resonates deeply with my own journey, as I strive to contribute to the evolving field of neuroscience and help others to tap into the transformative power of their own brain.
                 </p>
                 <hr><br><br>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkAdNKplEqs?si=j_QTZkTlMCQT3f9e"

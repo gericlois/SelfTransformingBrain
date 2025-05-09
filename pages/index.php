@@ -419,7 +419,7 @@
 
                     <div class="col-lg-12">
                         <div class="book">
-                            <img src="../assets/images/includes/book.png" alt="">
+                            <img src="../assets/images/includes/book2.png" alt="">
                         </div>
                     </div>
 

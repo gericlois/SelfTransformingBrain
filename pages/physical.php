@@ -155,7 +155,7 @@
 
                             <div class="col-lg-12">
                                 <div class="footer_contact">
-                                    <img src="../assets/images/includes/physical_footer_purple.png" alt="">
+                                    <img src="../assets/images/includes/physical_footernew.png" alt="">
                                 </div>
                             </div>
 

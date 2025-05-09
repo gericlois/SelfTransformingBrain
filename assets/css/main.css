@@ -3458,7 +3458,7 @@ Carreer Style
 .carreer .highlighted-texttwo {
   color: #F60017;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 27px;
   font-family: "Century Schoolblack", sans-serif;
 }
 
@@ -3608,8 +3608,8 @@ Physical Style
   text-align: center;
   transition: background-color 0.3s ease;
   border: 1px solid #8b008b;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .physical .footer img {
@@ -3618,7 +3618,7 @@ Physical Style
   width: 50%;
   height: auto;
   max-width: 100%;
-  padding: 50px 0px 40px 0px;
+  padding: 10px 0px 0px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3629,7 +3629,7 @@ Physical Style
   width: 60%;
   height: auto;
   max-width: 100%;
-  padding: 150px 0px 20px 0px;
+  padding: 80px 0px 20px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4121,10 +4121,10 @@ Pricing Style
 
 .pricing .rttbutton .btn-primary {
   display: inline-block;
-  padding: 5px 30px;
+  padding: 5px 0px;
   background-color: #c0c0c0;
   color: #ed1c17;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
@@ -4241,7 +4241,7 @@ Pricing Style
   font-weight: 600;
   color: #000000;
   border-radius: 8px;
-  padding: 20px 0px 50px 0px;
+  padding: 70px 0px 50px 0px;
   text-align: center;
   font-family: "Calibri", sans-serif;
 }
@@ -4721,7 +4721,7 @@ FAQS Style
   width: 70%;
   height: auto;
   max-width: 100%;
-  padding: 80px 0px 40px 0px;
+  padding: 50px 0px 40px 0px;
   margin-right: auto;
   margin-left: auto;
 }
