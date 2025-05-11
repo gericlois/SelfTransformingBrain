@@ -24,7 +24,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-md-3">
-        <a href="#" class="btn btn-primary">BOOK A FREE DISCOVERY CALL</a>
+        <a href="work.php" class="btn btn-primary">BOOK A FREE DISCOVERY CALL</a>
       </div>
     </div>
   </div>

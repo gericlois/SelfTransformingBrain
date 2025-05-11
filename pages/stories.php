@@ -131,7 +131,7 @@
 
                     <div class="col-lg-12">
                         <div class="button">
-                            <a href="#" class="btn btn-primary">WORK WITH ME</a>
+                            <a href="work.php" class="btn btn-primary">WORK WITH ME</a>
                         </div>
                     </div>
 

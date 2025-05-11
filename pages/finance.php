@@ -173,7 +173,7 @@
 
                             <div class="col-lg-12">
                                 <div class="button">
-                                    <a href="#" class="btn btn-primary">TRANSFORM YOUR THINKING, TRANSFORM YOUR
+                                    <a href="work.php" class="btn btn-primary">TRANSFORM YOUR THINKING, TRANSFORM YOUR
                                         BUSINESS. BOOK A FREE CALL NOW.</a>
                                 </div>
                             </div>

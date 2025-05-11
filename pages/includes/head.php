@@ -8,7 +8,8 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+<link rel="icon" href="../assets/images/logo2.png">
+  <link rel="icon" type="image/x-icon" href="../assets/images/logo2.png">
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="../assets/css/fontawesome.css">

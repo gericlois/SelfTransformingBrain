@@ -125,7 +125,7 @@
                             </p>
                             <div class="col-lg-12">
                                 <div class="button">
-                                    <a href="#" class="btn btn-primary"> YOUR STORY IS WAITING TO BE REWRITTEN. LET’S
+                                    <a href="work.php" class="btn btn-primary"> YOUR STORY IS WAITING TO BE REWRITTEN. LET’S
                                         START YOUR TRANSFORMATION TODAY.</a>
                                 </div>
                             </div>

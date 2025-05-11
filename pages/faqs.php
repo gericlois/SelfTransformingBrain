@@ -3,7 +3,7 @@
 
     <?php include "includes/head.php" ?>
     <?php include "includes/header.php" ?>
-   
+
     <div class="main-banner">
         <div class="faqs section">
             <div class="col-lg-12">
@@ -29,7 +29,7 @@
                         <p class="three">
                             RAPID TRANSFORMATIONAL THERAPY (RTT) FAQs
                         </p>
-                        
+
                         <div class="accordion">
                             <div class="container">
                                 <div class="row row-cols-1 row-cols-lg-2 g-4">
@@ -46,7 +46,8 @@
                                                 <div id="collapse14" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
-                                                        <p>Rapid Transformational Therapy (RTT) is a form of therapy that
+                                                        <p>Rapid Transformational Therapy (RTT) is a form of therapy
+                                                            that
                                                             combines:</p>
                                                         <ul>
                                                             <li>⬥Hypnotherapy</li>
@@ -54,7 +55,8 @@
                                                             <li>⬥Neuro-Linguistic Programming (NLP)</li>
                                                             <li>⬥Psychotherapy principles</li>
                                                         </ul>
-                                                        <p>It aims to create fast, effective and lasting change by getting
+                                                        <p>It aims to create fast, effective and lasting change by
+                                                            getting
                                                             to the root cause of emotional or behavioural issues.</p>
                                                     </div>
                                                 </div>
@@ -70,16 +72,21 @@
                                                 <div id="collapse15" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
-                                                        <p>RTT (Rapid Transformational Therapy) works by helping you:</p>
+                                                        <p>RTT (Rapid Transformational Therapy) works by helping you:
+                                                        </p>
                                                         <ul>
-                                                            <li>1. Relax into hypnosis — a deeply calm, focused state.</li>
+                                                            <li>1. Relax into hypnosis — a deeply calm, focused state.
+                                                            </li>
                                                             <li>2. Access your subconscious mind — where old beliefs and
                                                                 patterns live.</li>
-                                                            <li>3. Discover the root cause of an issue — often from memories
+                                                            <li>3. Discover the root cause of an issue — often from
+                                                                memories
                                                                 that stored in subconscious mind.</li>
-                                                            <li>4. Understand and reframe those beliefs — to release what’s
+                                                            <li>4. Understand and reframe those beliefs — to release
+                                                                what’s
                                                                 holding you back.</li>
-                                                            <li>5. Reprogram your mind — with new, empowering thoughts using
+                                                            <li>5. Reprogram your mind — with new, empowering thoughts
+                                                                using
                                                                 personalized recording and positive suggestions.</li>
                                                         </ul>
                                                         <p>Find Out More Click <a href="#">HERE</a>.</p>
@@ -109,7 +116,8 @@
                                                             <li>⬥Relationship Trauma</li>
                                                             <li>⬥Procrastination & Motivation</li>
                                                             <li>⬥Trauma & Childhood wounds</li>
-                                                            <li>⬥Performance Anxiety (public speaking, sports, etc.)</li>
+                                                            <li>⬥Performance Anxiety (public speaking, sports, etc.)
+                                                            </li>
                                                             <li>⬥Sleep problems</li>
                                                             <li>⬥Money blocks or Abundance mindset</li>
                                                         </ul>
@@ -130,15 +138,20 @@
                                                 <div id="collapse17" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
-                                                        <p>Yes, there are certain cases where RTT Hypnotherapy may not be
-                                                            suitable. It is not recommended for individuals with a history
+                                                        <p>Yes, there are certain cases where RTT Hypnotherapy may not
+                                                            be
+                                                            suitable. It is not recommended for individuals with a
+                                                            history
                                                             of psychosis or related psychiatric conditions to undergo
                                                             hypnotherapy, as it may exacerbate their symptoms.</p>
                                                         <p>If you have epilepsy, please consult with your doctor before
-                                                            booking a session. It is important that the severity and nature
+                                                            booking a session. It is important that the severity and
+                                                            nature
                                                             of your condition are carefully considered. Your safety and
-                                                            well-being are always the top priority. In some cases, hypnosis
-                                                            could potentially intensify symptoms and do more harm than good.
+                                                            well-being are always the top priority. In some cases,
+                                                            hypnosis
+                                                            could potentially intensify symptoms and do more harm than
+                                                            good.
                                                         </p>
                                                         <p>This includes conditions such as:</p>
                                                         <ul>
@@ -164,10 +177,13 @@
                                                 <div id="collapse18" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
-                                                        <p>An RTT session typically runs for 1.5 to 2 hours, including time
+                                                        <p>An RTT session typically runs for 1.5 to 2 hours, including
+                                                            time
                                                             to review your intake form. To ensure a relaxed and focused
-                                                            experience, I recommend setting aside a little extra time so you
-                                                            avoid feeling rushed and can get the most out of your session.
+                                                            experience, I recommend setting aside a little extra time so
+                                                            you
+                                                            avoid feeling rushed and can get the most out of your
+                                                            session.
                                                         </p>
                                                         <p>For more information on how our RTT PROCESS WORKS, Click <a
                                                                 href="#">HERE</a>.</p>
@@ -186,14 +202,51 @@
                                                 <div id="collapse19" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs">
                                                     <div class="accordion-body">
-                                                        <p>RTT is an incredible therapy that provides effective, powerful
+                                                        <p>RTT is an incredible therapy that provides effective,
+                                                            powerful
                                                             breakthroughs and rapid transformation. Most often, only one
                                                             session is needed. However, for more deep-rooted issues, I
                                                             usually recommend up to three sessions. Many of my clients
-                                                            choose to do additional sessions to work on other areas of their
-                                                            life. For this reason, I offer discounted packages on my PRICING
+                                                            choose to do additional sessions to work on other areas of
+                                                            their
+                                                            life. For this reason, I offer discounted packages on my
+                                                            PRICING
                                                             & PACKAGES PAGE. Please visit it by clicking <a
                                                                 href="#">HERE</a>.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapse20"
+                                                        aria-expanded="false" aria-controls="collapse20">
+                                                        What can I expect from an RTT session with you? What does a
+                                                        session
+                                                        feel like?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapse20" class="accordion-collapse collapse"
+                                                    data-bs-parent="#rttFAQs2">
+                                                    <div class="accordion-body">
+                                                        <p>Each session begins with a gentle relaxation process that
+                                                            guides
+                                                            you into a state of hypnosis. This experience is unique to
+                                                            everyone, some people feel light or as if they're floating,
+                                                            while others feel grounded. Most commonly, clients describe
+                                                            simply feeling deeply relaxed and at ease. Throughout the
+                                                            entire
+                                                            session, you remain in full control. You’re completely aware
+                                                            of
+                                                            what’s being said and are able to respond to all of my
+                                                            questions. RTT is a safe and empowering therapeutic method.
+                                                            Contrary to popular myths, hypnosis does not mean losing
+                                                            awareness or control. In fact, while your body relaxes, your
+                                                            mind becomes even more alert and focused, allowing you to
+                                                            access
+                                                            the subconscious with clarity and purpose.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -201,66 +254,51 @@
                                     </div>
                                     <div class="col">
                                         <div class="accordion" id="rttFAQs2">
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapse20"
-                                                        aria-expanded="false" aria-controls="collapse20">
-                                                        What can I expect from an RTT session with you? What does a session
-                                                        feel like?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapse20" class="accordion-collapse collapse"
-                                                    data-bs-parent="#rttFAQs2">
-                                                    <div class="accordion-body">
-                                                        <p>Each session begins with a gentle relaxation process that guides
-                                                            you into a state of hypnosis. This experience is unique to
-                                                            everyone, some people feel light or as if they're floating,
-                                                            while others feel grounded. Most commonly, clients describe
-                                                            simply feeling deeply relaxed and at ease. Throughout the entire
-                                                            session, you remain in full control. You’re completely aware of
-                                                            what’s being said and are able to respond to all of my
-                                                            questions. RTT is a safe and empowering therapeutic method.
-                                                            Contrary to popular myths, hypnosis does not mean losing
-                                                            awareness or control. In fact, while your body relaxes, your
-                                                            mind becomes even more alert and focused, allowing you to access
-                                                            the subconscious with clarity and purpose.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
 
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapse21"
                                                         aria-expanded="false" aria-controls="collapse21">
-                                                        How soon will I notice changes, and can you guarantee results with
+                                                        How soon will I notice changes, and can you guarantee results
+                                                        with
                                                         RTT Hypnotherapy?
                                                     </button>
                                                 </h2>
                                                 <div id="collapse21" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
-                                                        <p>RTT Hypnotherapy (Rapid Transformational Therapy) is a powerful,
+                                                        <p>RTT Hypnotherapy (Rapid Transformational Therapy) is a
+                                                            powerful,
                                                             science-based approach that has already helped thousands of
-                                                            people worldwide achieve meaningful and lasting change. While
+                                                            people worldwide achieve meaningful and lasting change.
+                                                            While
                                                             it's highly effective, it's important to understand that no
-                                                            professional whether a therapist, doctor, lawyer, or teacher can
-                                                            offer a 100% guarantee of results. Your commitment plays a vital
-                                                            role in the outcome. You must truly want to change, choose to
-                                                            change, and stay open and engaged throughout the process for the
+                                                            professional whether a therapist, doctor, lawyer, or teacher
+                                                            can
+                                                            offer a 100% guarantee of results. Your commitment plays a
+                                                            vital
+                                                            role in the outcome. You must truly want to change, choose
+                                                            to
+                                                            change, and stay open and engaged throughout the process for
+                                                            the
                                                             best results.</p>
-                                                        <p>People respond to RTT in different ways, and typically experience
+                                                        <p>People respond to RTT in different ways, and typically
+                                                            experience
                                                             one of three types of change:</p>
                                                         <ul>
                                                             <li>⬥Immediate – You feel a powerful shift right away.</li>
-                                                            <li>⬥Progressive – Small shifts build over time, becoming more
+                                                            <li>⬥Progressive – Small shifts build over time, becoming
+                                                                more
                                                                 noticeable each day.</li>
-                                                            <li>⬥Reflective – You may only realise how much you've changed
+                                                            <li>⬥Reflective – You may only realise how much you've
+                                                                changed
                                                                 when you reflect back weeks or months later.</li>
                                                         </ul>
-                                                        <p>You're welcome to visit my SUCCESS STORIES PAGE to hear directly
-                                                            from clients about the changes that they’ve experienced through
+                                                        <p>You're welcome to visit my SUCCESS STORIES PAGE to hear
+                                                            directly
+                                                            from clients about the changes that they’ve experienced
+                                                            through
                                                             RTT Hypnotherapy.</p>
                                                     </div>
                                                 </div>
@@ -279,18 +317,24 @@
                                                     <div class="accordion-body">
                                                         <p>I have a 48-hour cancellation policy and require full payment
                                                             prior to the session.</p>
-                                                        <p>If you need to cancel or reschedule, please contact me by phone,
-                                                            email, or message at least within 48 hours in advance. If this
+                                                        <p>If you need to cancel or reschedule, please contact me by
+                                                            phone,
+                                                            email, or message at least within 48 hours in advance. If
+                                                            this
                                                             notice is given, I will issue a full refund, minus any
-                                                            applicable therapy room fees for in-person sessions. If you’re
-                                                            unable to provide 48 hours’ notice, I will do my best to fill
+                                                            applicable therapy room fees for in-person sessions. If
+                                                            you’re
+                                                            unable to provide 48 hours’ notice, I will do my best to
+                                                            fill
                                                             your appointment slot. If the spot is successfully filled,
                                                             you’ll have the option to reschedule. However, if the slot
                                                             cannot be filled, the full session fee will apply.</p>
-                                                        <p>Please note that arriving more than 10 minutes late may result in
+                                                        <p>Please note that arriving more than 10 minutes late may
+                                                            result in
                                                             your appointment being cancelled, depending on the day’s
                                                             schedule. In such cases, the full session fee will still be
-                                                            charged. Hypnotherapy sessions are carefully structured, and a
+                                                            charged. Hypnotherapy sessions are carefully structured, and
+                                                            a
                                                             delay of 10 minutes or more may not allow enough time to
                                                             complete the session effectively.</p>
                                                         <p>Thank you for your understanding.</p>
@@ -311,10 +355,13 @@
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Yes, RTT is equally effective whether conducted online or in
-                                                            person. I've worked successfully with clients around the world
-                                                            via Zoom, consistently achieving the same positive outcomes. In
+                                                            person. I've worked successfully with clients around the
+                                                            world
+                                                            via Zoom, consistently achieving the same positive outcomes.
+                                                            In
                                                             fact, many clients now prefer the comfort and convenience of
-                                                            online sessions. Being in a familiar environment helps them feel
+                                                            online sessions. Being in a familiar environment helps them
+                                                            feel
                                                             more at ease, and they can relax and reflect immediately
                                                             afterward without the need to travel or commute.</p>
                                                     </div>
@@ -326,7 +373,8 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapse24"
                                                         aria-expanded="false" aria-controls="collapse24">
-                                                        Will I be aware of what’s happening during the session and remember
+                                                        Will I be aware of what’s happening during the session and
+                                                        remember
                                                         it afterward?
                                                     </button>
                                                 </h2>
@@ -334,10 +382,13 @@
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
                                                         <p>Yes, you will remain fully aware throughout the entire RTT
-                                                            hypnotherapy session. Hypnosis is a deeply relaxed but focused
-                                                            state not in sleep, so you’ll be conscious of everything being
+                                                            hypnotherapy session. Hypnosis is a deeply relaxed but
+                                                            focused
+                                                            state not in sleep, so you’ll be conscious of everything
+                                                            being
                                                             discussed and how you're processing it. Because you're fully
-                                                            present during the session, you’ll be able to recall what was
+                                                            present during the session, you’ll be able to recall what
+                                                            was
                                                             said and experienced once the session ends.</p>
                                                     </div>
                                                 </div>
@@ -348,19 +399,26 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapse25"
                                                         aria-expanded="false" aria-controls="collapse25">
-                                                        How important is my personalized recording in the RTT Hypnotherapy
+                                                        How important is my personalized recording in the RTT
+                                                        Hypnotherapy
                                                         process?
                                                     </button>
                                                 </h2>
                                                 <div id="collapse25" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
-                                                        <p>Your personalized recording is essential to your transformation,
-                                                            accounting for around 30% of the overall process. This custom
-                                                            audio is specifically designed to reinforce the positive changes
-                                                            you've made during your RTT session and to help solidify those
-                                                            new, empowering beliefs at a subconscious level. For the most
-                                                            effective and lasting results, it’s crucial to listen to your
+                                                        <p>Your personalized recording is essential to your
+                                                            transformation,
+                                                            accounting for around 30% of the overall process. This
+                                                            custom
+                                                            audio is specifically designed to reinforce the positive
+                                                            changes
+                                                            you've made during your RTT session and to help solidify
+                                                            those
+                                                            new, empowering beliefs at a subconscious level. For the
+                                                            most
+                                                            effective and lasting results, it’s crucial to listen to
+                                                            your
                                                             recording daily for at least 21 days. Consistency in this
                                                             practice helps ensure that the positive shifts are deeply
                                                             integrated into your subconscious mind.</p>
@@ -379,22 +437,30 @@
                                                 <div id="collapse26" class="accordion-collapse collapse"
                                                     data-bs-parent="#rttFAQs2">
                                                     <div class="accordion-body">
-                                                        <p>Having a conscious understanding of your issue can be helpful,
-                                                            but RTT works at a deeper level by accessing the subconscious
-                                                            mind where the most influential beliefs and emotional patterns
+                                                        <p>Having a conscious understanding of your issue can be
+                                                            helpful,
+                                                            but RTT works at a deeper level by accessing the
+                                                            subconscious
+                                                            mind where the most influential beliefs and emotional
+                                                            patterns
                                                             are stored. While you may have logical insights into your
                                                             problem, the subconscious often holds associations and root
-                                                            causes that are outside your conscious awareness. In many cases,
-                                                            clients who are confident they know the source of their issue
+                                                            causes that are outside your conscious awareness. In many
+                                                            cases,
+                                                            clients who are confident they know the source of their
+                                                            issue
                                                             are guided to scenes or memories they did not expect. These
                                                             often provide a more profound level of clarity, emotional
-                                                            release, and insight. RTT doesn’t stop only uncovering the root
+                                                            release, and insight. RTT doesn’t stop only uncovering the
+                                                            root
                                                             cause; a key part of the process is transforming and
-                                                            reprogramming outdated beliefs. Through guided techniques, we
+                                                            reprogramming outdated beliefs. Through guided techniques,
+                                                            we
                                                             replace limiting subconscious patterns with empowering,
                                                             constructive beliefs that support long-term emotional and
                                                             behavioural change. The best approach is to remain open and
-                                                            trust the process your subconscious will guide you to exactly
+                                                            trust the process your subconscious will guide you to
+                                                            exactly
                                                             what you need to understand and shift.</p>
                                                     </div>
                                                 </div>
@@ -652,6 +718,26 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapse33"
+                                                    aria-expanded="false" aria-controls="collapse33">
+                                                    How much does finance and business coaching cost?
+                                                </button>
+                                            </h2>
+                                            <div id="collapse33" class="accordion-collapse collapse"
+                                                data-bs-parent="#coachingFAQs2">
+                                                <div class="accordion-body">
+                                                    <p>The cost varies depending on the coaching type and package. There
+                                                        is a free consultation to discuss your needs and determine what
+                                                        is the best package/approach for you. It's best to inquire
+                                                        directly with the coach for their pricing or checking the
+                                                        PRICING &PACKAGING PAGE, Click <a href="#">HERE</a>.</p>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -669,28 +755,26 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-12">
-                            <div class="emailer">
+                        
+
+                        <div class="col-lg-12 d-flex justify-content-center">
+                            <div class="emailer" style="max-width: 1000px; width: 100%;">
                                 <form class="p-4 bg-light" method="POST" action="send_mail.php">
                                     <div class="mb-3">
-                                        <input type="text" class="form-control" name="name" placeholder="Name*"
-                                            required>
+                                        <input type="text" class="form-control" name="name" placeholder="Name*" required>
                                     </div>
                                     <div class="row mb-3">
                                         <div class="col-md-6">
-                                            <input type="text" class="form-control" name="service"
-                                                placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
+                                            <input type="text" class="form-control" name="service" placeholder="Type of Services (e.g. RTT, Brain & Self-Image Coaching or Finance and Business Coaching)" required>
                                         </div>
                                         <div class="col-md-6">
-                                            <input type="email" class="form-control" name="email" placeholder="Email*"
-                                                required>
+                                            <input type="email" class="form-control" name="email" placeholder="Email*" required>
                                         </div>
                                     </div>
                                     <div class="mb-3">
-                                        <textarea class="form-control" name="message" rows="5" placeholder="Message"
-                                            required></textarea>
+                                        <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-danger rounded-pill px-4 py-2">Submit</button>
+                                    <button type="submit" class="btn btn-primary-form">SEND</button>
                                 </form>
                             </div>
                         </div>

@@ -14,7 +14,7 @@
 
                         <div class="col-lg-12">
                             <div class="top">
-                                <h2 class="one">"WHAT HELPED ME CAN HELP YOU TOO—I’M A LIVING EXAMPLE OF IT"</h2>
+                                <h2 class="one">"WHAT HELPED ME CAN HELP YOU TOO, I’M A LIVING EXAMPLE OF IT"</h2>
                                 <h2 class="two">MY JOURNEY</h2>
                             </div>
 
@@ -214,7 +214,10 @@
 
 
                             </p>
+                            <a href="work.php">
                             <span class="button">WORK WITH ME </span>
+                            </a>
+                            
                         </div>
                     </div>
 
@@ -285,12 +288,12 @@
                             <li>Member of The British Neuroscience Association
                                 <b>(BNA)</b>
                             </li>
-                            <li>Member of British Society of Clinical and Academic Hypnosis <b>(BSCAH)</b></li>
+                            <li>Member of International Association of Councilors and Therapists<b>(IACT)</b></li>
                             <li>Member of The International Hypnotherapy Association
                                 <b>(IHA)</b>
                             </li>
-                            <li>Member of The National Hypnotherapy Society
-                                <b>(NHS)</b>
+                            <li>Member of The International Society of Hypnosis
+                                <b>(ISH)</b>
                             </li>
                             <li>Member of The Institute of Leadership & Management
                                 <b>(ILM)</b>
@@ -300,7 +303,7 @@
 
                     <div class="buttom">
                         <h2 class="four">If you are looking for <span class="highlightedone-text">FAST, EFFECTIVE,
-                                PERMANENT CHANGE, </span>Please <a href=""><u>BOOK A FREE
+                                PERMANENT CHANGE, </span>Please <a href="work.php"><u>BOOK A FREE
                                     DISCOVERY CALL NOW</u> </a> to see how Rapid Transformation Therapy can transform
                             your life.
                         </h2>

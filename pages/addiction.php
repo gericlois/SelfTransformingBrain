@@ -119,7 +119,7 @@
 
                             <div class="col-lg-12">
                                 <div class="button">
-                                    <a href="#" class="btn btn-primary"> YOUR TRANSFORMATION JOURNEY BEGINS WITH YOU.
+                                    <a href="work.php" class="btn btn-primary"> YOUR TRANSFORMATION JOURNEY BEGINS WITH YOU.
                                         BOOK A FREE DISCOVERY CALL NOW</a>
                                 </div>
                             </div>

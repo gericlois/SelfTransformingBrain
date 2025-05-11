@@ -4565,7 +4565,7 @@ Contact Style
 .contact .footerone img {
   display: block;
   margin: 0 auto;
-  width: 40%;
+  width: 50%;
   height: auto;
   max-width: 100%;
   padding: 70px 0px 0px 0px;
@@ -4590,7 +4590,7 @@ Contact Style
 .contact .footertwo img {
   display: block;
   margin: 0 auto;
-  width: 65%;
+  width: 75%;
   height: auto;
   max-width: 100%;
   padding: 70px 0px 10px 0px;
@@ -4601,10 +4601,10 @@ Contact Style
 .contact .footer img {
   display: block;
   margin: 0 auto;
-  width: 60%;
+  width: 73%;
   height: auto;
   max-width: 100%;
-  padding: 20px 0px 40px 0px;
+  padding: 10px 0px 40px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4700,7 +4700,7 @@ FAQS Style
   text-align: center;
   transition: background-color 0.3s ease;
   border: 1px solid #F60017;
-  margin-top: 30px;
+  margin-top: 40px;
   margin-bottom: 50px;
 }
 
@@ -4710,7 +4710,7 @@ FAQS Style
   width: 60%;
   height: auto;
   max-width: 100%;
-  padding: 80px 0px 40px 0px;
+  padding:40px 0px 40px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4718,10 +4718,10 @@ FAQS Style
 .faqs .footertwo img {
   display: block;
   margin: 0 auto;
-  width: 70%;
+  width: 80%;
   height: auto;
   max-width: 100%;
-  padding: 50px 0px 40px 0px;
+  padding: 20px 0px 40px 0px;
   margin-right: auto;
   margin-left: auto;
 }

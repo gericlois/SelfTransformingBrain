@@ -2,7 +2,9 @@
     <div class="container">
         <div class="row ">
             <div class="col-12 text-center">
+                <a href="work.php">
                 <span class="button">BOOK A FREE DISCOVERY CALL</span>
+                </a>
             </div>
         </div>
 

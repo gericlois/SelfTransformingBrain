@@ -26,7 +26,7 @@
 
                     <div class="col-lg-12">
                         <div class="step1_button">
-                            <a href="#" class="btn btn-primary"> I AM READY TO CHANGE MY LIFE. BOOK MY FREE CALL
+                            <a href="work.php" class="btn btn-primary"> I AM READY TO CHANGE MY LIFE. BOOK MY FREE CALL
                                 NOW!</a>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
 
                     <div class="col-lg-12">
                         <div class="step2_button">
-                            <a href="#" class="btn btn-primary"> YOUR FIRST STEP TOWARDS TO CHANGE. BOOK YOUR FREE
+                            <a href="work.php" class="btn btn-primary"> YOUR FIRST STEP TOWARDS TO CHANGE. BOOK YOUR FREE
                                 CONSULTATION CALL NOW</a>
                         </div>
                     </div>
@@ -52,7 +52,7 @@
 
                     <div class="col-lg-12">
                         <div class="step3_button">
-                            <a href="#" class="btn btn-primary"> TAKE THE FIRST STEP WITH ME. BOOK YOUR SESSION
+                            <a href="work.php" class="btn btn-primary"> TAKE THE FIRST STEP WITH ME. BOOK YOUR SESSION
                                 NOW!...</a>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
 
                     <div class="col-lg-12">
                         <div class="step4_button">
-                            <a href="#" class="btn btn-primary"> I AM READY TO TRANSFORM MY LIFE. BOOK MY SESSION
+                            <a href="work.php" class="btn btn-primary"> I AM READY TO TRANSFORM MY LIFE. BOOK MY SESSION
                                 NOW!</a>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
 
                     <div class="col-lg-12">
                         <div class="step5_button">
-                            <a href="#" class="btn btn-primary"> I AM IN! LET’S WORK TOGETHER TO TRANSFORM MY LIFE!</a>
+                            <a href="work.php" class="btn btn-primary"> I AM IN! LET’S WORK TOGETHER TO TRANSFORM MY LIFE!</a>
                         </div>
                     </div>
 

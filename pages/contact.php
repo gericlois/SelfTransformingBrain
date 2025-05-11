@@ -43,9 +43,9 @@
                         </p>
 
                         <ul>
-                            <li>&#11045; RTT Discovery Call: Complimentary session to explore RTT and address any questions.
+                            <li>&#11045; <b> RTT Discovery Call: </b>Complimentary session to explore RTT and address any questions.
                             </li>
-                            <li>&#11045; Coaching Discovery Call: Free session to discuss goals and how coaching can help.
+                            <li>&#11045; <b> Coaching Discovery Call:</b> Free session to discuss goals and how coaching can help.
                             </li>
                         </ul>
 

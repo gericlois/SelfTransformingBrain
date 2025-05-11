@@ -22,8 +22,13 @@
                         transformation!
                     </h3>
                     <br><br>
-                    <span class="category one">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
-                        MORE</span>
+                    <a href="work.php">
+                        <span class="category one" role="button" tabindex="0">BOOK A FREE CALL</span>
+                    </a>
+                    <a href="what_rtt.php">
+                        <span class="transparent" role="button" tabindex="0">DISCOVER MORE</span>
+                    </a>
+
                     <p class="one">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
             </div>
@@ -39,7 +44,12 @@
                         Behavioural Therapy.
                     </p>
                     <br><br>
-                    <span class="category two">BOOK A FREE CALL</span> <span class="transparent">DISCOVER MORE</span>
+                    <a href="work.php">
+                        <span class="category two" role="button" tabindex="0">BOOK A FREE CALL</span>
+                    </a>
+                    <a href="how_rtt.php">
+                        <span class="transparent" role="button" tabindex="0">DISCOVER MORE</span>
+                    </a>
                     <p class="twodown">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
             </div>
@@ -49,8 +59,12 @@
                     <h2 class="three">Are You Ready to Break Free from the Past, Step Into Your Power and New Self?
                     </h2>
                     <br><br><br><br>
-                    <span class="category three">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
-                        MORE</span>
+                    <a href="work.php">
+                        <span class="category three" role="button" tabindex="0">BOOK A FREE CALL</span>
+                    </a>
+                    <a href="brain.php">
+                        <span class="transparent" role="button" tabindex="0">DISCOVER MORE</span>
+                    </a>
                     <p class="three">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
             </div>
@@ -60,8 +74,12 @@
                     <h2 class="four">SUCCESS BEGINS WITH A GROWTH MINDSET. LET’S CREATE THE LIFE AND BUSINESS YOU
                         DREAM OF!</h2>
                     <br><br><br><br>
-                    <span class="category four">BOOK A FREE CALL</span> <span class="transparent">DISCOVER
-                        MORE</span>
+                    <a href="work.php">
+                        <span class="category four" role="button" tabindex="0">BOOK A FREE CALL</span>
+                    </a>
+                    <a href="finance.php">
+                        <span class="transparent" role="button" tabindex="0">DISCOVER MORE</span>
+                    </a>
                     <p class="four">LONDON, ESSEX – WORLDWIDE VIA ZOOM</p>
                 </div>
             </div>
@@ -89,7 +107,7 @@
                             <p class="two"> LET’S CONNECT AND CHAT ABOUT HOW I CAN HELP. BOOK YOUR COMPLIMENTARY
                                 DISCOVERY CALL NOW!
                             </p>
-                            <a href="#" class="btn btn-primary">BOOK A FREE DISCOVERY CALL!...</a>
+                            <a href="work.php" class="btn btn-primary">BOOK A FREE DISCOVERY CALL!...</a>
                         </div>
                     </div>
                     <div class="col-lg-12">
@@ -267,7 +285,9 @@
                             to explore how I can help you to thrive!
                         </p>
 
-                        <span class="button">WORK WITH ME</span>
+                        <a href="work.php">
+                            <span class="button">WORK WITH ME</span>
+                        </a>
                     </div>
 
                     <div class="col-lg-12">
@@ -315,7 +335,7 @@
                                 works
                                 is crucial and key to our overall physical and mental well-being.
                             </p>
-                            <a href="#" class="btn btn-primary">LEARN ABOUT BRAIN AND SELF-IMAGE COACHING</a>
+                            <a href="brain.php" class="btn btn-primary">LEARN ABOUT BRAIN AND SELF-IMAGE COACHING</a>
                             <br>
                         </div>
                     </div>
@@ -333,8 +353,9 @@
                                 and let's schedule a call to ignite your potential!
                             </p>
 
-                            <span class="button">LET’S CHAT. BOOK A FREE CALL NOW!</span>
-
+                            <a href="work.php">
+                                <span class="button">LET’S CHAT. BOOK A FREE CALL NOW!</span>
+                            </a>
                             </p>
                         </div>
                     </div>
@@ -374,7 +395,7 @@
                                 looking to start a business or grow their family businesses through tailored finance and
                                 business coaching.
                             </p>
-                            <a href="#" class="btn btn-primary">LEARN ABOUT FINANCE AND BUSINESS COACHING</a>
+                            <a href="finance.php" class="btn btn-primary">LEARN ABOUT FINANCE AND BUSINESS COACHING</a>
                         </div>
                     </div>
 
@@ -386,7 +407,9 @@
                                 unlimited growth and success?
 
                             </p>
-                            <span class="button">LET'S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!</span>
+                            <a href="work.php">
+                                <span class="button">LET'S WORK TOGETHER. BOOK A FREE CONSULTATION CALL NOW!</span>
+                            </a>
                         </div>
                     </div>
 
@@ -411,9 +434,14 @@
 
                     <div class="col-lg-12">
                         <div class="coming">
-                            <span class="button">FIND OUT MORE</span><br><br><br>
-                            <span class="transparent">BOOK ME FOR SPEAKING OR
-                                ATTENDING FOR WORKSHOPS…</span>
+                            <a href="speaking.php">
+                                <span class="button">FIND OUT MORE</span>
+                            </a>
+                            <br><br><br>
+                            <a href="work.php">
+                                <span class="transparent">BOOK ME FOR SPEAKING OR
+                                    ATTENDING FOR WORKSHOPS…</span>
+                            </a>
                         </div>
                     </div>
 
@@ -427,7 +455,7 @@
                         <!-- Koalendar Inline Embed Start -->
                         <div id="inline-widget-a-full-rtt-or-coaching-session-with-servet-ege"></div>
                         <script>
-                            window.Koalendar = window.Koalendar || function() {
+                            window.Koalendar = window.Koalendar || function () {
                                 (Koalendar.props = Koalendar.props || []).push(arguments)
                             };
                         </script>
@@ -448,7 +476,7 @@
                     </div>
 
                     <div class="col-lg-12">
-                        <a href="#" class="btn btn-contact">EMAIL OR CONTACT ME </a>
+                        <a href="contact.php" class="btn btn-contact">EMAIL OR CONTACT ME </a>
                     </div>
 
 
@@ -477,7 +505,6 @@
                                     <img src="../assets/images/slideslogo/4.png" alt="Logo 4" class="logo">
                                     <img src="../assets/images/slideslogo/5.png" alt="Logo 5" class="logo">
                                     <img src="../assets/images/slideslogo/6.png" alt="Logo 6" class="logo">
-                                    <img src="../assets/images/slideslogo/7.png" alt="Logo 7" class="logo">
                                     <img src="../assets/images/slideslogo/8.png" alt="Logo 8" class="logo">
                                     <img src="../assets/images/slideslogo/9.png" alt="Logo 9" class="logo">
                                     <img src="../assets/images/slideslogo/10.png" alt="Logo 10" class="logo">
@@ -497,7 +524,6 @@
                                     <img src="../assets/images/slideslogo/4.png" alt="Logo 4" class="logo">
                                     <img src="../assets/images/slideslogo/5.png" alt="Logo 5" class="logo">
                                     <img src="../assets/images/slideslogo/6.png" alt="Logo 6" class="logo">
-                                    <img src="../assets/images/slideslogo/7.png" alt="Logo 7" class="logo">
                                     <img src="../assets/images/slideslogo/8.png" alt="Logo 8" class="logo">
                                     <img src="../assets/images/slideslogo/9.png" alt="Logo 9" class="logo">
                                     <img src="../assets/images/slideslogo/10.png" alt="Logo 10" class="logo">

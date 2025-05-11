@@ -102,12 +102,12 @@
                         <div class="context_bottom">
 
                             <p class="one"><i>If you’re ready to take control of your life and experience the power of
-                                transformation, you’re in the right place. Let’s work together to unlock the best
-                                version of you.</i>
+                                    transformation, you’re in the right place. Let’s work together to unlock the best
+                                    version of you.</i>
                             </p>
-
-                            <span class="button">BOOK A FREE DISCOVERY CALL NOW!...</span>
-
+                            <a href="work.php">
+                                <span class="button">BOOK A FREE DISCOVERY CALL NOW!...</span>
+                            </a>
                             <div class="footer">
                                 <img src="../assets/images/includes/scientific_footer.png" alt="">
                             </div>

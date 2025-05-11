@@ -29,7 +29,7 @@
                     <div class="header">
                         <img src="../assets/images/includes/speakingbanner.png" alt="">
                         <div class="buttonone">
-                            <a href="#" class="btn btn-primary">
+                            <a href="#sectionone" class="btn btn-primary">
                                 LEARN MORE
                             </a>
                         </div>
@@ -37,11 +37,11 @@
                 </div>
             </div>
 
-            <div class="intro">
+            <div class="intro" id="sectionone">
                 <div class="container">
                     <div class="row">
 
-                        <p class="one">
+                        <p class="one" >
                             I explain brain science in a straightforward, relevant and engaging way, weaving in stories and strategies that promote peak performance, women's mental health, brain health and well-being.
                         </p>
 
@@ -79,7 +79,7 @@
                         </p>
 
                         <div class="button">
-                            <a href="#" class="btn btn-primary">
+                            <a href="work.php" class="btn btn-primary">
                             ENQUIRE ABOUT SPEAKING, WORKSHOPS AND PROGRAMS
                             </a>
                         </div>

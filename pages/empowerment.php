@@ -106,7 +106,7 @@
 
                             <div class="col-lg-12">
                                 <div class="button">
-                                    <a href="#" class="btn btn-primary"> YOUR JOURNEY TO HEALING, EMPOWERMENT, AND
+                                    <a href="work.php" class="btn btn-primary"> YOUR JOURNEY TO HEALING, EMPOWERMENT, AND
                                         TRANSFORMATION STARTS NOW. LET’S BEGIN!</a>
                                 </div>
                             </div>

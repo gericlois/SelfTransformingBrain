@@ -223,7 +223,7 @@
 
                 <div class="col-lg-12">
                     <div class="button">
-                        <a href="#" class="btn btn-primary"> Join me as we embark on this exciting journey
+                        <a href="work.php" class="btn btn-primary"> Join me as we embark on this exciting journey
                             toward self-transformation! BOOK A FREE CALL NOW</a>
                     </div>
                 </div>
