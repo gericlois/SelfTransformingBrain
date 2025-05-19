@@ -17,7 +17,7 @@
             position: absolute;
             bottom: 60px;
             /* Adjust this as needed */
-            left: 53%;
+            left: 60%;
             transform: translateX(-50%);
             z-index: 10;
         }
@@ -41,7 +41,7 @@
                 <div class="container">
                     <div class="row">
 
-                        <p class="one" >
+                        <p class="one">
                             I explain brain science in a straightforward, relevant and engaging way, weaving in stories and strategies that promote peak performance, women's mental health, brain health and well-being.
                         </p>
 
@@ -53,7 +53,7 @@
                         </p>
 
                         <p class="three">
-                        <span class="highlighted-text">I bring</span> a unique blend of neuroscience, transformational coaching, and real-world business expertise to every stage and platform. Whether you're hosting a large-scale event, an intimate workshop, or an engaging media feature, I tailor each experience to inspire, educate, and empower your audience.<br><br>
+                            <span class="highlighted-text">I bring</span> a unique blend of neuroscience, transformational coaching, and real-world business expertise to every stage and platform. Whether you're hosting a large-scale event, an intimate workshop, or an engaging media feature, I tailor each experience to inspire, educate, and empower your audience.<br><br>
 
                             In addition to my scientific and coaching background, I am also a channeler for an extraterrestrial being known as <span class="highlighted-text1">OKUSAWA FROM ORION</span>, a consciousness over 100,000 years old. Through this connection, I bring through multidimensional insights that expand awareness, elevate purpose, and support deep inner transformation. This unique integration of cosmic wisdom and grounded strategy allows me to guide individuals and teams toward extraordinary breakthroughs.<br><br>
 
@@ -63,7 +63,7 @@
 
                         <p class="four">
                             Interested in elevating your mindset, unlocking peak performance, and driving change from the inside out? <span class="highlighted-text1">JOIN ME or INVITE ME</span> to lead powerful sessions in: <br><br>
-                                &#x2022; <b> Channelling With OKUSAWA From ORION Workshop <br>
+                            &#x2022; <b> Channelling With OKUSAWA From ORION Workshop <br>
                                 &#x2022; Neuroscience<br>
                                 &#x2022; Neuroentrepreneurship<br>
                                 &#x2022; Brain Coach and Emotional Intelligence<br>
@@ -80,7 +80,7 @@
 
                         <div class="button">
                             <a href="work.php" class="btn btn-primary">
-                            ENQUIRE ABOUT SPEAKING, WORKSHOPS AND PROGRAMS
+                                ENQUIRE ABOUT SPEAKING, WORKSHOPS AND PROGRAMS
                             </a>
                         </div>
 
@@ -117,7 +117,11 @@
                                 </form>
                             </div>
                         </div>
-                        
+
+                        <div class="col-lg-12">
+                           <iframe width="560" height="315" src="https://www.youtube.com/embed/g_CSsL3it9Y?si=hDaAkmreEXHOPcdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+
                     </div>
                 </div>
             </div>

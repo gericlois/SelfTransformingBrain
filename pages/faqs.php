@@ -89,7 +89,7 @@
                                                                 using
                                                                 personalized recording and positive suggestions.</li>
                                                         </ul>
-                                                        <p>Find Out More Click <a href="#">HERE</a>.</p>
+                                                        <p>Find Out More Click <a href="how_rtt.php">HERE</a>.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -122,7 +122,7 @@
                                                             <li>⬥Money blocks or Abundance mindset</li>
                                                         </ul>
                                                         <p>See more on all the types of issues I work with, Click <a
-                                                                href="#">HERE</a>.</p>
+                                                                href="index.php">HERE</a>.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -186,7 +186,7 @@
                                                             session.
                                                         </p>
                                                         <p>For more information on how our RTT PROCESS WORKS, Click <a
-                                                                href="#">HERE</a>.</p>
+                                                                href="how_rtt.php">HERE</a>.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -212,7 +212,7 @@
                                                             life. For this reason, I offer discounted packages on my
                                                             PRICING
                                                             & PACKAGES PAGE. Please visit it by clicking <a
-                                                                href="#">HERE</a>.</p>
+                                                                href="pricing.php">HERE</a>.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -596,7 +596,7 @@
                                                         is a free consultation to discuss your needs and determine what
                                                         is the best package/approach for you. It's best to inquire
                                                         directly with the coach for their pricing or checking the
-                                                        PRICING &PACKAGING PAGE, Click <a href="#">HERE</a>.</p>
+                                                        PRICING &PACKAGING PAGE, Click <a href="pricing.php">HERE</a>.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -695,7 +695,7 @@
                                                         There is a free consultation to discuss your needs and determine
                                                         what is the best package/approach for you. It's best to inquire
                                                         directly with the coach for their pricing or checking the
-                                                        PRICING &PACKAGING PAGE, Click <a href="#">HERE</a>.</p>
+                                                        PRICING &PACKAGING PAGE, Click <a href="pricing.php">HERE</a>.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -734,7 +734,7 @@
                                                         is a free consultation to discuss your needs and determine what
                                                         is the best package/approach for you. It's best to inquire
                                                         directly with the coach for their pricing or checking the
-                                                        PRICING &PACKAGING PAGE, Click <a href="#">HERE</a>.</p>
+                                                        PRICING &PACKAGING PAGE, Click <a href="pricing.php">HERE</a>.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -745,7 +745,7 @@
 
                         <div class="col-lg-12">
                             <div class="button">
-                                <a href="#" class="btn btn-primary">WORK WITH ME</a>
+                                <a href="work.php" class="btn btn-primary">WORK WITH ME</a>
                             </div>
                         </div>
 

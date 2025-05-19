@@ -288,7 +288,7 @@
                             <li>Member of The British Neuroscience Association
                                 <b>(BNA)</b>
                             </li>
-                            <li>Member of International Association of Councilors and Therapists<b>(IACT)</b></li>
+                            <li>Member of International Association of Councilors and Therapists <b>(IACT)</b></li>
                             <li>Member of The International Hypnotherapy Association
                                 <b>(IHA)</b>
                             </li>

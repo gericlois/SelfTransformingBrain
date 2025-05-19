@@ -4508,7 +4508,7 @@ Contact Style
 }
 
 .contact p.one {
-  font-size: 35px;
+  font-size: 45px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
@@ -4519,7 +4519,7 @@ Contact Style
 }
 
 .contact p.two {
-  font-size: 35px;
+  font-size: 36px;
   line-height: 1.3;
   font-weight: 600;
   color: #000000;
@@ -4527,7 +4527,7 @@ Contact Style
   padding: 5px 0px 10px 0px;
   text-align: left;
   font-family: Calibri, sans-serif;
-  margin-left: 30%;
+  margin-left: 28%;
 }
 
 .contact .highlighted-text1 {
@@ -4739,18 +4739,16 @@ Speaking Style
 
 .speaking .header img {
   display: block;
-  width: 80%;
+  width: 100%;
   height: auto;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .speaking .buttonone .btn-primary {
   display: inline-block;
-  padding: 5px 30px;
+  padding: 3px 20px;
   background-color: #6e1247;
   color: #ffffff;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 25px;
