@@ -455,7 +455,7 @@
                         <!-- Koalendar Inline Embed Start -->
                         <div id="inline-widget-a-full-rtt-or-coaching-session-with-servet-ege"></div>
                         <script>
-                            window.Koalendar = window.Koalendar || function () {
+                            window.Koalendar = window.Koalendar || function() {
                                 (Koalendar.props = Koalendar.props || []).push(arguments)
                             };
                         </script>

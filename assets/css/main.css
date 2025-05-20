@@ -533,24 +533,25 @@ Header Style
 }
 
 .sub-header ul.social-links li {
-  margin-left: 8px;
+  margin-left: 5px;
 }
 
 .sub-header ul.social-links li a {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 30px;
   height: 30px;
   background-color: #F60017;
   border-radius: 50%;
-  text-align: center;
-  line-height: 30px;
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   transition: all .3s;
 }
 
+
 .sub-header ul.social-links li a:hover {
-  background-color: #F60017;
+  background-color: #ee5050;
 }
 
 .sub-header ul.info li {
@@ -5007,3 +5008,127 @@ Single Page Style
 
 
 /* 
+
+
+/* 
+---------------------------------------------
+Privacy Style
+--------------------------------------------- 
+*/
+.privacy {
+  padding: 40px 0 0px 0;
+  text-align: left;
+}
+
+.privacy .header img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.privacy .one {
+  padding: 0px 8% 20px 8%;
+  text-align: left;
+  font-size: 17px;
+  font-family: Calibri, sans-serif;
+}
+
+.privacy p.one {
+  text-align: left;
+  font-size: 17px;
+  font-family: Calibri, sans-serif;
+}
+
+.privacy strong {
+  font-weight: 700;  
+  font-size: 18px;
+}
+
+.privacy strong {
+  font-weight: 700;  
+  font-size: 18px;
+}
+
+.privacy ul {
+  list-style-type: disc;
+  padding: 0px 8% 0px 15%;
+}
+
+.privacy ul li {
+  margin-bottom: 5px;
+  display: list-item;
+  position: relative;
+  font-family: Calibri, sans-serif;
+  font-size: 17px;
+}
+
+.privacy ul li::before {
+  content: "•";
+  color: rgb(22, 22, 22);
+  position: absolute;
+  left: -20px;
+}
+
+
+/* 
+---------------------------------------------
+Terms Style
+--------------------------------------------- 
+*/
+.terms {
+  padding: 40px 0 0px 0;
+  text-align: left;
+}
+
+.terms .header img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.terms .one {
+  padding: 0px 8% 20px 8%;
+  text-align: left;
+  font-size: 17px;
+  font-family: Calibri, sans-serif;
+}
+
+.terms p.one {
+  text-align: left;
+  font-size: 17px;
+  font-family: Calibri, sans-serif;
+}
+
+.terms strong {
+  font-weight: 700;  
+  font-size: 18px;
+}
+
+.terms strong {
+  font-weight: 700;  
+  font-size: 18px;
+}
+
+.terms ul {
+  list-style-type: disc;
+  padding: 0px 8% 0px 15%;
+}
+
+.terms ul li {
+  margin-bottom: 5px;
+  display: list-item;
+  position: relative;
+  font-family: Calibri, sans-serif;
+  font-size: 17px;
+}
+
+.terms ul li::before {
+  content: "•";
+  color: rgb(22, 22, 22);
+  position: absolute;
+  left: -20px;
+}
