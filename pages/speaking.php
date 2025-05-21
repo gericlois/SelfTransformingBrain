@@ -15,7 +15,7 @@
 
         .buttonone {
             position: absolute;
-            bottom: 60px;
+            bottom: 50px;
             /* Adjust this as needed */
             left: 60%;
             transform: translateX(-50%);
