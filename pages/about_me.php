@@ -24,7 +24,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -74,8 +74,8 @@
                     <div class="col-lg-12">
                         <div class="buttom">
                             <p class="one"> As a Research/Dissertation Supervisor and Project Supervisor, I assist
-                                learners—ranging from
-                                students to young professionals and early-career workers—in enhancing their skills and
+                                learners ranging from
+                                students to young professionals and early-career workers in enhancing their skills and
                                 advancing their professional growth.
                             </p>
                             <p class="two"> Additionally, I provide consultancy services to start-up businesses for
@@ -87,7 +87,9 @@
                                 industry, particularly in relation to <span class="highlighted-text">LGBTQ+
                                     Community.</span> I wholeheartedly embrace and
                                 celebrate the richness of LGBTQ+ Community, acknowledging from my personal experience
-                                that the unique challenges they may face. Furthermore, I help SMEs grow by developing their teams, driving profitability, implementing effective financial systems and controls, and scaling their operations. While, I am enjoying my career in
+                                that the unique challenges they may face. Furthermore, I help SMEs grow by developing
+                                their teams, driving profitability, implementing effective financial systems and
+                                controls, and scaling their operations. While, I am enjoying my career in
                                 Finance and Education, my childhood dream of becoming a scientist always remains close
                                 to my heart, soul and mind.
                             </p>
@@ -162,12 +164,12 @@
                     <div class="col-lg-12">
                         <div class="text">
                             <p class="one">I’m not just a <span class="highlighted-text">RTT Therapist and Coach</span>
-                                —I’m someone who truly gets it. I’ve been where you are. With my background as a woman,
+                                 I’m someone who truly gets it. I’ve been where you are. With my background as a woman,
                                 LGBTQ+ advocate, and lecturer, I bring not only professional expertise but real-life
                                 understanding. I’ve faced challenges, broken through boundaries, and created a life I’m
                                 proud of. I’m here to help you do the same.
                             </p>
-                            <p class="one">RTT Hypnotherapy works because it’s not just about talking—it's about
+                            <p class="one">RTT Hypnotherapy works because it’s not just about talking it's about
                                 <span class="highlighted-text">Transforming.</span> My methods are rooted in
                                 neuroscience, empowering you to release limiting
                                 beliefs and rewire your mind for success. The process is fast, effective, and deeply
@@ -183,7 +185,7 @@
                             </p>
                             <p class="one"><span class="highlighted-text">As a Woman</span> who has lived through the
                                 highs and lows of life, I understand the
-                                inner battles that women often face. We juggle so many roles and expectations—society’s,
+                                inner battles that women often face. We juggle so many roles and expectations society’s,
                                 family’s, and our own. Therefore, as RTT Hypnotherapist and Therapist I help Women to
                                 reclaim their power, confidence, and inner peace by addressing the deep-rooted beliefs
                                 that keep them stuck in cycles of self-doubt and insecurity. It’s about unblocking the
@@ -195,7 +197,7 @@
                                 role as a University Lecturer, Teacher and Educator. The stress, anxiety, fear of
                                 failure, and imposter syndrome are common, but they don’t have to define you. I can help
                                 you to clear mental roadblocks, boost your self-belief, and unlock the potential that
-                                lies within you. It’s about cultivating the mindset that needed for success—not just in
+                                lies within you. It’s about cultivating the mindset that needed for success not just in
                                 grades, but in life. With my help, you can build resilience, manage stress better, and
                                 embrace a future where you feel empowered to excel.
 
@@ -215,9 +217,9 @@
 
                             </p>
                             <a href="work.php">
-                            <span class="button">WORK WITH ME </span>
+                                <span class="button">WORK WITH ME </span>
                             </a>
-                            
+
                         </div>
                     </div>
 

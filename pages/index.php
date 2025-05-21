@@ -345,7 +345,7 @@
                         <div class="brain">
                             <p class="two"> “The caterpillar’s humble form doesn’t reveal the magnificence of the
                                 butterfly
-                                within—it’s a reminder that transformation is a process, not an instant change.”
+                                within it’s a reminder that transformation is a process, not an instant change.”
                             </p>
                             <p class="three" align-items-center> Servet Ege&nbsp;&nbsp;</p>
                             <p class="four"> Curious about how I can help you tap into your mind’s true power? Reach out
