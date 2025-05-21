@@ -28,7 +28,7 @@
                                 <img src="../assets/images/includes/pricingrtt1.png" alt="">
                             </div>
                             <div class="rttbutton">
-                                <a href="#" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
+                                <a href="https://buy.stripe.com/bJebJ0fC3aLRezr8ZDak000" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -36,7 +36,7 @@
                                 <img src="../assets/images/includes/pricingrtt2.png" alt="">
                             </div>
                             <div class="rttbutton">
-                                <a href="#" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
+                                <a href="https://buy.stripe.com/9B6eVc75x3jp0IB3Fjak001" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -44,7 +44,7 @@
                                 <img src="../assets/images/includes/pricingrtt3.png" alt="">
                             </div>
                             <div class="rttbutton">
-                                <a href="#" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
+                                <a href="https://buy.stripe.com/dRm3cu9dFf27ajbb7Lak002" class="btn  btn-primary w-100">BOOK NOW TO TRANSFORM YOUR LIFE</a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                                 <img src="../assets/images/includes/pricingbrain1.png" alt="">
                             </div>
                             <div class="brainbutton">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
+                                <a href="https://buy.stripe.com/6oU9ASfC3dY3fDv3Fjak003" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -73,7 +73,7 @@
                                 <img src="../assets/images/includes/pricingbrain2.png" alt="">
                             </div>
                             <div class="brainbutton">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
+                                <a href="https://buy.stripe.com/dRm6oG75x2fl8b38ZDak004" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -81,7 +81,7 @@
                                 <img src="../assets/images/includes/pricingbrain3.png" alt="">
                             </div>
                             <div class="brainbutton">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
+                                <a href="https://buy.stripe.com/bJe8wO0H96vB3UN3Fjak005" class="btn  btn-primary w-100"> BOOK NOW TO UNLOCK YOUR POTENTIAL</a>
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                                 <img src="../assets/images/includes/pricingfinance1.png" alt="">
                             </div>
                             <div class="financebutton">
-                                <a href="#" class="btn  btn-primary w-100 w-100">BOOK A FREE DISCOVERY CALL NOW TO LAUNCH YOUR BUSINESS</a>
+                                <a href="https://buy.stripe.com/bJe00i9dF4nt1MFejXak006" class="btn  btn-primary w-100 w-100">BOOK A FREE DISCOVERY CALL NOW TO LAUNCH YOUR BUSINESS</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -110,7 +110,7 @@
                                 <img src="../assets/images/includes/pricingfinance2.png" alt="">
                             </div>
                             <div class="financebutton">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
+                                <a href="https://buy.stripe.com/3cI9AS0H92fl62V4Jnak007" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -118,7 +118,7 @@
                                 <img src="../assets/images/includes/pricingfinance3.png" alt="">
                             </div>
                             <div class="financebutton">
-                                <a href="#" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
+                                <a href="https://buy.stripe.com/9B65kC2Ph8DJgHz4Jnak008" class="btn  btn-primary w-100"> BOOK A FREE DISCOVERY CALL NOW TO GROW YOUR BUSINESS </a>
                             </div>
                         </div>
                     </div>
