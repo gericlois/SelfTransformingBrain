@@ -16,11 +16,11 @@
     <div class="row">
       <div class="col-lg-9 col-md-9">
         <ul class="social-links">
-          <li><a href="https://www.whatsapp.com" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
-          <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
-          <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
-          <li><a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-          <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+          <li><a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
+          <li><a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+          <li><a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li>
         </ul>
       </div>
       <div class="col-lg-3 col-md-3">
