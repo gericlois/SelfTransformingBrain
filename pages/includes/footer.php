@@ -65,12 +65,13 @@
                 <p class="mb-1">Session Hours: MON – FRI <br>09.00 – 19.00 {1.5 – 2 hours}</p>
                 <hr>
                 <h5>FOLLOW US</h5>
-                <a href="#" class="text-white me-3"><i class="fab fa-facebook fa-lg"></i></a>
-                <a href="#" class="text-white me-3"><i class="fab fa-instagram fa-lg"></i></a>
-                <a href="#" class="text-white me-3"><i class="fab fa-linkedin fa-lg"></i></a>
-                <a href="#" class="text-white me-3"><i class="fab fa-youtube fa-lg"></i></a>
-                <a href="#" class="text-white me-3"><i class="fab fa-whatsapp fa-lg"></i></a>
+                <a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                <a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                <a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                <a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                <a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li>
             </div>
+            <div id='google_translate_element'> </div>
         </div>
 
         <hr>

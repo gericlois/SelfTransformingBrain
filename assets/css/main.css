@@ -492,8 +492,10 @@ Header Style
 
 .dropdown-item {
   padding: 1rem 1rem;
-  line-height: 19.5; /* Adjust this value as needed */
-  white-space: normal; /* Ensures text wraps properly */
+  line-height: 19.5;
+  /* Adjust this value as needed */
+  white-space: normal;
+  /* Ensures text wraps properly */
 }
 
 .dropdown-menu li {
@@ -1507,7 +1509,8 @@ Services_Brain Style
 
 .services_brain .brainleft img {
   display: block;
-  margin-left: auto; /* Pushes the image to the right */
+  margin-left: auto;
+  /* Pushes the image to the right */
   margin-right: 0;
   width: 85%;
   max-width: 100%;
@@ -1920,6 +1923,16 @@ footer p a {
   z-index: 3;
 }
 
+footer a i.fab {
+  color: white;
+}
+
+/* Optional: change color on hover for better interactivity */
+footer a i.fab:hover {
+  color: #ccc;
+  /* light gray on hover */
+}
+
 footer p a:hover {
   opacity: 0.75;
 }
@@ -2072,6 +2085,7 @@ About Me Style
   margin-right: 15%;
 
 }
+
 .my_journey .buttom p.one {
   font-size: 16px;
   line-height: 1.3;
@@ -2265,6 +2279,7 @@ Qualifications Style
   max-width: 100%;
   padding: 0px 0px 30px 0px;
 }
+
 .qualifications .left {
   display: flex;
   flex-direction: column;
@@ -2308,19 +2323,20 @@ Qualifications Style
 }
 
 .qualifications ul li::before {
-  content: "▶"; /* Unicode for a triangle bullet */
+  content: "▶";
+  /* Unicode for a triangle bullet */
   color: #c55911;
   font-size: 20px;
   position: absolute;
   left: -20px;
 }
 
-.qualifications ul.check  {
+.qualifications ul.check {
   list-style-type: disc;
   padding-left: 20px;
 }
 
-.qualifications ul.check  li {
+.qualifications ul.check li {
   font-size: 20px;
   margin-bottom: 10px;
   display: list-item;
@@ -2332,11 +2348,14 @@ Qualifications Style
 }
 
 .qualifications ul.check li::before {
-  content: "\2713"; /* Unicode for a right-facing triangle */
-  color: #c55911; /* Triangle color */
+  content: "\2713";
+  /* Unicode for a right-facing triangle */
+  color: #c55911;
+  /* Triangle color */
   position: absolute;
   left: -20px;
-  font-size: 24px; /* Adjust size */
+  font-size: 24px;
+  /* Adjust size */
 }
 
 .qualifications .member p.one {
@@ -2350,6 +2369,7 @@ Qualifications Style
   margin-top: 10px;
 
 }
+
 .qualifications .buttom h2.four {
   font-size: 25px;
   font-weight: 500;
@@ -2384,7 +2404,7 @@ Qualifications Style
   font-weight: 700;
   color: #F60017;
   font-size: 25px;
-  text-decoration: underline; 
+  text-decoration: underline;
 }
 
 
@@ -2525,7 +2545,7 @@ RTT Style
   padding: 0px 0px 100px 0px;
 }
 
-.rtt ul.check  li {
+.rtt ul.check li {
   font-size: 20px;
   margin-bottom: 10px;
   display: list-item;
@@ -2536,11 +2556,14 @@ RTT Style
 }
 
 .rtt ul.check li::before {
-  content: "\25C6"; /* Unicode for a black diamond */
-  color: #843c0b; /* Diamond color */
+  content: "\25C6";
+  /* Unicode for a black diamond */
+  color: #843c0b;
+  /* Diamond color */
   position: absolute;
   left: -30px;
-  font-size: 28px; /* Adjust size */
+  font-size: 28px;
+  /* Adjust size */
 }
 
 .rtt .list p.one {
@@ -2554,6 +2577,7 @@ RTT Style
   font-weight: 700;
   font-family: Calibri, sans-serif;
 }
+
 /* 
 ---------------------------------------------
 Scientific Style
@@ -2658,6 +2682,7 @@ How Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .how .header img {
   display: block;
   margin: 0 auto;
@@ -2822,6 +2847,7 @@ Empowerment Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .empowerment .header img {
   display: block;
   width: 75%;
@@ -2927,17 +2953,22 @@ Empowerment Style
 }
 
 .empowerment .video-container {
-  max-width: 1000px; /* Adjust width */
-  margin: 20px auto; /* Center the video */
-  overflow: hidden; /* Prevents video from overflowing rounded corners */
+  max-width: 1000px;
+  /* Adjust width */
+  margin: 20px auto;
+  /* Center the video */
+  overflow: hidden;
+  /* Prevents video from overflowing rounded corners */
   padding: 0px 0px 50px 0px;
 }
 
 .empowerment .video-container video {
-  width: 100%; /* Makes video responsive */
+  width: 100%;
+  /* Makes video responsive */
   height: auto;
   display: block;
-  border-radius: 15px; /* Ensures video follows container’s border */
+  border-radius: 15px;
+  /* Ensures video follows container’s border */
 }
 
 .empowerment p.four {
@@ -3005,6 +3036,7 @@ Mental Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .mental .header img {
   display: block;
   width: 75%;
@@ -3118,6 +3150,7 @@ Addiction Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .addiction .header img {
   display: block;
   width: 45%;
@@ -3259,6 +3292,7 @@ Weight Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .weight .header img {
   display: block;
   width: 70%;
@@ -3391,6 +3425,7 @@ Carreer Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .carreer .header img {
   display: block;
   width: 45%;
@@ -3456,6 +3491,7 @@ Carreer Style
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .carreer .highlighted-texttwo {
   color: #F60017;
   font-weight: 700;
@@ -3525,6 +3561,7 @@ Physical Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .physical .header img {
   display: block;
   width: 60%;
@@ -3590,6 +3627,7 @@ Physical Style
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .physical .highlighted-texttwo {
   color: #F60017;
   font-weight: bold;
@@ -3660,6 +3698,7 @@ Brain Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .brain .header img {
   display: block;
   width: 40%;
@@ -3761,8 +3800,7 @@ Brain Style
   font-weight: 400;
   color: #000000;
   border-radius: 8px;
-  padding: 0px 0px 0px 0
-  px;
+  padding: 0px 0px 0px 0 px;
   text-align: Justify;
   font-family: 'Aptos', normal;
   margin-right: 10%;
@@ -3896,6 +3934,7 @@ Finance Style
   padding: 60px 0px 100px 0px;
   text-align: center;
 }
+
 .finance .header img {
   display: block;
   width: 45%;
@@ -4343,7 +4382,7 @@ Work Style
   font-family: 'Lucida Calligraphy', normal;
 }
 
-.work .highlighted-text3{
+.work .highlighted-text3 {
   font-size: 25px;
   color: #ff0000;
   font-weight: bold;
@@ -4545,7 +4584,7 @@ Contact Style
   font-family: Calibri, sans-serif;
 }
 
-.contact .highlighted-text3{
+.contact .highlighted-text3 {
   font-size: 30px;
   color: #ff0000;
   font-weight: bold;
@@ -4711,7 +4750,7 @@ FAQS Style
   width: 60%;
   height: auto;
   max-width: 100%;
-  padding:40px 0px 40px 0px;
+  padding: 40px 0px 40px 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4805,14 +4844,14 @@ Speaking Style
   font-family: "Calibri", sans-serif;
 }
 
-.speaking .highlighted-text{
+.speaking .highlighted-text {
   font-size: 33px;
   color: #000000;
   font-weight: bold;
   font-family: "Calibri", sans-serif;
 }
 
-.speaking .highlighted-text1{
+.speaking .highlighted-text1 {
   font-size: 23px;
   color: #000000;
   font-weight: bold;
@@ -5042,12 +5081,12 @@ Privacy Style
 }
 
 .privacy strong {
-  font-weight: 700;  
+  font-weight: 700;
   font-size: 18px;
 }
 
 .privacy strong {
-  font-weight: 700;  
+  font-weight: 700;
   font-size: 18px;
 }
 
@@ -5104,12 +5143,12 @@ Terms Style
 }
 
 .terms strong {
-  font-weight: 700;  
+  font-weight: 700;
   font-size: 18px;
 }
 
 .terms strong {
-  font-weight: 700;  
+  font-weight: 700;
   font-size: 18px;
 }
 
