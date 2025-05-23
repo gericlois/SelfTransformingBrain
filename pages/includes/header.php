@@ -14,8 +14,7 @@
 <div class="sub-header">
   <div class="container">
     <div class="row">
-      <div class="col-lg-9 col-md-9"><div id='google_translate_element'> </div>
-        <ul class="social-links">
+      <div class="col-lg-9 col-md-9">
           <li><a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
           <li><a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
           <li><a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
