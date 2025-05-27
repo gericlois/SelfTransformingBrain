@@ -99,4 +99,78 @@
             this.style.display = "none";
         };
     </script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'es,fr,de,zh-CN,ar,tr',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+
+        // Check current language from cookie set by Google Translate
+        function getCurrentLanguage() {
+            const match = document.cookie.match(/googtrans=\/en\/([a-zA-Z\-]+)/);
+            if (match && match[1]) {
+                return match[1];
+            }
+            return 'en'; // default to English
+        }
+
+        function changeLanguage(lang) {
+            if (lang === 'en') {
+                // Reset translation cookie to English
+                document.cookie = 'googtrans=; path=/; domain=' + location.hostname + '; expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+                location.reload();
+            } else {
+                // Set translation cookie for the chosen language
+                document.cookie = 'googtrans=/en/' + lang + '; path=/; domain=' + location.hostname + ';';
+                location.reload();
+            }
+        }
+
+        function updateButton() {
+            const btn = document.getElementById('translate-toggle');
+            const currentLang = getCurrentLanguage();
+
+            if (currentLang === 'tr') {
+                btn.textContent = '🇬🇧 English';
+                btn.onclick = () => changeLanguage('en');
+            } else {
+                btn.textContent = '🇹🇷 Turkish';
+                btn.onclick = () => changeLanguage('tr');
+            }
+        }
+
+        // Run after Google Translate loads
+        window.onload = () => {
+            updateButton();
+        };
+    </script>
+
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+    <style>
+        .md-button {
+
+            display: inline-block;
+            padding: 5px 30px;
+            background-color: #F60017;
+            color: #ffffff;
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-radius: 25px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+            border: 1px solid #F60017;
+        }
+
+        .md-button:hover {
+            background-color: #3700b3;
+        }
+    </style>
+
 </footer>

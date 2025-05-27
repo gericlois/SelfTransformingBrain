@@ -255,6 +255,12 @@ body {
   background-color: #f5f5f5;
   font-family: "Calibri", sans-serif;
 }
+.col-lg-4.col-md-4 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; /* vertically center the button and link */
+  gap: 10px; /* optional spacing between button and link */
+}
 
 .emailer {
   padding: 0px 0px 50px 0px;

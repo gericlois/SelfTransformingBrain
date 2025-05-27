@@ -1,4 +1,5 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -24,9 +25,9 @@ try {
     $mail->Host       = 'smtp.gmail.com';
     $mail->SMTPAuth   = true;
     $mail->Username   = 'selftransformingbrain@gmail.com'; // Your Gmail
-    $mail->Password   = 'your-app-password';               // Use App Password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-    $mail->Port       = 587;
+    $mail->Password   = 'uvdz erei rtlk azhy';               // Use App Password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+    $mail->Port       = 465;
 
     // Sender & recipient
     $mail->setFrom('selftransformingbrain@gmail.com', 'Website Contact Form');

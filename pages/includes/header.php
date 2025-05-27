@@ -12,22 +12,22 @@
 <!-- ***** Preloader End ***** -->
 
 <div class="sub-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-9 col-md-9">
-          <li><a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
-          <li><a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
-          <li><a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-          <li><a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-md-3">
-        <a href="work.php" class="btn btn-primary">BOOK A FREE DISCOVERY CALL</a>
-      </div>
-    </div>
+  <div class="container" style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
+    <ul class="social-links" style="display: flex; gap: 5px; margin: 0; padding: 0; list-style: none;">
+      <li><a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
+      <li><a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+      <li><a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+    <a href="work.php" class="btn btn-primary">BOOK A FREE DISCOVERY CALL</a>
+    <button id="translate-toggle" class="md-button"></button>
+    <div id="google_translate_element" style="display:none;"></div>
   </div>
 </div>
+
+
+
 
 <!-- ***** Header Area Start ***** -->
 <header class="header-area header-sticky">
@@ -91,5 +91,6 @@
     </div>
   </div>
 </header>
+
 
 <!-- ***** Header Area End ***** -->
