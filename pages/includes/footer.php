@@ -59,7 +59,7 @@
             </div>
 
             <!-- Right Column - Social Media Links -->
-            <div class="row left col-md-4 text-left">
+   <div class="row left col-md-4 text-left" style="padding-left: 45px;">
                 <h5>WORK HOURS</h5>
                 <p class="mb-1">Free Discovery Calls: MON – FRI <br> 09.00 – 19.00 {30 minutes}</p>
                 <p class="mb-1">Session Hours: MON – FRI <br>09.00 – 19.00 {1.5 – 2 hours}</p>
@@ -78,7 +78,6 @@
                     <img src="../assets/images/includes/STBQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
                 </div>
             </div>
-            <div id='google_translate_element'> </div>
         </div>
 
         <hr>
