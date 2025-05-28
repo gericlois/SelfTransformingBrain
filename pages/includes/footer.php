@@ -32,7 +32,7 @@
                 <!-- EMAIL ME and FAQs Buttons with Image in Two Columns -->
                 <div class="row w-100 align-items-center mb-2">
                     <!-- Column 1: Buttons -->
-                    <div class="col-8 d-flex justify-content-start row">
+                    <div class="col-6 d-flex justify-content-start row">
                         <div>
                             <a href="contact.php" class="text-white me-3">
                                 <span class="button_contact">EMAIL ME</span>
@@ -46,7 +46,7 @@
                     </div>
 
                     <!-- Column 2: Image -->
-                    <div class="col-4 d-flex justify-content-end">
+                    <div class="col-6 d-flex justify-content-end">
                         <img src="../assets/images/includes/STBQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
                     </div>
                 </div>
@@ -59,12 +59,12 @@
             </div>
 
             <!-- Right Column - Social Media Links -->
-            <div class="row right col-md-4 text-left">
+            <div class="row left col-md-4 text-left">
                 <h5>WORK HOURS</h5>
-                <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {30 minutes}</p>
+                <p class="mb-1">Free Discovery Calls: MON – FRI <br> 09.00 – 19.00 {30 minutes}</p>
                 <p class="mb-1">Session Hours: MON – FRI <br>09.00 – 19.00 {1.5 – 2 hours}</p>
                 <hr>
-                <div class="col-7 d-flex justify-content-start row">
+                <div class="col-8 d-flex justify-content-start row">
                     <h5>FOLLOW US</h5>
                     <div>
                     <a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
@@ -74,7 +74,7 @@
                     <a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li></div>
                 </div>
 
-                <div class="col-5 d-flex justify-content-end">
+                <div class="col-4 d-flex justify-content-end">
                     <img src="../assets/images/includes/STBQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
                 </div>
             </div>
