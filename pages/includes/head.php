@@ -8,9 +8,9 @@
 
   <!-- Bootstrap core CSS -->
   <link href="https://self-transformingbrain.com/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  
+
   <!-- Favicon -->
-  <link rel="icon" href="https://self-transformingbrain.com/assets/images/logo.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://self-transformingbrain.com/assets/images/logo.ico?v=1" type="image/x-icon">
 
   <!-- Additional CSS Files -->
   <link rel="stylesheet" href="https://self-transformingbrain.com/assets/css/fontawesome.css">

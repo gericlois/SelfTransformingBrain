@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+<meta charset="UTF-8">
 <lang="en">
 
     <?php include "includes/head.php" ?>
-
     <?php include "includes/header.php" ?>
+<?php include "includes/connection.php" ?>
 
     <div class="main-banner">
 
