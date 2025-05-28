@@ -59,7 +59,7 @@
                         </p>
 
                         <p class="three">
-                            <span class="highlighted-text">I bring</span> a unique blend of neuroscience, transformational coaching, and real-world business expertise to every stage and platform. Whether you're hosting a large-scale event, an intimate workshop, or an engaging media feature, I tailor each experience to inspire, educate, and empower your audience.<br><br>
+                            I bring a unique blend of neuroscience, transformational coaching, and real-world business expertise to every stage and platform. Whether you're hosting a large-scale event, an intimate workshop, or an engaging media feature, I tailor each experience to inspire, educate, and empower your audience.<br><br>
 
                             In addition to my scientific and coaching background, I am also a channeler for an extraterrestrial being known as OKUSAWA FROM ORION a consciousness over 100,000 years old. Through this connection, I bring through multidimensional insights that expand awareness, elevate purpose, and support deep inner transformation. This unique integration of cosmic wisdom and grounded strategy allows me to guide individuals and teams toward extraordinary breakthroughs.<br><br>
 
