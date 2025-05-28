@@ -24,7 +24,7 @@
                         </p>
 
                         <p class="two">
-                            <span class="highlighted-text3">&#11162; Rapid Transformational Hypnotherapy (RTT).<br>
+                            <span class="highlighted-text3">&#11162; Rapid Transformational Hypnotherapy (RTT)<br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;"HEAL.TRANSFORM. THRIVE."</span><br>
                             <span class="highlighted-text1">&#11162; Brain & Self-Image Coaching <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp; "STEP INTO A NEW YOU"</span><br>

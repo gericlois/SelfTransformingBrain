@@ -81,8 +81,7 @@
                     <div class="flex items-start">
                         <div class="gradient-border rounded-xl p-6 pt-10 w-90 flex flex-col justify-between bg-black">
                             <div class="flex items-center mt-4">
-                                <img src="../assets/images/profile/servet.jpg" class="rounded-full mr-5" style="width: 250px; height: 150px; object-fit: cover;" />
-
+                                <img src="../assets/images/profile/serveta.jpg" class="rounded-full mr-5" style="width: 150px; height: 150px;" />
                             </div>
                             <h3 class="text-lg text-white mt-6">SERVET EGE</h3>
                             <p class="text-sky-400">RTT HYPNOTHERAPIST & THERAPIST & COACH</p>
