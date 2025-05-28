@@ -8,7 +8,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="icon" href="https://self-transformingbrain.com/assets/images/logo2.png" type="image/png">
+    <link rel="icon" href="https://self-transformingbrain.com/assets/images/logo2.png?v=1">
 
 
     <!-- Additional CSS Files -->
