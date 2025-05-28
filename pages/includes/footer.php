@@ -74,9 +74,6 @@
                     <a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li></div>
                 </div>
 
-                <div class="col-4 d-flex justify-content-end">
-                    <img src="../assets/images/includes/STBQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
-                </div>
             </div>
         </div>
 
