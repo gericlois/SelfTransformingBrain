@@ -59,18 +59,24 @@
             </div>
 
             <!-- Right Column - Social Media Links -->
-            <div class="right col-md-4 text-left">
+            <div class="row right col-md-4 text-left">
                 <h5>WORK HOURS</h5>
                 <p class="mb-1">Free Discovery Calls: MON – FRI 09.00 – 19.00 {30 minutes}</p>
                 <p class="mb-1">Session Hours: MON – FRI <br>09.00 – 19.00 {1.5 – 2 hours}</p>
                 <hr>
-                <h5>FOLLOW US</h5>
-                <a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
-                <a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
-                <a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
-                <a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                <a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                        <img src="../assets/images/includes/KCQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
+                <div class="col-7 d-flex justify-content-start row">
+                    <h5>FOLLOW US</h5>
+                    <div>
+                    <a href="https://wa.me/+447825138793" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                    <a href="https://www.facebook.com/profile.php?id=61572494923798" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                    <a href="https://www.youtube.com/@Self-TransformingBrain" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                    <a href="https://www.linkedin.com/in/self-transforming-brain-5b9304367/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                    <a href="https://www.instagram.com/selftransformingbrain/?next=%2F" target="_blank"><i class="fab fa-instagram"></i></a></li></div>
+                </div>
+
+                <div class="col-5 d-flex justify-content-end">
+                    <img src="../assets/images/includes/STBQRCode.png" alt="QR Code" style="width: 90px; height: 90px;">
+                </div>
             </div>
             <div id='google_translate_element'> </div>
         </div>
@@ -91,39 +97,39 @@
     </div>
 
     <script>
-document.addEventListener('DOMContentLoaded', function() {
-    const menuTrigger = document.querySelector('.menu-trigger');
-    const mainNav = document.querySelector('.main-nav'); // The <nav> element
+        document.addEventListener('DOMContentLoaded', function() {
+            const menuTrigger = document.querySelector('.menu-trigger');
+            const mainNav = document.querySelector('.main-nav'); // The <nav> element
 
-    if (menuTrigger && mainNav) {
-        menuTrigger.addEventListener('click', function(event) {
-            event.preventDefault(); // Prevent default action if it's an <a> tag
-            mainNav.classList.toggle('nav-open');
+            if (menuTrigger && mainNav) {
+                menuTrigger.addEventListener('click', function(event) {
+                    event.preventDefault(); // Prevent default action if it's an <a> tag
+                    mainNav.classList.toggle('nav-open');
 
-            // ARIA attribute for accessibility (optional but good practice)
-            const isExpanded = mainNav.classList.contains('nav-open');
-            this.setAttribute('aria-expanded', isExpanded.toString());
-        });
-    }
-
-    // Optional: Close mobile nav when a link inside it is clicked
-    // (especially useful for single-page navigation or if you want it to close after any click)
-    const navLinks = mainNav.querySelectorAll('ul.nav a:not(.dropdown-toggle)'); // Exclude dropdown toggles
-    navLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            if (mainNav.classList.contains('nav-open')) {
-                mainNav.classList.remove('nav-open');
-                menuTrigger.setAttribute('aria-expanded', 'false');
+                    // ARIA attribute for accessibility (optional but good practice)
+                    const isExpanded = mainNav.classList.contains('nav-open');
+                    this.setAttribute('aria-expanded', isExpanded.toString());
+                });
             }
-        });
-    });
 
-    // Ensure Bootstrap dropdowns still work within the mobile menu
-    // If they don't open correctly on mobile after these changes,
-    // you might need to re-initialize them or ensure Bootstrap's JS is loaded correctly.
-    // However, Bootstrap's data-bs-toggle="dropdown" should generally handle this.
-});
-</script>
+            // Optional: Close mobile nav when a link inside it is clicked
+            // (especially useful for single-page navigation or if you want it to close after any click)
+            const navLinks = mainNav.querySelectorAll('ul.nav a:not(.dropdown-toggle)'); // Exclude dropdown toggles
+            navLinks.forEach(link => {
+                link.addEventListener('click', () => {
+                    if (mainNav.classList.contains('nav-open')) {
+                        mainNav.classList.remove('nav-open');
+                        menuTrigger.setAttribute('aria-expanded', 'false');
+                    }
+                });
+            });
+
+            // Ensure Bootstrap dropdowns still work within the mobile menu
+            // If they don't open correctly on mobile after these changes,
+            // you might need to re-initialize them or ensure Bootstrap's JS is loaded correctly.
+            // However, Bootstrap's data-bs-toggle="dropdown" should generally handle this.
+        });
+    </script>
     <script>
         function enlargeImage(img) {
             document.getElementById("modalImage").src = img.src;
