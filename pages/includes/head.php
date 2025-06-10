@@ -14,7 +14,7 @@
 
   <!-- Additional CSS Files -->
   <link rel="stylesheet" href="https://self-transformingbrain.com/assets/css/fontawesome.css">
-  <link rel="stylesheet" href="https://self-transformingbrain.com/assets/css/main.css">
+  <link rel="stylesheet" href="../assets/css/main.css">
   <link rel="stylesheet" href="https://self-transformingbrain.com/assets/css/owl.css">
   <link rel="stylesheet" href="https://self-transformingbrain.com/assets/css/animate.css">
   <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />

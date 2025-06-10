@@ -2,8 +2,9 @@
 <meta charset="UTF-8">
 <html lang="en">
 
-    <?php include "includes/head.php" ?>
+<?php include "includes/head.php" ?>
 
+<body>
     <?php include "includes/header.php" ?>
 
     <div class="main-banner">
@@ -575,6 +576,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
 
-    </body>
+</body>
 
-    </html>
+</html>
